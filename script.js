@@ -23875,7 +23875,7 @@ for (var j = 8; j < 14; j++) {
 var trElement = document.getElementById("date");
 
 // Obtenir la date d'aujourd'hui
-var currentDate = new Date(2023, 5, 30);
+var currentDate = new Date(2023, 6, 7);
 
 // Boucle pour ajouter une cellule par jour jusqu'à une semaine plus tard
 for (var i = 0; i <= 6; i++) {
