@@ -23767,37 +23767,36 @@ function parseXML(xmlString) {
 const data = parseXML(xmlString);
 console.log(data);*/
 
-
 // Fonction pour extraire les données de chaque élément <schedule>
 function extractScheduleData(schedule) {
-    const date = schedule.querySelector('scheduledate').textContent;
-    const programTitle = schedule.querySelector('programmetitle').textContent;
-    const startTime = schedule.querySelector('schedulestarttime').textContent;
+  const date = schedule.querySelector("scheduledate").textContent;
+  const programTitle = schedule.querySelector("programmetitle").textContent;
+  const startTime = schedule.querySelector("schedulestarttime").textContent;
 
-    return { date, programTitle, startTime };
+  return { date, programTitle, startTime };
 }
 
 // Parse le contenu XML en un objet Document
 const parser = new DOMParser();
-const xmlDoc = parser.parseFromString(xmlData, 'application/xml');
+const xmlDoc = parser.parseFromString(xmlData, "application/xml");
 
 // Sélectionne tous les éléments <schedule>
-const scheduleElements = xmlDoc.querySelectorAll('schedule');
+const scheduleElements = xmlDoc.querySelectorAll("schedule");
 
 // Crée une array pour stocker les données de la première semaine
 const firstWeekData = [];
 
 // Parcourt tous les éléments <schedule>
 scheduleElements.forEach((schedule) => {
-    const date = schedule.querySelector('scheduledate').textContent;
+  const date = schedule.querySelector("scheduledate").textContent;
 
-    // Vérifie si la date appartient à la première semaine
-    if (date.startsWith('3006')) { // Remplacez '0107' par la date de début de la première semaine
-        const scheduleData = extractScheduleData(schedule);
-        firstWeekData.push(scheduleData);
-    }
+  // Vérifie si la date appartient à la première semaine
+  if (date.startsWith("0707")) {
+    // Remplacez '0107' par la date de début de la première semaine
+    const scheduleData = extractScheduleData(schedule);
+    firstWeekData.push(scheduleData);
+  }
 });
-
 
 // Tableau de personnes
 
@@ -23806,51 +23805,49 @@ var element = document.getElementById("test");
 
 // Parcourir le tableau de personnes
 for (var i = 0; i < firstWeekData.length; i++) {
-    // Créer la div avec la classe "event"
-    var eventDiv = document.createElement("div");
-    eventDiv.classList.add("event");
+  // Créer la div avec la classe "event"
+  var eventDiv = document.createElement("div");
+  eventDiv.classList.add("event");
 
-    // Créer la div avec la classe "identif" et ajouter l'identifiant
-    var identifDiv = document.createElement("div");
-    identifDiv.classList.add("time");
-    identifDiv.textContent = "" + firstWeekData[i].startTime;
+  // Créer la div avec la classe "identif" et ajouter l'identifiant
+  var identifDiv = document.createElement("div");
+  identifDiv.classList.add("time");
+  identifDiv.textContent = "" + firstWeekData[i].startTime;
 
-    // Créer la div avec la classe "name" et ajouter le nom
-    var nameDiv = document.createElement("div");
-    nameDiv.classList.add("name");
-    nameDiv.textContent = "" + firstWeekData[i].programTitle;
+  // Créer la div avec la classe "name" et ajouter le nom
+  var nameDiv = document.createElement("div");
+  nameDiv.classList.add("name");
+  nameDiv.textContent = "" + firstWeekData[i].programTitle;
 
-    // Ajouter les divs "identif" et "name" à la div "event"
-    eventDiv.appendChild(identifDiv);
-    eventDiv.appendChild(nameDiv);
+  // Ajouter les divs "identif" et "name" à la div "event"
+  eventDiv.appendChild(identifDiv);
+  eventDiv.appendChild(nameDiv);
 
-    // Ajouter la div "event" à l'élément avec l'ID "test"
-    element.appendChild(eventDiv);
+  // Ajouter la div "event" à l'élément avec l'ID "test"
+  element.appendChild(eventDiv);
 }
 
+for (var j = 8; j < 14; j++) {
+  // Crée une array pour stocker les données de la première semaine
+  const deuxWeekData = [];
 
+  // Parcourt tous les éléments <schedule>
+  scheduleElements.forEach((schedule) => {
+    const date = schedule.querySelector("scheduledate").textContent;
 
+    // Vérifie si la date appartient à la première semaine
+    if (date.startsWith(j < 10 ? "0" + j + "07" : j + "07")) {
+      // Remplacez '0107' par la date de début de la première semaine
+      const scheduleData = extractScheduleData(schedule);
+      deuxWeekData.push(scheduleData);
+    }
+  });
 
-for (var j = 1; j < 7; j++) {
-    // Crée une array pour stocker les données de la première semaine
-    const deuxWeekData = [];
+  // Récupérer l'élément avec l'ID "test"
+  var element = document.getElementById("test" + (j - 6));
 
-// Parcourt tous les éléments <schedule>
-    scheduleElements.forEach((schedule) => {
-        const date = schedule.querySelector('scheduledate').textContent;
-
-        // Vérifie si la date appartient à la première semaine
-        if (date.startsWith('0'+j+'07')) { // Remplacez '0107' par la date de début de la première semaine
-            const scheduleData = extractScheduleData(schedule);
-            deuxWeekData.push(scheduleData);
-        }
-    });
-
-// Récupérer l'élément avec l'ID "test"
-var element = document.getElementById("test"+(j+1));
-
-// Parcourir le tableau de personnes
-for (var i = 0; i < deuxWeekData.length; i++) {
+  // Parcourir le tableau de personnes
+  for (var i = 0; i < deuxWeekData.length; i++) {
     // Créer la div avec la classe "event"
     var eventDiv = document.createElement("div");
     eventDiv.classList.add("event");
@@ -23871,8 +23868,8 @@ for (var i = 0; i < deuxWeekData.length; i++) {
 
     // Ajouter la div "event" à l'élément avec l'ID "test"
     element.appendChild(eventDiv);
-}}
-
+  }
+}
 
 // Récupérer la référence de la ligne tr avec l'ID "date"
 var trElement = document.getElementById("date");
@@ -23882,31 +23879,42 @@ var currentDate = new Date(2023, 5, 30);
 
 // Boucle pour ajouter une cellule par jour jusqu'à une semaine plus tard
 for (var i = 0; i <= 6; i++) {
-    // Créer une nouvelle date en ajoutant le nombre de jours à la date actuelle
-    var date = new Date(currentDate.getTime() + i * 24 * 60 * 60 * 1000);
+  // Créer une nouvelle date en ajoutant le nombre de jours à la date actuelle
+  var date = new Date(currentDate.getTime() + i * 24 * 60 * 60 * 1000);
 
-    // Créer une cellule th pour afficher la date
-    var thElement = document.createElement("th");
+  // Créer une cellule th pour afficher la date
+  var thElement = document.createElement("th");
 
-    // Formater la date au format "dd mois yyyy"
-    var formattedDate = date.getDate() + " " + getMonthName(date.getMonth()) + " " + date.getFullYear();
+  // Formater la date au format "dd mois yyyy"
+  var formattedDate =
+    date.getDate() +
+    " " +
+    getMonthName(date.getMonth()) +
+    " " +
+    date.getFullYear();
 
-    // Ajouter la date à la cellule th
-    thElement.textContent = formattedDate;
+  // Ajouter la date à la cellule th
+  thElement.textContent = formattedDate;
 
-    // Ajouter la cellule th à la ligne tr
-    trElement.appendChild(thElement);
+  // Ajouter la cellule th à la ligne tr
+  trElement.appendChild(thElement);
 }
 
 // Fonction pour obtenir le nom du mois à partir de son index
 function getMonthName(monthIndex) {
-    var monthNames = [
-        "January", "February", "March", "April", "May", "June",
-        "July", "August", "September", "October", "November", "December"
-    ];
-    return monthNames[monthIndex];
+  var monthNames = [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December",
+  ];
+  return monthNames[monthIndex];
 }
-
-
-
-
