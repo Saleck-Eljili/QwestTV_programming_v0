@@ -23924,7 +23924,7 @@ qwestTVGuideElement.textContent =
   " to " +
   getMonthName(currentDate.getMonth()) +
   " " +
-  (currentDate.getDate() + 7);
+  (currentDate.getDate() + 6);
 
 // Fonction pour obtenir le nom du mois à partir de son index
 function getMonthName(monthIndex) {
