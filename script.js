@@ -50,10 +50,12 @@ async function fetchData() {
 // Appelez la fonction pour récupérer les données de l'API
 fetchData();*/
 
+let xmlString; // Déclaration de la variable en tant que variable globale
+
 fetch("EPG.xml")
   .then((response) => response.text())
   .then((data) => {
-    const xmlString = data; // Stocke le contenu XML dans une variable
+    xmlString = data; // Stocke le contenu XML dans une variable
     //console.log(xmlString); // Affiche le contenu XML
   })
   .catch((error) => {
