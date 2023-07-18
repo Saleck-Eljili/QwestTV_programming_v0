@@ -50,6 +50,16 @@ async function fetchData() {
 // Appelez la fonction pour récupérer les données de l'API
 fetchData();*/
 
+fetch("EPG.xml")
+  .then((response) => response.text())
+  .then((data) => {
+    const xmlString = data; // Stocke le contenu XML dans une variable
+    console.log(xmlString); // Affiche le contenu XML
+  })
+  .catch((error) => {
+    console.log("Une erreur s'est produite :", error);
+  });
+
 const xmlData = `
 <root>
   <schedule>
