@@ -23750,6 +23750,25371 @@ const xmlData = `
     <country/>
     <language>English</language>
   </schedule>
+  
+  <schedule>
+    <programmetitle>Children of the Light</programmetitle>
+    <programmenumber>50</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Danilo Perez</castname>
+    <scheduledate>01082023</scheduledate>
+    <schedulestarttime>08:00</schedulestarttime>
+    <scheduleendtime>08:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Danilo Pérez, John Patitucci and Brian Blade bring back the art of the trio at the Jazz à Junas festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hindi Zahra &amp; Fatoumata Diawara</programmetitle>
+    <programmenumber>740</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Fatoumata Diawara</castname>
+    <scheduledate>01082023</scheduledate>
+    <schedulestarttime>08:01</schedulestarttime>
+    <scheduleendtime>09:07</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The duo mix Bambara with Amazigh &amp; English, folk with jazz, soul with blues &amp; reggae at Banlieues Bleues fest.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bilal - Live at Moods</programmetitle>
+    <programmenumber>1587</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname>Bilal</castname>
+    <scheduledate>01082023</scheduledate>
+    <schedulestarttime>09:07</schedulestarttime>
+    <scheduleendtime>09:13</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bilal starts his set with "Sirens II," a haunting theme that stands at the crossroads between rock and RnB.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Specials - Live in 1979</programmetitle>
+    <programmenumber>714</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Terry Hall</castname>
+    <scheduledate>01082023</scheduledate>
+    <schedulestarttime>09:13</schedulestarttime>
+    <scheduleendtime>09:15</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>All their hits are there with punk beats, rock riffs, flamboyant brass, reggae pulse and leaping musicians</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Liz McComb - Olympia, Paris</programmetitle>
+    <programmenumber>228</programmenumber>
+    <yearofrelease>1998</yearofrelease>
+    <directorname/>
+    <castname>Liz McComb</castname>
+    <scheduledate>01082023</scheduledate>
+    <schedulestarttime>09:15</schedulestarttime>
+    <scheduleendtime>09:27</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Between gospel and soul, singer and pianist Liz McComb is joined by three fine-tuned musicians in Paris, 1998.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Mohamed Abozekry - Live at Moods</programmetitle>
+    <programmenumber>1154</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>01082023</scheduledate>
+    <schedulestarttime>09:27</schedulestarttime>
+    <scheduleendtime>09:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mohamed Abozekry alongside Lofty Abaza, Hany Bedair, Wassim Halal, and Mohammed Farag for this 2017 concert.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>01082023</scheduledate>
+    <schedulestarttime>09:34</schedulestarttime>
+    <scheduleendtime>09:41</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>01082023</scheduledate>
+    <schedulestarttime>09:41</schedulestarttime>
+    <scheduleendtime>09:58</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ala.ni - Live in Paris</programmetitle>
+    <programmenumber>982</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>01082023</scheduledate>
+    <schedulestarttime>09:58</schedulestarttime>
+    <scheduleendtime>10:45</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Jazz singer Ala.ni takes to the stage of the Grande Halle de la Villette, in Paris with an original setup.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Maceo Parker &amp; Roots Revisited</programmetitle>
+    <programmenumber>199</programmenumber>
+    <yearofrelease>1991</yearofrelease>
+    <directorname/>
+    <castname>Maceo Parker</castname>
+    <scheduledate>01082023</scheduledate>
+    <schedulestarttime>10:45</schedulestarttime>
+    <scheduleendtime>11:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>James Brown alumni Maceo Parker, Fred Wesley and Pee Wee Ellis stir up funky jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Lucía De Carvalho - Live in France</programmetitle>
+    <programmenumber>2600</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>01082023</scheduledate>
+    <schedulestarttime>11:54</schedulestarttime>
+    <scheduleendtime>12:56</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>At Nancy Jazz Pulsations Fest, the Angolan singer performs tracks from her latest album, the brilliant Pwanga.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Tigran Hamasyan - Live in Norway</programmetitle>
+    <programmenumber>125</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Tigran Hamasyan</castname>
+    <scheduledate>01082023</scheduledate>
+    <schedulestarttime>12:56</schedulestarttime>
+    <scheduleendtime>14:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Pianist Hamasyan and samplerist Jan Bang combine eastern accents and electronic riffs at Punkt Festival 2013.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Aretha Franklin - Live in Paris</programmetitle>
+    <programmenumber>204</programmenumber>
+    <yearofrelease>1977</yearofrelease>
+    <directorname/>
+    <castname>Aretha Franklin</castname>
+    <scheduledate>01082023</scheduledate>
+    <schedulestarttime>14:01</schedulestarttime>
+    <scheduleendtime>15:10</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Aretha Franklin sets the Paris Palais des Sports on fire in 1977.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ernest Ranglin &amp; Friends</programmetitle>
+    <programmenumber>2609</programmenumber>
+    <yearofrelease>2016</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>01082023</scheduledate>
+    <schedulestarttime>15:10</schedulestarttime>
+    <scheduleendtime>16:28</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Ernest Ranglin invited Tony Allen, Courtney Pine, Cheikh Lô and Ira Coleman on stage for an eclectic show!</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bassekou Kouyaté &amp; Ngoni Ba</programmetitle>
+    <programmenumber>1585</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>01082023</scheduledate>
+    <schedulestarttime>16:28</schedulestarttime>
+    <scheduleendtime>16:33</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Seeing Bassekou Kouyaté live at Moods with his Ngoni makes it hard to resist his magical vibes. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Pat Martino - Lotos Jazz Festival</programmetitle>
+    <programmenumber>562</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Pat Martino</castname>
+    <scheduledate>01082023</scheduledate>
+    <schedulestarttime>16:33</schedulestarttime>
+    <scheduleendtime>16:55</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Miracle guitarist Pat Martino delivers soft-toned grooves with his trio (Carmen Intorre and Pat Bianchi).</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>01082023</scheduledate>
+    <schedulestarttime>16:55</schedulestarttime>
+    <scheduleendtime>17:44</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Diana Ross &amp; The Supremes</programmetitle>
+    <programmenumber>1484</programmenumber>
+    <yearofrelease>1968</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>01082023</scheduledate>
+    <schedulestarttime>17:44</schedulestarttime>
+    <scheduleendtime>18:13</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1> In 1968, Diana Ross gives an eye-catching performance in the royal presence of the Supremes.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Gasandji - Live at Moods</programmetitle>
+    <programmenumber>1166</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>01082023</scheduledate>
+    <schedulestarttime>18:13</schedulestarttime>
+    <scheduleendtime>20:37</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Gasandji, a native of the Republic of Congo, takes us into a unique world with her stories and music. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>01082023</scheduledate>
+    <schedulestarttime>20:37</schedulestarttime>
+    <scheduleendtime>20:43</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Zandile Mzazi - South Africa</programmetitle>
+    <programmenumber>2420</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname>Zandile Mzazi</castname>
+    <scheduledate>01082023</scheduledate>
+    <schedulestarttime>20:43</schedulestarttime>
+    <scheduleendtime>20:50</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>A concert tribute to Sibongile Khumalo, South Africa’s former First Lady of Song and great influence to Mzazi.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>01082023</scheduledate>
+    <schedulestarttime>20:50</schedulestarttime>
+    <scheduleendtime>21:00</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Marko Marković Brass Band - Live</programmetitle>
+    <programmenumber>1175</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Marko Markovic</castname>
+    <scheduledate>01082023</scheduledate>
+    <schedulestarttime>21:00</schedulestarttime>
+    <scheduleendtime>22:49</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1> His great-grandfather used to play for the king of Serbia. Here the Marko Marković Brass Band plays at Moods.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Modern Jazz Quartet - Live</programmetitle>
+    <programmenumber>239</programmenumber>
+    <yearofrelease>1963</yearofrelease>
+    <directorname/>
+    <castname>Modern Jazz Quartet</castname>
+    <scheduledate>01082023</scheduledate>
+    <schedulestarttime>22:49</schedulestarttime>
+    <scheduleendtime>23:19</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>1962 recording of the quartet composed by John Lewis, Milt Jackson, Percy Heath and Connie Kay.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Chlorine Free ft Soweto Kinch &amp; Nya</programmetitle>
+    <programmenumber>618</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>01082023</scheduledate>
+    <schedulestarttime>23:19</schedulestarttime>
+    <scheduleendtime>00:26</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Chlorine Free presents their relaxed groove onstage at Like A Jazz Machine in Luxembourg.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Spanish Harlem Orchestra</programmetitle>
+    <programmenumber>1155</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>00:26</schedulestarttime>
+    <scheduleendtime>02:09</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Led by salsa giant Oscar Hernandez, this band has not finished spreading salsa and good vibes around the world</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Chuck Berry - RTBF Archives 1965</programmetitle>
+    <programmenumber>707</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Chuck Berry</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>02:09</schedulestarttime>
+    <scheduleendtime>02:43</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Berry's natural energy is enough to break through all formalities, getting rid of any stuffiness.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Charles Tolliver - Live</programmetitle>
+    <programmenumber>261</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Charles Tolliver</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>02:43</schedulestarttime>
+    <scheduleendtime>03:44</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Live at the Banlieue Blues Festival, Strata-East record label's co-founder plays with his quintet.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Electric Mamba</programmetitle>
+    <programmenumber>2573</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>03:44</schedulestarttime>
+    <scheduleendtime>04:52</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The France-based afrobeat group led by Central African singer Idylle Mamba performs in Lyon.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Anderson .Paak - Live</programmetitle>
+    <programmenumber>32</programmenumber>
+    <yearofrelease>2016</yearofrelease>
+    <directorname/>
+    <castname>Anderson .Paak</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>04:52</schedulestarttime>
+    <scheduleendtime>04:55</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The most soulful of California rappers onstage at one of the major French festivals of the summer of 2016.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>BB King - JazzOpen Stuttgart</programmetitle>
+    <programmenumber>207</programmenumber>
+    <yearofrelease>1997</yearofrelease>
+    <directorname/>
+    <castname>BB King</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>04:55</schedulestarttime>
+    <scheduleendtime>05:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>King displays here all his musical gifts, singing with soul and wit and expertly leading his crack band.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Earl Hines &amp; His All Stars – RTBF</programmetitle>
+    <programmenumber>716</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Earl Hines</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>05:01</schedulestarttime>
+    <scheduleendtime>05:05</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>05:05</schedulestarttime>
+    <scheduleendtime>05:18</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Morcheeba - Live at Jazz à Vienne</programmetitle>
+    <programmenumber>643</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>05:18</schedulestarttime>
+    <scheduleendtime>05:23</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The group’s DNA is found in Edward’s voice and her natural vocal sensibility, and she knows it.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Inner Circle - RTBF Archives 1979</programmetitle>
+    <programmenumber>709</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Jacob Miller</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>05:23</schedulestarttime>
+    <scheduleendtime>05:30</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Formed in Kingston in the 70s, Inner Circle here demonstrates a remarkable tightness and energy.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>05:30</schedulestarttime>
+    <scheduleendtime>05:37</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Chuck Berry - RTBF Archives 1965</programmetitle>
+    <programmenumber>707</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Chuck Berry</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>05:37</schedulestarttime>
+    <scheduleendtime>05:42</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Berry's natural energy is enough to break through all formalities, getting rid of any stuffiness.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Antibalas - Live at Moods</programmetitle>
+    <programmenumber>1200</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>05:42</schedulestarttime>
+    <scheduleendtime>05:53</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Antibalas gives us afrobeat and mix in modern funk, the avant-garde, dub and electronic influences.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Specials - Live in 1979</programmetitle>
+    <programmenumber>714</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Terry Hall</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>05:53</schedulestarttime>
+    <scheduleendtime>05:57</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>All their hits are there with punk beats, rock riffs, flamboyant brass, reggae pulse and leaping musicians</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sharon Jones and the Dap-Kings</programmetitle>
+    <programmenumber>111</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Sharon Jones</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>05:57</schedulestarttime>
+    <scheduleendtime>06:00</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Soul, funk, R&amp;B and some infectious dance lessons are delivered by this great figure of Afro-American music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Specials - Live in 1979</programmetitle>
+    <programmenumber>714</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Terry Hall</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>06:00</schedulestarttime>
+    <scheduleendtime>06:05</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>All their hits are there with punk beats, rock riffs, flamboyant brass, reggae pulse and leaping musicians</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bassekou Kouyaté &amp; Ngoni Ba</programmetitle>
+    <programmenumber>1585</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>06:05</schedulestarttime>
+    <scheduleendtime>06:21</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Seeing Bassekou Kouyaté live at Moods with his Ngoni makes it hard to resist his magical vibes. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>06:21</schedulestarttime>
+    <scheduleendtime>06:24</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Dionne Warwick - RTBF Archives 1964</programmetitle>
+    <programmenumber>61</programmenumber>
+    <yearofrelease>1964</yearofrelease>
+    <directorname/>
+    <castname>Dionne Warwick</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>06:24</schedulestarttime>
+    <scheduleendtime>06:26</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>An exemplar of both pop and R&amp;B, Warwick had an incredibly soulful sound that endeared her to music lovers.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Aretha Franklin - Live in Paris</programmetitle>
+    <programmenumber>204</programmenumber>
+    <yearofrelease>1977</yearofrelease>
+    <directorname/>
+    <castname>Aretha Franklin</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>06:26</schedulestarttime>
+    <scheduleendtime>06:31</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Aretha Franklin sets the Paris Palais des Sports on fire in 1977.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hypnotic Brass Ensemble - Live</programmetitle>
+    <programmenumber>534</programmenumber>
+    <yearofrelease>2012</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>06:31</schedulestarttime>
+    <scheduleendtime>06:37</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>How often do you see eight brothers rocking together on stage, all weilding different golden instruments? </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Girma Bèyènè &amp; Akalé Wubé</programmetitle>
+    <programmenumber>1160</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>06:37</schedulestarttime>
+    <scheduleendtime>06:46</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Ethiopian legend Girma Bèyènè's Amharic lyrics are enhanced by French collective Akalé Wubé at Moods.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bassekou Kouyaté &amp; Ngoni Ba</programmetitle>
+    <programmenumber>1585</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>06:46</schedulestarttime>
+    <scheduleendtime>06:53</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Seeing Bassekou Kouyaté live at Moods with his Ngoni makes it hard to resist his magical vibes. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Alcina - Handel</programmetitle>
+    <programmenumber>2412</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>06:53</schedulestarttime>
+    <scheduleendtime>07:15</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Opéra de Lausanne's production of the baroque opera seria - a visual and musical masterpiece.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jason Moran "Bandwagon" - Live</programmetitle>
+    <programmenumber>74</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Jason Moran, Tarus Mateen</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>07:15</schedulestarttime>
+    <scheduleendtime>08:00</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Major American jazz figure, Jason Moran and his trio find a perfect balance between classicism and modernity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Gina Jeanz from Constitution Hill</programmetitle>
+    <programmenumber>2407</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>Gina Jeanz</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>08:00</schedulestarttime>
+    <scheduleendtime>08:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Gina Jeanz celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Orchestre Poly-Rythmo de Cotonou</programmetitle>
+    <programmenumber>1187</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>08:54</schedulestarttime>
+    <scheduleendtime>09:08</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Formed after the independence of Benin, this band with more than 500 records to their credit is like no other.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bombino - Live at Moods</programmetitle>
+    <programmenumber>1189</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Bombino</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>09:08</schedulestarttime>
+    <scheduleendtime>09:17</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bombino sings about the identity politics and culture of the Tuareg people of Niger with sensitivity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Brian Auger's Oblivion Express</programmetitle>
+    <programmenumber>705</programmenumber>
+    <yearofrelease>1972</yearofrelease>
+    <directorname/>
+    <castname>Brian Auger</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>09:17</schedulestarttime>
+    <scheduleendtime>09:25</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The keyboardist Brian Auger shows all his talent for groove and virtuoso solos on the Fender Rhodes.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Specials - Live in 1979</programmetitle>
+    <programmenumber>714</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Terry Hall</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>09:25</schedulestarttime>
+    <scheduleendtime>09:29</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>All their hits are there with punk beats, rock riffs, flamboyant brass, reggae pulse and leaping musicians</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Pat Martino - Lotos Jazz Festival</programmetitle>
+    <programmenumber>562</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Pat Martino</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>09:29</schedulestarttime>
+    <scheduleendtime>09:39</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Miracle guitarist Pat Martino delivers soft-toned grooves with his trio (Carmen Intorre and Pat Bianchi).</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sharon Jones and the Dap-Kings</programmetitle>
+    <programmenumber>111</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Sharon Jones</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>09:39</schedulestarttime>
+    <scheduleendtime>09:45</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Soul, funk, R&amp;B and some infectious dance lessons are delivered by this great figure of Afro-American music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Melingo w/ Juliette &amp; V. Capossela</programmetitle>
+    <programmenumber>548</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Daniel Melingo</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>09:45</schedulestarttime>
+    <scheduleendtime>09:49</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Welcome to Melingo's surrealist cabaret, which tells the poetry of the shallows, of love &amp; vagabond pathways. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>09:49</schedulestarttime>
+    <scheduleendtime>10:00</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Gasandji - Live at Moods</programmetitle>
+    <programmenumber>1166</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>10:00</schedulestarttime>
+    <scheduleendtime>12:25</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Gasandji, a native of the Republic of Congo, takes us into a unique world with her stories and music. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ray Charles and His Orchestra</programmetitle>
+    <programmenumber>1486</programmenumber>
+    <yearofrelease>1968</yearofrelease>
+    <directorname/>
+    <castname>Ray Charles</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>12:25</schedulestarttime>
+    <scheduleendtime>13:11</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Ray Charles redoubles his energy with the vocal quartet The Raelets, Billy Preston and his formidable band.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>W. Marsalis: Blood On The Fields</programmetitle>
+    <programmenumber>2552</programmenumber>
+    <yearofrelease>1996</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>13:11</schedulestarttime>
+    <scheduleendtime>14:17</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 1995, Marsalis rehearses what later on became the first jazz epic oratorio awarded with The Pulitzer Prize.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Coulondre Trio - Michel On My Mind</programmetitle>
+    <programmenumber>1922</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname>Laurent Coulondre</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>14:17</schedulestarttime>
+    <scheduleendtime>15:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>French pianist Laurent Coulondre's album Michel On My Mind commemorates the anniversary of Petrucciani's death</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Maceo Parker &amp; Roots Revisited</programmetitle>
+    <programmenumber>199</programmenumber>
+    <yearofrelease>1991</yearofrelease>
+    <directorname/>
+    <castname>Maceo Parker</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>15:34</schedulestarttime>
+    <scheduleendtime>16:43</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>James Brown alumni Maceo Parker, Fred Wesley and Pee Wee Ellis stir up funky jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bassekou Kouyaté &amp; Ngoni Ba</programmetitle>
+    <programmenumber>1585</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>16:43</schedulestarttime>
+    <scheduleendtime>16:49</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Seeing Bassekou Kouyaté live at Moods with his Ngoni makes it hard to resist his magical vibes. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Pat Martino - Lotos Jazz Festival</programmetitle>
+    <programmenumber>562</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Pat Martino</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>16:49</schedulestarttime>
+    <scheduleendtime>16:59</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Miracle guitarist Pat Martino delivers soft-toned grooves with his trio (Carmen Intorre and Pat Bianchi).</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle> Art Blakey &amp; The Jazz Messengers</programmetitle>
+    <programmenumber>1449</programmenumber>
+    <yearofrelease>1963</yearofrelease>
+    <directorname/>
+    <castname>Art Blakey</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>16:59</schedulestarttime>
+    <scheduleendtime>17:31</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The musicians who take part in this concert form one of the best formulas that the Jazz Messengers ever knew.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Richie Havens - Live at Montreux</programmetitle>
+    <programmenumber>712</programmenumber>
+    <yearofrelease>1972</yearofrelease>
+    <directorname/>
+    <castname>Richie Havens</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>17:31</schedulestarttime>
+    <scheduleendtime>18:18</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Recorded in 1972, the African-American singer Richie Havens sends a moving message of love and fraternity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Les Amazones d'Afrique</programmetitle>
+    <programmenumber>737</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>18:18</schedulestarttime>
+    <scheduleendtime>19:19</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Les Amazones d’Afrique brings Malian women together around issues such as equality and freedom. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>BCUC - Live at Moods</programmetitle>
+    <programmenumber>1180</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>19:19</schedulestarttime>
+    <scheduleendtime>19:23</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Originally from Soweto, BCUC's Afro-psychedelic trance hypnotises us with reworked traditional sounds. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Brian Auger's Oblivion Express</programmetitle>
+    <programmenumber>705</programmenumber>
+    <yearofrelease>1972</yearofrelease>
+    <directorname/>
+    <castname>Brian Auger</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>19:23</schedulestarttime>
+    <scheduleendtime>19:33</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The keyboardist Brian Auger shows all his talent for groove and virtuoso solos on the Fender Rhodes.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sly &amp; Robbie meet Molvær &amp; Aarset</programmetitle>
+    <programmenumber>1193</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Lowell 'Sly' Dunbar, Robbie Shakespeare, Nils Petter Molvaer, Eivind Aarset</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>19:33</schedulestarttime>
+    <scheduleendtime>19:40</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The book of life opens onto a dreamlike country where Norwegian Nu jazz transcends the riddims of Jamaica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Melingo w/ Juliette &amp; V. Capossela</programmetitle>
+    <programmenumber>548</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Daniel Melingo</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>19:40</schedulestarttime>
+    <scheduleendtime>19:45</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Welcome to Melingo's surrealist cabaret, which tells the poetry of the shallows, of love &amp; vagabond pathways. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Dhafer Youssef - Jazz à Vienne 2018</programmetitle>
+    <programmenumber>634</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Dhafer Youssef</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>19:45</schedulestarttime>
+    <scheduleendtime>19:56</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Dhafer Youssef is joined by Matt Brewer, Aron Parks and Ferenc Nemeth in a colourful and virtuosic concert. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Chris Potter - Circuits - Vaulx</programmetitle>
+    <programmenumber>660</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname>Chris Potter</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>19:56</schedulestarttime>
+    <scheduleendtime>20:11</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>To promote his latest album, Circuits, Chris Potter called on Craig Taborn, Tim Lefebvre, and Justin Brown.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Morcheeba - Live at Jazz à Vienne</programmetitle>
+    <programmenumber>643</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>20:11</schedulestarttime>
+    <scheduleendtime>20:17</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The group’s DNA is found in Edward’s voice and her natural vocal sensibility, and she knows it.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bassekou Kouyaté &amp; Ngoni Ba</programmetitle>
+    <programmenumber>1585</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>20:17</schedulestarttime>
+    <scheduleendtime>20:25</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Seeing Bassekou Kouyaté live at Moods with his Ngoni makes it hard to resist his magical vibes. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Richie Havens - Live at Montreux</programmetitle>
+    <programmenumber>712</programmenumber>
+    <yearofrelease>1972</yearofrelease>
+    <directorname/>
+    <castname>Richie Havens</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>20:25</schedulestarttime>
+    <scheduleendtime>20:32</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Recorded in 1972, the African-American singer Richie Havens sends a moving message of love and fraternity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Vincent Peirani "Living Being"</programmetitle>
+    <programmenumber>652</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Vincent Peirani</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>20:32</schedulestarttime>
+    <scheduleendtime>20:38</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>From Led Zeppelin to Purcell covers, this quintet is a real chamber rock music orchestra. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Anderson .Paak - Live</programmetitle>
+    <programmenumber>32</programmenumber>
+    <yearofrelease>2016</yearofrelease>
+    <directorname/>
+    <castname>Anderson .Paak</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>20:38</schedulestarttime>
+    <scheduleendtime>20:41</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The most soulful of California rappers onstage at one of the major French festivals of the summer of 2016.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>BB King - JazzOpen Stuttgart</programmetitle>
+    <programmenumber>207</programmenumber>
+    <yearofrelease>1997</yearofrelease>
+    <directorname/>
+    <castname>BB King</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>20:41</schedulestarttime>
+    <scheduleendtime>20:49</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>King displays here all his musical gifts, singing with soul and wit and expertly leading his crack band.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bakolo Music International</programmetitle>
+    <programmenumber>1908</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Papa Bikunda</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>20:49</schedulestarttime>
+    <scheduleendtime>20:56</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bakolo Music International performing at Africolor Fetsival is a monument of Congolese rumba.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Anderson .Paak - Live</programmetitle>
+    <programmenumber>32</programmenumber>
+    <yearofrelease>2016</yearofrelease>
+    <directorname/>
+    <castname>Anderson .Paak</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>20:56</schedulestarttime>
+    <scheduleendtime>21:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The most soulful of California rappers onstage at one of the major French festivals of the summer of 2016.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ernest Ranglin &amp; Friends</programmetitle>
+    <programmenumber>2609</programmenumber>
+    <yearofrelease>2016</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>21:01</schedulestarttime>
+    <scheduleendtime>22:19</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Ernest Ranglin invited Tony Allen, Courtney Pine, Cheikh Lô and Ira Coleman on stage for an eclectic show!</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Charles Mingus &amp; Eric Dolphy - RTBF</programmetitle>
+    <programmenumber>255</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Charles Mingus, Eric Dolphy</castname>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>22:19</schedulestarttime>
+    <scheduleendtime>22:58</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Together, Mingus and Dolphy symbolize the 60s' climax, where swing and free jazz meet at a tipping point.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Comet is Coming</programmetitle>
+    <programmenumber>2605</programmenumber>
+    <yearofrelease>2012</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>02082023</scheduledate>
+    <schedulestarttime>22:58</schedulestarttime>
+    <scheduleendtime>00:05</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The trio combines Sun Ra's mythological and experimental themes in a fusion of jazz, afrobeat and electronica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>UB40 - RTBF Archives 1980</programmetitle>
+    <programmenumber>715</programmenumber>
+    <yearofrelease>1980</yearofrelease>
+    <directorname/>
+    <castname>Ali Campbell</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>00:05</schedulestarttime>
+    <scheduleendtime>00:22</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 1980, UB40 is not yet the huge machine they would become, but their fresh reggae still oozes charisma. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Lucía De Carvalho - Live in France</programmetitle>
+    <programmenumber>2600</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>00:22</schedulestarttime>
+    <scheduleendtime>01:23</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>At Nancy Jazz Pulsations Fest, the Angolan singer performs tracks from her latest album, the brilliant Pwanga.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Specials - Live in 1979</programmetitle>
+    <programmenumber>714</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Terry Hall</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>01:23</schedulestarttime>
+    <scheduleendtime>01:42</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>All their hits are there with punk beats, rock riffs, flamboyant brass, reggae pulse and leaping musicians</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Les Amazones d'Afrique</programmetitle>
+    <programmenumber>737</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>01:42</schedulestarttime>
+    <scheduleendtime>02:45</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Les Amazones d’Afrique brings Malian women together around issues such as equality and freedom. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Comet is Coming</programmetitle>
+    <programmenumber>2605</programmenumber>
+    <yearofrelease>2012</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>02:45</schedulestarttime>
+    <scheduleendtime>03:51</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The trio combines Sun Ra's mythological and experimental themes in a fusion of jazz, afrobeat and electronica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>03:51</schedulestarttime>
+    <scheduleendtime>04:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Chuck Berry - RTBF Archives 1965</programmetitle>
+    <programmenumber>707</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Chuck Berry</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>04:01</schedulestarttime>
+    <scheduleendtime>04:08</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Berry's natural energy is enough to break through all formalities, getting rid of any stuffiness.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Pat Martino - Lotos Jazz Festival</programmetitle>
+    <programmenumber>562</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Pat Martino</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>04:08</schedulestarttime>
+    <scheduleendtime>04:16</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Miracle guitarist Pat Martino delivers soft-toned grooves with his trio (Carmen Intorre and Pat Bianchi).</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Vincent Peirani "Living Being"</programmetitle>
+    <programmenumber>652</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Vincent Peirani</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>04:16</schedulestarttime>
+    <scheduleendtime>04:22</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>From Led Zeppelin to Purcell covers, this quintet is a real chamber rock music orchestra. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>R. Galliano &amp; Polish Orchestra</programmetitle>
+    <programmenumber>1635</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Richard Galliano</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>04:22</schedulestarttime>
+    <scheduleendtime>04:28</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The repertoire: Aconcagua, concerto for bandoneon by Piazzolla; Madreperla, concerto for accordion by Galliano</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Brad Mehldau plays The Beatles</programmetitle>
+    <programmenumber>1637</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Brad Mehldau</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>04:28</schedulestarttime>
+    <scheduleendtime>04:33</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Just as many other jazz or soul artists have adapted the Beatles, here, Brad Mehldau follows the same dynamic.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sharon Jones and the Dap-Kings</programmetitle>
+    <programmenumber>111</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Sharon Jones</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>04:33</schedulestarttime>
+    <scheduleendtime>04:39</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Soul, funk, R&amp;B and some infectious dance lessons are delivered by this great figure of Afro-American music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Seun Kuti &amp; Egypt 80 - Moods</programmetitle>
+    <programmenumber>1152</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>04:39</schedulestarttime>
+    <scheduleendtime>04:49</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>They give us sharp, polyrhythmic drums, an array of percussion, and funk guitars that slow-cook the groove.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>BCUC - Live at Moods</programmetitle>
+    <programmenumber>1180</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>04:49</schedulestarttime>
+    <scheduleendtime>05:02</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Originally from Soweto, BCUC's Afro-psychedelic trance hypnotises us with reworked traditional sounds. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Melingo w/ Juliette &amp; V. Capossela</programmetitle>
+    <programmenumber>548</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Daniel Melingo</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>05:02</schedulestarttime>
+    <scheduleendtime>05:05</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Welcome to Melingo's surrealist cabaret, which tells the poetry of the shallows, of love &amp; vagabond pathways. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>05:05</schedulestarttime>
+    <scheduleendtime>05:07</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>05:07</schedulestarttime>
+    <scheduleendtime>05:12</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Morcheeba - Live at Jazz à Vienne</programmetitle>
+    <programmenumber>643</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>05:12</schedulestarttime>
+    <scheduleendtime>05:19</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The group’s DNA is found in Edward’s voice and her natural vocal sensibility, and she knows it.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Earl Hines &amp; His All Stars – RTBF</programmetitle>
+    <programmenumber>716</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Earl Hines</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>05:19</schedulestarttime>
+    <scheduleendtime>05:21</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ulf Wakenius: Jazz à Junas Festival</programmetitle>
+    <programmenumber>596</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Ulf Wakenius</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>05:21</schedulestarttime>
+    <scheduleendtime>05:27</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>With Vincent Peirani and Simon Tailleu, this concert is infused with Swedish folk and global music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Morcheeba - Live at Jazz à Vienne</programmetitle>
+    <programmenumber>643</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>05:27</schedulestarttime>
+    <scheduleendtime>05:31</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The group’s DNA is found in Edward’s voice and her natural vocal sensibility, and she knows it.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Toumani Diabaté's Orchestra</programmetitle>
+    <programmenumber>129</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Toumani Diabaté</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>05:31</schedulestarttime>
+    <scheduleendtime>05:37</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>At the Banlieues Bleues festival, Diabaté's Symmetric Orchestra celebrates peace, hope and pan-African unity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Pat Martino - Lotos Jazz Festival</programmetitle>
+    <programmenumber>562</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Pat Martino</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>05:37</schedulestarttime>
+    <scheduleendtime>05:46</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Miracle guitarist Pat Martino delivers soft-toned grooves with his trio (Carmen Intorre and Pat Bianchi).</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>05:46</schedulestarttime>
+    <scheduleendtime>05:52</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Dionne Warwick - RTBF Archives 1964</programmetitle>
+    <programmenumber>61</programmenumber>
+    <yearofrelease>1964</yearofrelease>
+    <directorname/>
+    <castname>Dionne Warwick</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>05:52</schedulestarttime>
+    <scheduleendtime>05:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>An exemplar of both pop and R&amp;B, Warwick had an incredibly soulful sound that endeared her to music lovers.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Captain Beefheart – RTBF Archives</programmetitle>
+    <programmenumber>706</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Captain Beefheart</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>05:54</schedulestarttime>
+    <scheduleendtime>06:05</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Captain Beefheart embodies blues rock in this 1974 archive, where bell bottoms and long hair are all the rage.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>06:05</schedulestarttime>
+    <scheduleendtime>06:07</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>06:07</schedulestarttime>
+    <scheduleendtime>06:36</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Mohamed Abozekry - Live at Moods</programmetitle>
+    <programmenumber>1154</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>06:36</schedulestarttime>
+    <scheduleendtime>06:47</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mohamed Abozekry alongside Lofty Abaza, Hany Bedair, Wassim Halal, and Mohammed Farag for this 2017 concert.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Weber, Mendelssohn &amp; Schumann</programmetitle>
+    <programmenumber>2473</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>06:47</schedulestarttime>
+    <scheduleendtime>07:12</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Isabelle Faust and Kristian Bezuidenhout under the baton of John Eliot Gardiner and London Symphony Orchestra.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Charles Tolliver - Live</programmetitle>
+    <programmenumber>261</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Charles Tolliver</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>07:12</schedulestarttime>
+    <scheduleendtime>08:02</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Live at the Banlieue Blues Festival, Strata-East record label's co-founder plays with his quintet.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>DJ Buhle from Constitution Hill</programmetitle>
+    <programmenumber>2406</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>DJ Buhle</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>08:02</schedulestarttime>
+    <scheduleendtime>08:39</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>DJ Buhle celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sharon Jones and the Dap-Kings</programmetitle>
+    <programmenumber>111</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Sharon Jones</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>08:39</schedulestarttime>
+    <scheduleendtime>08:42</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Soul, funk, R&amp;B and some infectious dance lessons are delivered by this great figure of Afro-American music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Morcheeba - Live at Jazz à Vienne</programmetitle>
+    <programmenumber>643</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>08:42</schedulestarttime>
+    <scheduleendtime>08:50</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The group’s DNA is found in Edward’s voice and her natural vocal sensibility, and she knows it.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>08:50</schedulestarttime>
+    <scheduleendtime>08:59</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hypnotic Brass Ensemble - Live</programmetitle>
+    <programmenumber>534</programmenumber>
+    <yearofrelease>2012</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>08:59</schedulestarttime>
+    <scheduleendtime>09:03</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>How often do you see eight brothers rocking together on stage, all weilding different golden instruments? </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bombino - Live at Moods</programmetitle>
+    <programmenumber>1189</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Bombino</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>09:03</schedulestarttime>
+    <scheduleendtime>09:11</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bombino sings about the identity politics and culture of the Tuareg people of Niger with sensitivity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>R. Galliano &amp; Polish Orchestra</programmetitle>
+    <programmenumber>1635</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Richard Galliano</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>09:11</schedulestarttime>
+    <scheduleendtime>09:17</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The repertoire: Aconcagua, concerto for bandoneon by Piazzolla; Madreperla, concerto for accordion by Galliano</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>09:17</schedulestarttime>
+    <scheduleendtime>09:24</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Nucleus - RTBF</programmetitle>
+    <programmenumber>710</programmenumber>
+    <yearofrelease>1971</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>09:24</schedulestarttime>
+    <scheduleendtime>09:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bombino - Live at Moods</programmetitle>
+    <programmenumber>1189</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Bombino</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>09:34</schedulestarttime>
+    <scheduleendtime>09:40</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bombino sings about the identity politics and culture of the Tuareg people of Niger with sensitivity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>09:40</schedulestarttime>
+    <scheduleendtime>09:44</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>09:44</schedulestarttime>
+    <scheduleendtime>09:47</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sly &amp; Robbie meet Molvær &amp; Aarset</programmetitle>
+    <programmenumber>1193</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Lowell 'Sly' Dunbar, Robbie Shakespeare, Nils Petter Molvaer, Eivind Aarset</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>09:47</schedulestarttime>
+    <scheduleendtime>09:56</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The book of life opens onto a dreamlike country where Norwegian Nu jazz transcends the riddims of Jamaica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Vincent Peirani "Living Being"</programmetitle>
+    <programmenumber>652</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Vincent Peirani</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>09:56</schedulestarttime>
+    <scheduleendtime>10:02</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>From Led Zeppelin to Purcell covers, this quintet is a real chamber rock music orchestra. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Diana Ross &amp; The Supremes</programmetitle>
+    <programmenumber>1484</programmenumber>
+    <yearofrelease>1968</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>10:02</schedulestarttime>
+    <scheduleendtime>10:31</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1> In 1968, Diana Ross gives an eye-catching performance in the royal presence of the Supremes.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hugh Masekela - Live</programmetitle>
+    <programmenumber>69</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Lee-Roy Sauls, Fana Zulu, Cameron Ward, Hugh Masekela, Francis Manneh Fuster, Randal Skippers</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>10:31</schedulestarttime>
+    <scheduleendtime>11:35</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Five years before his death, South African Hugh Masekela gave a dazzling concert at the Paris Jazz Festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jorge Rossy Vibes Quintet ft Turner</programmetitle>
+    <programmenumber>1153</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>11:35</schedulestarttime>
+    <scheduleendtime>13:53</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Make no mistake: Jorge Rossy’s quintet offers more adventurous music than it seems at first glance.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Makaya McCraven - Jazz à Sète</programmetitle>
+    <programmenumber>962</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>13:53</schedulestarttime>
+    <scheduleendtime>15:26</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Beat Scientist, drummer and producer, McCraven blurs the lines between jazz, electronic and hip-hop.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ray Charles and His Orchestra</programmetitle>
+    <programmenumber>1486</programmenumber>
+    <yearofrelease>1968</yearofrelease>
+    <directorname/>
+    <castname>Ray Charles</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>15:26</schedulestarttime>
+    <scheduleendtime>16:12</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Ray Charles redoubles his energy with the vocal quartet The Raelets, Billy Preston and his formidable band.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bassekou Kouyaté &amp; Ngoni Ba</programmetitle>
+    <programmenumber>1585</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>16:12</schedulestarttime>
+    <scheduleendtime>16:18</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Seeing Bassekou Kouyaté live at Moods with his Ngoni makes it hard to resist his magical vibes. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>16:18</schedulestarttime>
+    <scheduleendtime>16:25</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Dionne Warwick - RTBF Archives 1964</programmetitle>
+    <programmenumber>61</programmenumber>
+    <yearofrelease>1964</yearofrelease>
+    <directorname/>
+    <castname>Dionne Warwick</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>16:25</schedulestarttime>
+    <scheduleendtime>16:27</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>An exemplar of both pop and R&amp;B, Warwick had an incredibly soulful sound that endeared her to music lovers.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>16:27</schedulestarttime>
+    <scheduleendtime>16:37</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bakolo Music International</programmetitle>
+    <programmenumber>1908</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Papa Bikunda</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>16:37</schedulestarttime>
+    <scheduleendtime>16:45</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bakolo Music International performing at Africolor Fetsival is a monument of Congolese rumba.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Brad Mehldau plays The Beatles</programmetitle>
+    <programmenumber>1637</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Brad Mehldau</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>16:45</schedulestarttime>
+    <scheduleendtime>16:49</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Just as many other jazz or soul artists have adapted the Beatles, here, Brad Mehldau follows the same dynamic.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Pat Martino - Lotos Jazz Festival</programmetitle>
+    <programmenumber>562</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Pat Martino</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>16:49</schedulestarttime>
+    <scheduleendtime>17:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Miracle guitarist Pat Martino delivers soft-toned grooves with his trio (Carmen Intorre and Pat Bianchi).</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Charles Lloyd Quartet - RTBF</programmetitle>
+    <programmenumber>242</programmenumber>
+    <yearofrelease>1966</yearofrelease>
+    <directorname/>
+    <castname>Charles Lloyd</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>17:01</schedulestarttime>
+    <scheduleendtime>17:38</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Recorded for the RTBF in 1966,  this concert by the Charles Lloyd Quartet was destined to go down in history.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Aretha Franklin - Live in Paris</programmetitle>
+    <programmenumber>204</programmenumber>
+    <yearofrelease>1977</yearofrelease>
+    <directorname/>
+    <castname>Aretha Franklin</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>17:38</schedulestarttime>
+    <scheduleendtime>18:46</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Aretha Franklin sets the Paris Palais des Sports on fire in 1977.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Emel Mathlouthi - Live</programmetitle>
+    <programmenumber>733</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Emel Mathlouthi</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>18:46</schedulestarttime>
+    <scheduleendtime>19:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Emel Mathlouthi offers a techno-punk performance, brimming with influences from Björk to Massive Attack.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>R. Galliano &amp; Polish Orchestra</programmetitle>
+    <programmenumber>1635</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Richard Galliano</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>19:34</schedulestarttime>
+    <scheduleendtime>19:41</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The repertoire: Aconcagua, concerto for bandoneon by Piazzolla; Madreperla, concerto for accordion by Galliano</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>UB40 - RTBF Archives 1980</programmetitle>
+    <programmenumber>715</programmenumber>
+    <yearofrelease>1980</yearofrelease>
+    <directorname/>
+    <castname>Ali Campbell</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>19:41</schedulestarttime>
+    <scheduleendtime>19:47</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 1980, UB40 is not yet the huge machine they would become, but their fresh reggae still oozes charisma. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ulf Wakenius: Jazz à Junas Festival</programmetitle>
+    <programmenumber>596</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Ulf Wakenius</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>19:47</schedulestarttime>
+    <scheduleendtime>19:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>With Vincent Peirani and Simon Tailleu, this concert is infused with Swedish folk and global music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Specials - Live in 1979</programmetitle>
+    <programmenumber>714</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Terry Hall</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>19:54</schedulestarttime>
+    <scheduleendtime>19:59</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>All their hits are there with punk beats, rock riffs, flamboyant brass, reggae pulse and leaping musicians</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sly &amp; Robbie meet Molvær &amp; Aarset</programmetitle>
+    <programmenumber>1193</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Lowell 'Sly' Dunbar, Robbie Shakespeare, Nils Petter Molvaer, Eivind Aarset</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>19:59</schedulestarttime>
+    <scheduleendtime>20:09</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The book of life opens onto a dreamlike country where Norwegian Nu jazz transcends the riddims of Jamaica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>20:09</schedulestarttime>
+    <scheduleendtime>20:22</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Yemen Blues - Live at Moods</programmetitle>
+    <programmenumber>1586</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>20:22</schedulestarttime>
+    <scheduleendtime>20:32</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The Yemen Blues singer combines family roots, and especially Yemeni culture, with rock, blues and even rap.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Girma Bèyènè &amp; Akalé Wubé</programmetitle>
+    <programmenumber>1160</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>20:32</schedulestarttime>
+    <scheduleendtime>20:40</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Ethiopian legend Girma Bèyènè's Amharic lyrics are enhanced by French collective Akalé Wubé at Moods.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>BCUC - Live at Moods</programmetitle>
+    <programmenumber>1180</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>20:40</schedulestarttime>
+    <scheduleendtime>20:46</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Originally from Soweto, BCUC's Afro-psychedelic trance hypnotises us with reworked traditional sounds. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sharon Jones and the Dap-Kings</programmetitle>
+    <programmenumber>111</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Sharon Jones</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>20:46</schedulestarttime>
+    <scheduleendtime>20:52</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Soul, funk, R&amp;B and some infectious dance lessons are delivered by this great figure of Afro-American music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sly &amp; Robbie meet Molvær &amp; Aarset</programmetitle>
+    <programmenumber>1193</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Lowell 'Sly' Dunbar, Robbie Shakespeare, Nils Petter Molvaer, Eivind Aarset</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>20:52</schedulestarttime>
+    <scheduleendtime>21:00</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The book of life opens onto a dreamlike country where Norwegian Nu jazz transcends the riddims of Jamaica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Chlorine Free ft Soweto Kinch &amp; Nya</programmetitle>
+    <programmenumber>618</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>21:00</schedulestarttime>
+    <scheduleendtime>22:08</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Chlorine Free presents their relaxed groove onstage at Like A Jazz Machine in Luxembourg.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jimmy McGriff Trio - Live in 1965</programmetitle>
+    <programmenumber>245</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Jimmy McGriff</castname>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>22:08</schedulestarttime>
+    <scheduleendtime>22:50</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>At the helm of a classic organ trio, with guitar and drums support, McGriff dives deep into an ocean of blues.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Kinga Głyk - New Morning</programmetitle>
+    <programmenumber>2648</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>03082023</scheduledate>
+    <schedulestarttime>22:50</schedulestarttime>
+    <scheduleendtime>00:00</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Rising star Polish bass player Kinga Głyk brings hard-hitting funk to the stage of New Morning, Paris.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Paco de Lucia "Light and Shade"</programmetitle>
+    <programmenumber>19</programmenumber>
+    <yearofrelease>1994</yearofrelease>
+    <directorname/>
+    <castname>Paco de Lucía</castname>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>00:00</schedulestarttime>
+    <scheduleendtime>01:10</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The story of a guitarist obsessed with flamenco since childhood drawing his path towards jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>W. Marsalis: Blood On The Fields</programmetitle>
+    <programmenumber>2552</programmenumber>
+    <yearofrelease>1996</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>01:10</schedulestarttime>
+    <scheduleendtime>02:16</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 1995, Marsalis rehearses what later on became the first jazz epic oratorio awarded with The Pulitzer Prize.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ernest Ranglin &amp; Friends</programmetitle>
+    <programmenumber>2609</programmenumber>
+    <yearofrelease>2016</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>02:16</schedulestarttime>
+    <scheduleendtime>03:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Ernest Ranglin invited Tony Allen, Courtney Pine, Cheikh Lô and Ira Coleman on stage for an eclectic show!</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Spanish Harlem Orchestra</programmetitle>
+    <programmenumber>1155</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>03:34</schedulestarttime>
+    <scheduleendtime>05:14</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Led by salsa giant Oscar Hernandez, this band has not finished spreading salsa and good vibes around the world</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Emel Mathlouthi - Live</programmetitle>
+    <programmenumber>733</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Emel Mathlouthi</castname>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>05:14</schedulestarttime>
+    <scheduleendtime>06:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Emel Mathlouthi offers a techno-punk performance, brimming with influences from Björk to Massive Attack.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hypnotic Brass Ensemble - Live</programmetitle>
+    <programmenumber>534</programmenumber>
+    <yearofrelease>2012</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>06:01</schedulestarttime>
+    <scheduleendtime>06:07</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>How often do you see eight brothers rocking together on stage, all weilding different golden instruments? </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Melingo w/ Juliette &amp; V. Capossela</programmetitle>
+    <programmenumber>548</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Daniel Melingo</castname>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>06:07</schedulestarttime>
+    <scheduleendtime>06:14</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Welcome to Melingo's surrealist cabaret, which tells the poetry of the shallows, of love &amp; vagabond pathways. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Yemen Blues - Live at Moods</programmetitle>
+    <programmenumber>1586</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>06:14</schedulestarttime>
+    <scheduleendtime>06:25</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The Yemen Blues singer combines family roots, and especially Yemeni culture, with rock, blues and even rap.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>BCUC - Live at Moods</programmetitle>
+    <programmenumber>1180</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>06:25</schedulestarttime>
+    <scheduleendtime>06:38</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Originally from Soweto, BCUC's Afro-psychedelic trance hypnotises us with reworked traditional sounds. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Chris Potter - Circuits - Vaulx</programmetitle>
+    <programmenumber>660</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname>Chris Potter</castname>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>06:38</schedulestarttime>
+    <scheduleendtime>06:51</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>To promote his latest album, Circuits, Chris Potter called on Craig Taborn, Tim Lefebvre, and Justin Brown.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Yemen Blues - Live at Moods</programmetitle>
+    <programmenumber>1586</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>06:51</schedulestarttime>
+    <scheduleendtime>07:07</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The Yemen Blues singer combines family roots, and especially Yemeni culture, with rock, blues and even rap.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Frisell - The Disfarmers</programmetitle>
+    <programmenumber>297</programmenumber>
+    <yearofrelease>2011</yearofrelease>
+    <directorname/>
+    <castname>Bill Frisell</castname>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>07:07</schedulestarttime>
+    <scheduleendtime>08:25</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This is a soundtrack illustrating photographs by Mike Disfarmer documenting rural America in the Depression.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Da Capo from Constitution Hill</programmetitle>
+    <programmenumber>2408</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>Da Capo</castname>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>08:25</schedulestarttime>
+    <scheduleendtime>09:20</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Da Capo celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bombino - Live at Moods</programmetitle>
+    <programmenumber>1189</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Bombino</castname>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>09:20</schedulestarttime>
+    <scheduleendtime>09:26</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bombino sings about the identity politics and culture of the Tuareg people of Niger with sensitivity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Vincent Peirani "Living Being"</programmetitle>
+    <programmenumber>652</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Vincent Peirani</castname>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>09:26</schedulestarttime>
+    <scheduleendtime>09:32</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>From Led Zeppelin to Purcell covers, this quintet is a real chamber rock music orchestra. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Mohamed Abozekry - Live at Moods</programmetitle>
+    <programmenumber>1154</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>09:32</schedulestarttime>
+    <scheduleendtime>09:43</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mohamed Abozekry alongside Lofty Abaza, Hany Bedair, Wassim Halal, and Mohammed Farag for this 2017 concert.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sharon Jones and the Dap-Kings</programmetitle>
+    <programmenumber>111</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Sharon Jones</castname>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>09:43</schedulestarttime>
+    <scheduleendtime>09:49</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Soul, funk, R&amp;B and some infectious dance lessons are delivered by this great figure of Afro-American music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Louis Armstrong &amp; his All Stars</programmetitle>
+    <programmenumber>248</programmenumber>
+    <yearofrelease>1959</yearofrelease>
+    <directorname/>
+    <castname>Louis Armstrong</castname>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>09:49</schedulestarttime>
+    <scheduleendtime>09:53</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This footage is a reminder of Satchmo's talent, unique tone and ability to bring out countless subtleties.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Liz McComb - Olympia, Paris</programmetitle>
+    <programmenumber>228</programmenumber>
+    <yearofrelease>1998</yearofrelease>
+    <directorname/>
+    <castname>Liz McComb</castname>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>09:53</schedulestarttime>
+    <scheduleendtime>10:00</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Between gospel and soul, singer and pianist Liz McComb is joined by three fine-tuned musicians in Paris, 1998.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Modern Jazz Quartet - Live</programmetitle>
+    <programmenumber>239</programmenumber>
+    <yearofrelease>1963</yearofrelease>
+    <directorname/>
+    <castname>Modern Jazz Quartet</castname>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>10:00</schedulestarttime>
+    <scheduleendtime>10:30</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>1962 recording of the quartet composed by John Lewis, Milt Jackson, Percy Heath and Connie Kay.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Lee Fields &amp; The Expressions - Live</programmetitle>
+    <programmenumber>985</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>10:30</schedulestarttime>
+    <scheduleendtime>11:56</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mr. Lee Fields, a stalwart of soul, performs at Jazz à La Villette Festival with three members of Antibalas.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>BALLAKE SISSOKO &amp; VINCENT SEGAL</programmetitle>
+    <programmenumber>2587</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>11:56</schedulestarttime>
+    <scheduleendtime>13:06</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Yom - Back to the Klezmer</programmetitle>
+    <programmenumber>260</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Yom</castname>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>13:06</schedulestarttime>
+    <scheduleendtime>13:59</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Yom owes his instrument's choice to his father and his Ashkenazi culture to his mother, born in Transylvania.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hugh Masekela - Live</programmetitle>
+    <programmenumber>69</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Lee-Roy Sauls, Fana Zulu, Cameron Ward, Hugh Masekela, Francis Manneh Fuster, Randal Skippers</castname>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>13:59</schedulestarttime>
+    <scheduleendtime>15:04</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Five years before his death, South African Hugh Masekela gave a dazzling concert at the Paris Jazz Festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Children of the Light</programmetitle>
+    <programmenumber>50</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Danilo Perez</castname>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>15:04</schedulestarttime>
+    <scheduleendtime>16:05</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Danilo Pérez, John Patitucci and Brian Blade bring back the art of the trio at the Jazz à Junas festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Melingo w/ Juliette &amp; V. Capossela</programmetitle>
+    <programmenumber>548</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Daniel Melingo</castname>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>16:05</schedulestarttime>
+    <scheduleendtime>16:10</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Welcome to Melingo's surrealist cabaret, which tells the poetry of the shallows, of love &amp; vagabond pathways. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Brad Mehldau plays The Beatles</programmetitle>
+    <programmenumber>1637</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Brad Mehldau</castname>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>16:10</schedulestarttime>
+    <scheduleendtime>16:14</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Just as many other jazz or soul artists have adapted the Beatles, here, Brad Mehldau follows the same dynamic.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Brian Auger's Oblivion Express</programmetitle>
+    <programmenumber>705</programmenumber>
+    <yearofrelease>1972</yearofrelease>
+    <directorname/>
+    <castname>Brian Auger</castname>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>16:14</schedulestarttime>
+    <scheduleendtime>16:21</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The keyboardist Brian Auger shows all his talent for groove and virtuoso solos on the Fender Rhodes.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Morcheeba - Live at Jazz à Vienne</programmetitle>
+    <programmenumber>643</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>16:21</schedulestarttime>
+    <scheduleendtime>16:29</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The group’s DNA is found in Edward’s voice and her natural vocal sensibility, and she knows it.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>BCUC - Live at Moods</programmetitle>
+    <programmenumber>1180</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>16:29</schedulestarttime>
+    <scheduleendtime>16:42</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Originally from Soweto, BCUC's Afro-psychedelic trance hypnotises us with reworked traditional sounds. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>16:42</schedulestarttime>
+    <scheduleendtime>17:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Freddie Hubbard Quartet - RTBF</programmetitle>
+    <programmenumber>721</programmenumber>
+    <yearofrelease>1981</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>17:01</schedulestarttime>
+    <scheduleendtime>17:45</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Hubbard shows how much his technique combines power and a disconcerting speed in this unique archive concert.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>17:45</schedulestarttime>
+    <scheduleendtime>18:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Tigran Hamasyan - Live in Norway</programmetitle>
+    <programmenumber>125</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Tigran Hamasyan</castname>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>18:34</schedulestarttime>
+    <scheduleendtime>19:40</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Pianist Hamasyan and samplerist Jan Bang combine eastern accents and electronic riffs at Punkt Festival 2013.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sharon Jones and the Dap-Kings</programmetitle>
+    <programmenumber>111</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Sharon Jones</castname>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>19:40</schedulestarttime>
+    <scheduleendtime>19:45</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Soul, funk, R&amp;B and some infectious dance lessons are delivered by this great figure of Afro-American music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>19:45</schedulestarttime>
+    <scheduleendtime>19:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Yemen Blues - Live at Moods</programmetitle>
+    <programmenumber>1586</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>19:54</schedulestarttime>
+    <scheduleendtime>20:05</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The Yemen Blues singer combines family roots, and especially Yemeni culture, with rock, blues and even rap.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Rymden - Tourcoing Jazz Festival</programmetitle>
+    <programmenumber>1638</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>20:05</schedulestarttime>
+    <scheduleendtime>20:14</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Double-bassist Dan Berglund and drummer Magnus Oström perform as their new trio with Bugge Wesseltof.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Specials - Live in 1979</programmetitle>
+    <programmenumber>714</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Terry Hall</castname>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>20:14</schedulestarttime>
+    <scheduleendtime>20:16</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>All their hits are there with punk beats, rock riffs, flamboyant brass, reggae pulse and leaping musicians</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Melingo w/ Juliette &amp; V. Capossela</programmetitle>
+    <programmenumber>548</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Daniel Melingo</castname>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>20:16</schedulestarttime>
+    <scheduleendtime>20:20</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Welcome to Melingo's surrealist cabaret, which tells the poetry of the shallows, of love &amp; vagabond pathways. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>20:20</schedulestarttime>
+    <scheduleendtime>20:25</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Antibalas - Live at Moods</programmetitle>
+    <programmenumber>1200</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>20:25</schedulestarttime>
+    <scheduleendtime>20:36</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Antibalas gives us afrobeat and mix in modern funk, the avant-garde, dub and electronic influences.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Seun Kuti &amp; Egypt 80 - Moods</programmetitle>
+    <programmenumber>1152</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>20:36</schedulestarttime>
+    <scheduleendtime>20:48</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>They give us sharp, polyrhythmic drums, an array of percussion, and funk guitars that slow-cook the groove.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bombino - Live at Moods</programmetitle>
+    <programmenumber>1189</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Bombino</castname>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>20:48</schedulestarttime>
+    <scheduleendtime>20:57</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bombino sings about the identity politics and culture of the Tuareg people of Niger with sensitivity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ala.ni - Live in Paris</programmetitle>
+    <programmenumber>982</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>20:57</schedulestarttime>
+    <scheduleendtime>21:43</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Jazz singer Ala.ni takes to the stage of the Grande Halle de la Villette, in Paris with an original setup.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Marko Marković Brass Band - Live</programmetitle>
+    <programmenumber>1175</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Marko Markovic</castname>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>21:43</schedulestarttime>
+    <scheduleendtime>23:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1> His great-grandfather used to play for the king of Serbia. Here the Marko Marković Brass Band plays at Moods.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jorge Rossy Vibes Quintet ft Turner</programmetitle>
+    <programmenumber>1153</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>04082023</scheduledate>
+    <schedulestarttime>23:34</schedulestarttime>
+    <scheduleendtime>01:51</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Make no mistake: Jorge Rossy’s quintet offers more adventurous music than it seems at first glance.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Avishai Cohen</programmetitle>
+    <programmenumber>2583</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>01:51</schedulestarttime>
+    <scheduleendtime>03:41</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The doublebass virtuoso plays the Jazz à Vienne Fest alongside pianist Elchin Shirinov &amp; drummer Roni Kaspi.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>UB40 - RTBF Archives 1980</programmetitle>
+    <programmenumber>715</programmenumber>
+    <yearofrelease>1980</yearofrelease>
+    <directorname/>
+    <castname>Ali Campbell</castname>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>03:41</schedulestarttime>
+    <scheduleendtime>03:58</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 1980, UB40 is not yet the huge machine they would become, but their fresh reggae still oozes charisma. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hindi Zahra &amp; Fatoumata Diawara</programmetitle>
+    <programmenumber>740</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Fatoumata Diawara</castname>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>03:58</schedulestarttime>
+    <scheduleendtime>05:03</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The duo mix Bambara with Amazigh &amp; English, folk with jazz, soul with blues &amp; reggae at Banlieues Bleues fest.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Tigran Hamasyan - Live in Norway</programmetitle>
+    <programmenumber>125</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Tigran Hamasyan</castname>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>05:03</schedulestarttime>
+    <scheduleendtime>06:09</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Pianist Hamasyan and samplerist Jan Bang combine eastern accents and electronic riffs at Punkt Festival 2013.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Specials - Live in 1979</programmetitle>
+    <programmenumber>714</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Terry Hall</castname>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>06:09</schedulestarttime>
+    <scheduleendtime>06:12</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>All their hits are there with punk beats, rock riffs, flamboyant brass, reggae pulse and leaping musicians</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hypnotic Brass Ensemble - Live</programmetitle>
+    <programmenumber>534</programmenumber>
+    <yearofrelease>2012</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>06:12</schedulestarttime>
+    <scheduleendtime>06:18</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>How often do you see eight brothers rocking together on stage, all weilding different golden instruments? </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>06:18</schedulestarttime>
+    <scheduleendtime>06:31</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>BCUC - Live at Moods</programmetitle>
+    <programmenumber>1180</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>06:31</schedulestarttime>
+    <scheduleendtime>06:44</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Originally from Soweto, BCUC's Afro-psychedelic trance hypnotises us with reworked traditional sounds. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Chucho Valdés &amp; Archie Shepp</programmetitle>
+    <programmenumber>506</programmenumber>
+    <yearofrelease>2011</yearofrelease>
+    <directorname/>
+    <castname>Archie Shepp, Chucho Valdés</castname>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>06:44</schedulestarttime>
+    <scheduleendtime>06:52</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>These two jazz giants create an electric atmosphere for this Afro-Cuban project at Jazz à Porquerolles Fest.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>LSO: Dvorak, Ginastera &amp; Gerhard</programmetitle>
+    <programmenumber>2476</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>06:52</schedulestarttime>
+    <scheduleendtime>07:06</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Not scheduled, Dvořák's Serenade for Winds in D minor turned out to be the highlight of a very fine concert.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ernest Ranglin &amp; Friends</programmetitle>
+    <programmenumber>2609</programmenumber>
+    <yearofrelease>2016</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>07:06</schedulestarttime>
+    <scheduleendtime>08:17</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Ernest Ranglin invited Tony Allen, Courtney Pine, Cheikh Lô and Ira Coleman on stage for an eclectic show!</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Gasandji - Live at Moods</programmetitle>
+    <programmenumber>1166</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>08:17</schedulestarttime>
+    <scheduleendtime>10:38</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Gasandji, a native of the Republic of Congo, takes us into a unique world with her stories and music. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Marko Marković Brass Band - Live</programmetitle>
+    <programmenumber>1175</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Marko Markovic</castname>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>10:38</schedulestarttime>
+    <scheduleendtime>12:27</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1> His great-grandfather used to play for the king of Serbia. Here the Marko Marković Brass Band plays at Moods.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Diana Ross &amp; The Supremes</programmetitle>
+    <programmenumber>1484</programmenumber>
+    <yearofrelease>1968</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>12:27</schedulestarttime>
+    <scheduleendtime>12:57</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1> In 1968, Diana Ross gives an eye-catching performance in the royal presence of the Supremes.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ala.ni - Live in Paris</programmetitle>
+    <programmenumber>982</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>12:57</schedulestarttime>
+    <scheduleendtime>13:44</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Jazz singer Ala.ni takes to the stage of the Grande Halle de la Villette, in Paris with an original setup.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Chlorine Free ft Soweto Kinch &amp; Nya</programmetitle>
+    <programmenumber>618</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>13:44</schedulestarttime>
+    <scheduleendtime>14:51</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Chlorine Free presents their relaxed groove onstage at Like A Jazz Machine in Luxembourg.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Lee Fields &amp; The Expressions - Live</programmetitle>
+    <programmenumber>985</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>14:51</schedulestarttime>
+    <scheduleendtime>16:20</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mr. Lee Fields, a stalwart of soul, performs at Jazz à La Villette Festival with three members of Antibalas.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bassekou Kouyaté &amp; Ngoni Ba</programmetitle>
+    <programmenumber>1585</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>16:20</schedulestarttime>
+    <scheduleendtime>16:36</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Seeing Bassekou Kouyaté live at Moods with his Ngoni makes it hard to resist his magical vibes. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Specials - Live in 1979</programmetitle>
+    <programmenumber>714</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Terry Hall</castname>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>16:36</schedulestarttime>
+    <scheduleendtime>16:39</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>All their hits are there with punk beats, rock riffs, flamboyant brass, reggae pulse and leaping musicians</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Yemen Blues - Live at Moods</programmetitle>
+    <programmenumber>1586</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>16:39</schedulestarttime>
+    <scheduleendtime>16:46</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The Yemen Blues singer combines family roots, and especially Yemeni culture, with rock, blues and even rap.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Pat Martino - Lotos Jazz Festival</programmetitle>
+    <programmenumber>562</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Pat Martino</castname>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>16:46</schedulestarttime>
+    <scheduleendtime>16:57</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Miracle guitarist Pat Martino delivers soft-toned grooves with his trio (Carmen Intorre and Pat Bianchi).</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Modern Jazz Quartet - Live</programmetitle>
+    <programmenumber>239</programmenumber>
+    <yearofrelease>1963</yearofrelease>
+    <directorname/>
+    <castname>Modern Jazz Quartet</castname>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>16:57</schedulestarttime>
+    <scheduleendtime>17:27</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>1962 recording of the quartet composed by John Lewis, Milt Jackson, Percy Heath and Connie Kay.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ray Charles and His Orchestra</programmetitle>
+    <programmenumber>1486</programmenumber>
+    <yearofrelease>1968</yearofrelease>
+    <directorname/>
+    <castname>Ray Charles</castname>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>17:27</schedulestarttime>
+    <scheduleendtime>18:13</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Ray Charles redoubles his energy with the vocal quartet The Raelets, Billy Preston and his formidable band.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Gina Jeanz from Constitution Hill</programmetitle>
+    <programmenumber>2407</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>Gina Jeanz</castname>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>18:13</schedulestarttime>
+    <scheduleendtime>19:08</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Gina Jeanz celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Yemen Blues - Live at Moods</programmetitle>
+    <programmenumber>1586</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>19:08</schedulestarttime>
+    <scheduleendtime>19:14</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The Yemen Blues singer combines family roots, and especially Yemeni culture, with rock, blues and even rap.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>19:14</schedulestarttime>
+    <scheduleendtime>19:18</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>19:18</schedulestarttime>
+    <scheduleendtime>19:23</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ulf Wakenius: Jazz à Junas Festival</programmetitle>
+    <programmenumber>596</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Ulf Wakenius</castname>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>19:23</schedulestarttime>
+    <scheduleendtime>19:32</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>With Vincent Peirani and Simon Tailleu, this concert is infused with Swedish folk and global music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Chuck Berry - RTBF Archives 1965</programmetitle>
+    <programmenumber>707</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Chuck Berry</castname>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>19:32</schedulestarttime>
+    <scheduleendtime>19:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Berry's natural energy is enough to break through all formalities, getting rid of any stuffiness.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Girma Bèyènè &amp; Akalé Wubé</programmetitle>
+    <programmenumber>1160</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>19:34</schedulestarttime>
+    <scheduleendtime>19:44</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Ethiopian legend Girma Bèyènè's Amharic lyrics are enhanced by French collective Akalé Wubé at Moods.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bombino - Live at Moods</programmetitle>
+    <programmenumber>1189</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Bombino</castname>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>19:44</schedulestarttime>
+    <scheduleendtime>19:50</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bombino sings about the identity politics and culture of the Tuareg people of Niger with sensitivity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Dionne Warwick - RTBF Archives 1964</programmetitle>
+    <programmenumber>61</programmenumber>
+    <yearofrelease>1964</yearofrelease>
+    <directorname/>
+    <castname>Dionne Warwick</castname>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>19:50</schedulestarttime>
+    <scheduleendtime>19:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>An exemplar of both pop and R&amp;B, Warwick had an incredibly soulful sound that endeared her to music lovers.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Nucleus - RTBF</programmetitle>
+    <programmenumber>710</programmenumber>
+    <yearofrelease>1971</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>19:54</schedulestarttime>
+    <scheduleendtime>20:05</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>20:05</schedulestarttime>
+    <scheduleendtime>20:08</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Melingo w/ Juliette &amp; V. Capossela</programmetitle>
+    <programmenumber>548</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Daniel Melingo</castname>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>20:08</schedulestarttime>
+    <scheduleendtime>20:15</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Welcome to Melingo's surrealist cabaret, which tells the poetry of the shallows, of love &amp; vagabond pathways. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>20:15</schedulestarttime>
+    <scheduleendtime>20:19</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sharon Jones and the Dap-Kings</programmetitle>
+    <programmenumber>111</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Sharon Jones</castname>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>20:19</schedulestarttime>
+    <scheduleendtime>20:23</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Soul, funk, R&amp;B and some infectious dance lessons are delivered by this great figure of Afro-American music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bombino - Live at Moods</programmetitle>
+    <programmenumber>1189</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Bombino</castname>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>20:23</schedulestarttime>
+    <scheduleendtime>20:30</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bombino sings about the identity politics and culture of the Tuareg people of Niger with sensitivity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>20:30</schedulestarttime>
+    <scheduleendtime>20:42</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>UB40 - RTBF Archives 1980</programmetitle>
+    <programmenumber>715</programmenumber>
+    <yearofrelease>1980</yearofrelease>
+    <directorname/>
+    <castname>Ali Campbell</castname>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>20:42</schedulestarttime>
+    <scheduleendtime>20:46</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 1980, UB40 is not yet the huge machine they would become, but their fresh reggae still oozes charisma. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Tomatito y Grupo - Live at Moods</programmetitle>
+    <programmenumber>1162</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>20:46</schedulestarttime>
+    <scheduleendtime>20:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The "Disciple of Paco de Lucia" delivers his most beautiful compositions on a gypsy flamenco repertoire.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Rymden - Tourcoing Jazz Festival</programmetitle>
+    <programmenumber>1638</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>20:54</schedulestarttime>
+    <scheduleendtime>21:03</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Double-bassist Dan Berglund and drummer Magnus Oström perform as their new trio with Bugge Wesseltof.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Gasandji - Live at Moods</programmetitle>
+    <programmenumber>1166</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>21:03</schedulestarttime>
+    <scheduleendtime>23:25</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Gasandji, a native of the Republic of Congo, takes us into a unique world with her stories and music. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle> Art Blakey &amp; The Jazz Messengers</programmetitle>
+    <programmenumber>1449</programmenumber>
+    <yearofrelease>1963</yearofrelease>
+    <directorname/>
+    <castname>Art Blakey</castname>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>23:25</schedulestarttime>
+    <scheduleendtime>23:57</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The musicians who take part in this concert form one of the best formulas that the Jazz Messengers ever knew.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Coulondre Trio - Michel On My Mind</programmetitle>
+    <programmenumber>1922</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname>Laurent Coulondre</castname>
+    <scheduledate>05082023</scheduledate>
+    <schedulestarttime>23:57</schedulestarttime>
+    <scheduleendtime>01:15</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>French pianist Laurent Coulondre's album Michel On My Mind commemorates the anniversary of Petrucciani's death</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Mar-Khalifé &amp; Aboulouafa, Piano Day</programmetitle>
+    <programmenumber>2455</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>01:15</schedulestarttime>
+    <scheduleendtime>02:02</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bachar and Meryem elegantly combine contemporary classical music with traditional Lebanese singing.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>BALLAKE SISSOKO &amp; VINCENT SEGAL</programmetitle>
+    <programmenumber>2587</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>02:02</schedulestarttime>
+    <scheduleendtime>03:11</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ron Carter - Jazz à Vienne Festival</programmetitle>
+    <programmenumber>2585</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>03:11</schedulestarttime>
+    <scheduleendtime>04:20</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Filmed in 2018, Ron Carter is one of the last true masters who participated at the very top of post-war jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Paco de Lucia "Light and Shade"</programmetitle>
+    <programmenumber>19</programmenumber>
+    <yearofrelease>1994</yearofrelease>
+    <directorname/>
+    <castname>Paco de Lucía</castname>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>04:20</schedulestarttime>
+    <scheduleendtime>05:32</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The story of a guitarist obsessed with flamenco since childhood drawing his path towards jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Gina Jeanz from Constitution Hill</programmetitle>
+    <programmenumber>2407</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>Gina Jeanz</castname>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>05:32</schedulestarttime>
+    <scheduleendtime>06:27</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Gina Jeanz celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bassekou Kouyaté &amp; Ngoni Ba</programmetitle>
+    <programmenumber>1585</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>06:27</schedulestarttime>
+    <scheduleendtime>06:32</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Seeing Bassekou Kouyaté live at Moods with his Ngoni makes it hard to resist his magical vibes. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>06:32</schedulestarttime>
+    <scheduleendtime>06:38</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>06:38</schedulestarttime>
+    <scheduleendtime>06:39</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bakolo Music International</programmetitle>
+    <programmenumber>1908</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Papa Bikunda</castname>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>06:39</schedulestarttime>
+    <scheduleendtime>06:49</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bakolo Music International performing at Africolor Fetsival is a monument of Congolese rumba.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>06:49</schedulestarttime>
+    <scheduleendtime>06:53</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Louis Armstrong &amp; his All Stars</programmetitle>
+    <programmenumber>248</programmenumber>
+    <yearofrelease>1959</yearofrelease>
+    <directorname/>
+    <castname>Louis Armstrong</castname>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>06:53</schedulestarttime>
+    <scheduleendtime>07:00</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This footage is a reminder of Satchmo's talent, unique tone and ability to bring out countless subtleties.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Avishai Cohen</programmetitle>
+    <programmenumber>2583</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>07:00</schedulestarttime>
+    <scheduleendtime>08:50</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The doublebass virtuoso plays the Jazz à Vienne Fest alongside pianist Elchin Shirinov &amp; drummer Roni Kaspi.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Les Amazones d'Afrique</programmetitle>
+    <programmenumber>737</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>08:50</schedulestarttime>
+    <scheduleendtime>09:51</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Les Amazones d’Afrique brings Malian women together around issues such as equality and freedom. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Leyla McCalla - Live</programmetitle>
+    <programmenumber>996</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname>Leyla McCalla</castname>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>09:51</schedulestarttime>
+    <scheduleendtime>09:55</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Without artifice and with total sincerity, McCalla sings with a simplicity that touches our hearts and minds.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald &amp; Peterson Trio</programmetitle>
+    <programmenumber>1482</programmenumber>
+    <yearofrelease>1963</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald, Oscar Peterson</castname>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>09:55</schedulestarttime>
+    <scheduleendtime>10:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Across these two 1963 performances, Ella is backed by piano legend Oscar Peterson and Tommy Flanagan.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ernest Ranglin &amp; Friends</programmetitle>
+    <programmenumber>2609</programmenumber>
+    <yearofrelease>2016</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>10:01</schedulestarttime>
+    <scheduleendtime>11:18</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Ernest Ranglin invited Tony Allen, Courtney Pine, Cheikh Lô and Ira Coleman on stage for an eclectic show!</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Richie Havens - Live at Montreux</programmetitle>
+    <programmenumber>712</programmenumber>
+    <yearofrelease>1972</yearofrelease>
+    <directorname/>
+    <castname>Richie Havens</castname>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>11:18</schedulestarttime>
+    <scheduleendtime>12:04</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Recorded in 1972, the African-American singer Richie Havens sends a moving message of love and fraternity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Rhoda Scott Lady Quartet - Live</programmetitle>
+    <programmenumber>1188</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Rhoda Scott</castname>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>12:04</schedulestarttime>
+    <scheduleendtime>13:45</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Seeing Scott's group composed entirely by women is a real rare pleasure, the inverse being very common.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Comet is Coming</programmetitle>
+    <programmenumber>2605</programmenumber>
+    <yearofrelease>2012</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>13:45</schedulestarttime>
+    <scheduleendtime>14:51</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The trio combines Sun Ra's mythological and experimental themes in a fusion of jazz, afrobeat and electronica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Diana Ross &amp; The Supremes</programmetitle>
+    <programmenumber>1484</programmenumber>
+    <yearofrelease>1968</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>14:51</schedulestarttime>
+    <scheduleendtime>15:20</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1> In 1968, Diana Ross gives an eye-catching performance in the royal presence of the Supremes.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Charles Tolliver - Live</programmetitle>
+    <programmenumber>261</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Charles Tolliver</castname>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>15:20</schedulestarttime>
+    <scheduleendtime>16:22</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Live at the Banlieue Blues Festival, Strata-East record label's co-founder plays with his quintet.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Pat Martino - Lotos Jazz Festival</programmetitle>
+    <programmenumber>562</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Pat Martino</castname>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>16:22</schedulestarttime>
+    <scheduleendtime>16:33</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Miracle guitarist Pat Martino delivers soft-toned grooves with his trio (Carmen Intorre and Pat Bianchi).</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>16:33</schedulestarttime>
+    <scheduleendtime>16:44</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ulf Wakenius: Jazz à Junas Festival</programmetitle>
+    <programmenumber>596</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Ulf Wakenius</castname>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>16:44</schedulestarttime>
+    <scheduleendtime>16:51</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>With Vincent Peirani and Simon Tailleu, this concert is infused with Swedish folk and global music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>16:51</schedulestarttime>
+    <scheduleendtime>16:56</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bassekou Kouyaté &amp; Ngoni Ba</programmetitle>
+    <programmenumber>1585</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>16:56</schedulestarttime>
+    <scheduleendtime>17:02</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Seeing Bassekou Kouyaté live at Moods with his Ngoni makes it hard to resist his magical vibes. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>17:02</schedulestarttime>
+    <scheduleendtime>17:08</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Charles Mingus &amp; Eric Dolphy - RTBF</programmetitle>
+    <programmenumber>255</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Charles Mingus, Eric Dolphy</castname>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>17:08</schedulestarttime>
+    <scheduleendtime>17:48</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Together, Mingus and Dolphy symbolize the 60s' climax, where swing and free jazz meet at a tipping point.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hugh Masekela - Live</programmetitle>
+    <programmenumber>69</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Lee-Roy Sauls, Fana Zulu, Cameron Ward, Hugh Masekela, Francis Manneh Fuster, Randal Skippers</castname>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>17:48</schedulestarttime>
+    <scheduleendtime>18:51</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Five years before his death, South African Hugh Masekela gave a dazzling concert at the Paris Jazz Festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>DJ Buhle from Constitution Hill</programmetitle>
+    <programmenumber>2406</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>DJ Buhle</castname>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>18:51</schedulestarttime>
+    <scheduleendtime>19:28</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>DJ Buhle celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Mohamed Abozekry - Live at Moods</programmetitle>
+    <programmenumber>1154</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>19:28</schedulestarttime>
+    <scheduleendtime>19:35</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mohamed Abozekry alongside Lofty Abaza, Hany Bedair, Wassim Halal, and Mohammed Farag for this 2017 concert.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>19:35</schedulestarttime>
+    <scheduleendtime>19:42</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Orchestre Poly-Rythmo de Cotonou</programmetitle>
+    <programmenumber>1187</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>19:42</schedulestarttime>
+    <scheduleendtime>19:48</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Formed after the independence of Benin, this band with more than 500 records to their credit is like no other.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sly &amp; Robbie meet Molvær &amp; Aarset</programmetitle>
+    <programmenumber>1193</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Lowell 'Sly' Dunbar, Robbie Shakespeare, Nils Petter Molvaer, Eivind Aarset</castname>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>19:48</schedulestarttime>
+    <scheduleendtime>19:57</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The book of life opens onto a dreamlike country where Norwegian Nu jazz transcends the riddims of Jamaica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Morcheeba - Live at Jazz à Vienne</programmetitle>
+    <programmenumber>643</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>19:57</schedulestarttime>
+    <scheduleendtime>20:02</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The group’s DNA is found in Edward’s voice and her natural vocal sensibility, and she knows it.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sly &amp; Robbie meet Molvær &amp; Aarset</programmetitle>
+    <programmenumber>1193</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Lowell 'Sly' Dunbar, Robbie Shakespeare, Nils Petter Molvaer, Eivind Aarset</castname>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>20:02</schedulestarttime>
+    <scheduleendtime>20:12</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The book of life opens onto a dreamlike country where Norwegian Nu jazz transcends the riddims of Jamaica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>20:12</schedulestarttime>
+    <scheduleendtime>20:16</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Richie Havens - Live at Montreux</programmetitle>
+    <programmenumber>712</programmenumber>
+    <yearofrelease>1972</yearofrelease>
+    <directorname/>
+    <castname>Richie Havens</castname>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>20:16</schedulestarttime>
+    <scheduleendtime>20:24</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Recorded in 1972, the African-American singer Richie Havens sends a moving message of love and fraternity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>20:24</schedulestarttime>
+    <scheduleendtime>20:37</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Pat Martino - Lotos Jazz Festival</programmetitle>
+    <programmenumber>562</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Pat Martino</castname>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>20:37</schedulestarttime>
+    <scheduleendtime>20:48</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Miracle guitarist Pat Martino delivers soft-toned grooves with his trio (Carmen Intorre and Pat Bianchi).</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bilal - Live at Moods</programmetitle>
+    <programmenumber>1587</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname>Bilal</castname>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>20:48</schedulestarttime>
+    <scheduleendtime>20:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bilal starts his set with "Sirens II," a haunting theme that stands at the crossroads between rock and RnB.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Dionne Warwick - RTBF Archives 1964</programmetitle>
+    <programmenumber>61</programmenumber>
+    <yearofrelease>1964</yearofrelease>
+    <directorname/>
+    <castname>Dionne Warwick</castname>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>20:54</schedulestarttime>
+    <scheduleendtime>20:59</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>An exemplar of both pop and R&amp;B, Warwick had an incredibly soulful sound that endeared her to music lovers.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Diana Ross &amp; The Supremes</programmetitle>
+    <programmenumber>1484</programmenumber>
+    <yearofrelease>1968</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>20:59</schedulestarttime>
+    <scheduleendtime>21:28</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1> In 1968, Diana Ross gives an eye-catching performance in the royal presence of the Supremes.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Charles Lloyd Quartet - RTBF</programmetitle>
+    <programmenumber>242</programmenumber>
+    <yearofrelease>1966</yearofrelease>
+    <directorname/>
+    <castname>Charles Lloyd</castname>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>21:28</schedulestarttime>
+    <scheduleendtime>22:04</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Recorded for the RTBF in 1966,  this concert by the Charles Lloyd Quartet was destined to go down in history.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Makaya McCraven - Jazz à Sète</programmetitle>
+    <programmenumber>962</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>22:04</schedulestarttime>
+    <scheduleendtime>23:38</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Beat Scientist, drummer and producer, McCraven blurs the lines between jazz, electronic and hip-hop.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Electric Mamba</programmetitle>
+    <programmenumber>2573</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>06082023</scheduledate>
+    <schedulestarttime>23:38</schedulestarttime>
+    <scheduleendtime>00:45</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The France-based afrobeat group led by Central African singer Idylle Mamba performs in Lyon.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ala.ni - Live in Paris</programmetitle>
+    <programmenumber>982</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>00:45</schedulestarttime>
+    <scheduleendtime>01:32</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Jazz singer Ala.ni takes to the stage of the Grande Halle de la Villette, in Paris with an original setup.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Children of the Light</programmetitle>
+    <programmenumber>50</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Danilo Perez</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>01:32</schedulestarttime>
+    <scheduleendtime>02:33</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Danilo Pérez, John Patitucci and Brian Blade bring back the art of the trio at the Jazz à Junas festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Marko Marković Brass Band - Live</programmetitle>
+    <programmenumber>1175</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Marko Markovic</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>02:33</schedulestarttime>
+    <scheduleendtime>04:23</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1> His great-grandfather used to play for the king of Serbia. Here the Marko Marković Brass Band plays at Moods.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>DJ Buhle from Constitution Hill</programmetitle>
+    <programmenumber>2406</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>DJ Buhle</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>04:23</schedulestarttime>
+    <scheduleendtime>04:59</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>DJ Buhle celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Makaya McCraven - Jazz à Sète</programmetitle>
+    <programmenumber>962</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>04:59</schedulestarttime>
+    <scheduleendtime>06:33</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Beat Scientist, drummer and producer, McCraven blurs the lines between jazz, electronic and hip-hop.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Yemen Blues - Live at Moods</programmetitle>
+    <programmenumber>1586</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>06:33</schedulestarttime>
+    <scheduleendtime>06:46</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The Yemen Blues singer combines family roots, and especially Yemeni culture, with rock, blues and even rap.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Black Star/Hypnotic Brass Ensemble</programmetitle>
+    <programmenumber>633</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Yasiin Bey (Mos Def), Talib Kweli</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>06:46</schedulestarttime>
+    <scheduleendtime>06:50</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2018, the Jazz à Vienne Festival hosted modern hip-hop legends Mos Def (Yasiin Bey) and Talib Kweli. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Meridian Brothers - Live at Moods</programmetitle>
+    <programmenumber>1157</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>06:50</schedulestarttime>
+    <scheduleendtime>07:16</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>With Colombian Eblis Álvarez leading the charge, this band is an unclassifiable force to be reckoned with.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ron Carter - Jazz à Vienne Festival</programmetitle>
+    <programmenumber>2585</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>07:16</schedulestarttime>
+    <scheduleendtime>08:09</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Filmed in 2018, Ron Carter is one of the last true masters who participated at the very top of post-war jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Emel Mathlouthi - Live</programmetitle>
+    <programmenumber>733</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Emel Mathlouthi</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>08:09</schedulestarttime>
+    <scheduleendtime>08:56</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Emel Mathlouthi offers a techno-punk performance, brimming with influences from Björk to Massive Attack.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Pat Martino - Lotos Jazz Festival</programmetitle>
+    <programmenumber>562</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Pat Martino</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>08:56</schedulestarttime>
+    <scheduleendtime>09:07</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Miracle guitarist Pat Martino delivers soft-toned grooves with his trio (Carmen Intorre and Pat Bianchi).</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Morcheeba - Live at Jazz à Vienne</programmetitle>
+    <programmenumber>643</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>09:07</schedulestarttime>
+    <scheduleendtime>09:13</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The group’s DNA is found in Edward’s voice and her natural vocal sensibility, and she knows it.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Seun Kuti &amp; Egypt 80 - Moods</programmetitle>
+    <programmenumber>1152</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>09:13</schedulestarttime>
+    <scheduleendtime>09:23</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>They give us sharp, polyrhythmic drums, an array of percussion, and funk guitars that slow-cook the groove.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Rymden - Tourcoing Jazz Festival</programmetitle>
+    <programmenumber>1638</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>09:23</schedulestarttime>
+    <scheduleendtime>09:31</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Double-bassist Dan Berglund and drummer Magnus Oström perform as their new trio with Bugge Wesseltof.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Specials - Live in 1979</programmetitle>
+    <programmenumber>714</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Terry Hall</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>09:31</schedulestarttime>
+    <scheduleendtime>09:36</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>All their hits are there with punk beats, rock riffs, flamboyant brass, reggae pulse and leaping musicians</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Nils Landgren &amp; Bootsy Collins</programmetitle>
+    <programmenumber>209</programmenumber>
+    <yearofrelease>1998</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>09:36</schedulestarttime>
+    <scheduleendtime>09:45</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Two back to back performances by the Nils Landgren Funk Unit and Bootsy Collins at the Jazzopen in Stuttgart.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ulf Wakenius: Jazz à Junas Festival</programmetitle>
+    <programmenumber>596</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Ulf Wakenius</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>09:45</schedulestarttime>
+    <scheduleendtime>09:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>With Vincent Peirani and Simon Tailleu, this concert is infused with Swedish folk and global music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Chlorine Free ft Soweto Kinch &amp; Nya</programmetitle>
+    <programmenumber>618</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>09:54</schedulestarttime>
+    <scheduleendtime>11:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Chlorine Free presents their relaxed groove onstage at Like A Jazz Machine in Luxembourg.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Aretha Franklin - Live in Paris</programmetitle>
+    <programmenumber>204</programmenumber>
+    <yearofrelease>1977</yearofrelease>
+    <directorname/>
+    <castname>Aretha Franklin</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>11:01</schedulestarttime>
+    <scheduleendtime>12:10</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Aretha Franklin sets the Paris Palais des Sports on fire in 1977.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Chuck Berry - RTBF Archives 1965</programmetitle>
+    <programmenumber>707</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Chuck Berry</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>12:10</schedulestarttime>
+    <scheduleendtime>12:44</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Berry's natural energy is enough to break through all formalities, getting rid of any stuffiness.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Kinga Głyk - New Morning</programmetitle>
+    <programmenumber>2648</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>12:44</schedulestarttime>
+    <scheduleendtime>13:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Rising star Polish bass player Kinga Głyk brings hard-hitting funk to the stage of New Morning, Paris.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Richie Havens - Live at Montreux</programmetitle>
+    <programmenumber>712</programmenumber>
+    <yearofrelease>1972</yearofrelease>
+    <directorname/>
+    <castname>Richie Havens</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>13:54</schedulestarttime>
+    <scheduleendtime>14:40</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Recorded in 1972, the African-American singer Richie Havens sends a moving message of love and fraternity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>14:40</schedulestarttime>
+    <scheduleendtime>14:44</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Girma Bèyènè &amp; Akalé Wubé</programmetitle>
+    <programmenumber>1160</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>14:44</schedulestarttime>
+    <scheduleendtime>14:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Ethiopian legend Girma Bèyènè's Amharic lyrics are enhanced by French collective Akalé Wubé at Moods.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>14:54</schedulestarttime>
+    <scheduleendtime>14:58</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Orchestre Poly-Rythmo de Cotonou</programmetitle>
+    <programmenumber>1187</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>14:58</schedulestarttime>
+    <scheduleendtime>15:05</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Formed after the independence of Benin, this band with more than 500 records to their credit is like no other.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>15:05</schedulestarttime>
+    <scheduleendtime>15:08</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Mohamed Abozekry - Live at Moods</programmetitle>
+    <programmenumber>1154</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>15:08</schedulestarttime>
+    <scheduleendtime>15:20</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mohamed Abozekry alongside Lofty Abaza, Hany Bedair, Wassim Halal, and Mohammed Farag for this 2017 concert.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bakolo Music International</programmetitle>
+    <programmenumber>1908</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Papa Bikunda</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>15:20</schedulestarttime>
+    <scheduleendtime>15:27</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bakolo Music International performing at Africolor Fetsival is a monument of Congolese rumba.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Specials - Live in 1979</programmetitle>
+    <programmenumber>714</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Terry Hall</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>15:27</schedulestarttime>
+    <scheduleendtime>15:32</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>All their hits are there with punk beats, rock riffs, flamboyant brass, reggae pulse and leaping musicians</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Melingo w/ Juliette &amp; V. Capossela</programmetitle>
+    <programmenumber>548</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Daniel Melingo</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>15:32</schedulestarttime>
+    <scheduleendtime>15:36</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Welcome to Melingo's surrealist cabaret, which tells the poetry of the shallows, of love &amp; vagabond pathways. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>15:36</schedulestarttime>
+    <scheduleendtime>15:45</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Mohamed Abozekry - Live at Moods</programmetitle>
+    <programmenumber>1154</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>15:45</schedulestarttime>
+    <scheduleendtime>15:52</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mohamed Abozekry alongside Lofty Abaza, Hany Bedair, Wassim Halal, and Mohammed Farag for this 2017 concert.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>15:52</schedulestarttime>
+    <scheduleendtime>15:55</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Orchestre Poly-Rythmo de Cotonou</programmetitle>
+    <programmenumber>1187</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>15:55</schedulestarttime>
+    <scheduleendtime>16:00</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Formed after the independence of Benin, this band with more than 500 records to their credit is like no other.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sharon Jones and the Dap-Kings</programmetitle>
+    <programmenumber>111</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Sharon Jones</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>16:00</schedulestarttime>
+    <scheduleendtime>16:07</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Soul, funk, R&amp;B and some infectious dance lessons are delivered by this great figure of Afro-American music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bassekou Kouyaté &amp; Ngoni Ba</programmetitle>
+    <programmenumber>1585</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>16:07</schedulestarttime>
+    <scheduleendtime>16:23</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Seeing Bassekou Kouyaté live at Moods with his Ngoni makes it hard to resist his magical vibes. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Pat Martino - Lotos Jazz Festival</programmetitle>
+    <programmenumber>562</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Pat Martino</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>16:23</schedulestarttime>
+    <scheduleendtime>16:28</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Miracle guitarist Pat Martino delivers soft-toned grooves with his trio (Carmen Intorre and Pat Bianchi).</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>16:28</schedulestarttime>
+    <scheduleendtime>16:33</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sly &amp; Robbie meet Molvær &amp; Aarset</programmetitle>
+    <programmenumber>1193</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Lowell 'Sly' Dunbar, Robbie Shakespeare, Nils Petter Molvaer, Eivind Aarset</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>16:33</schedulestarttime>
+    <scheduleendtime>16:41</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The book of life opens onto a dreamlike country where Norwegian Nu jazz transcends the riddims of Jamaica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hypnotic Brass Ensemble - Live</programmetitle>
+    <programmenumber>534</programmenumber>
+    <yearofrelease>2012</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>16:41</schedulestarttime>
+    <scheduleendtime>16:49</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>How often do you see eight brothers rocking together on stage, all weilding different golden instruments? </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>16:49</schedulestarttime>
+    <scheduleendtime>16:52</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Brad Mehldau plays The Beatles</programmetitle>
+    <programmenumber>1637</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Brad Mehldau</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>16:52</schedulestarttime>
+    <scheduleendtime>16:55</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Just as many other jazz or soul artists have adapted the Beatles, here, Brad Mehldau follows the same dynamic.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>R. Galliano &amp; Polish Orchestra</programmetitle>
+    <programmenumber>1635</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Richard Galliano</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>16:55</schedulestarttime>
+    <scheduleendtime>17:04</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The repertoire: Aconcagua, concerto for bandoneon by Piazzolla; Madreperla, concerto for accordion by Galliano</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jimmy McGriff Trio - Live in 1965</programmetitle>
+    <programmenumber>245</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Jimmy McGriff</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>17:04</schedulestarttime>
+    <scheduleendtime>17:46</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>At the helm of a classic organ trio, with guitar and drums support, McGriff dives deep into an ocean of blues.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Lee Fields &amp; The Expressions - Live</programmetitle>
+    <programmenumber>985</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>17:46</schedulestarttime>
+    <scheduleendtime>19:14</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mr. Lee Fields, a stalwart of soul, performs at Jazz à La Villette Festival with three members of Antibalas.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Da Capo from Constitution Hill</programmetitle>
+    <programmenumber>2408</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>Da Capo</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>19:14</schedulestarttime>
+    <scheduleendtime>20:08</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Da Capo celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sly &amp; Robbie meet Molvær &amp; Aarset</programmetitle>
+    <programmenumber>1193</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Lowell 'Sly' Dunbar, Robbie Shakespeare, Nils Petter Molvaer, Eivind Aarset</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>20:08</schedulestarttime>
+    <scheduleendtime>20:19</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The book of life opens onto a dreamlike country where Norwegian Nu jazz transcends the riddims of Jamaica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Rymden - Tourcoing Jazz Festival</programmetitle>
+    <programmenumber>1638</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>20:19</schedulestarttime>
+    <scheduleendtime>20:28</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Double-bassist Dan Berglund and drummer Magnus Oström perform as their new trio with Bugge Wesseltof.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Orchestre Poly-Rythmo de Cotonou</programmetitle>
+    <programmenumber>1187</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>20:28</schedulestarttime>
+    <scheduleendtime>20:33</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Formed after the independence of Benin, this band with more than 500 records to their credit is like no other.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sharon Jones and the Dap-Kings</programmetitle>
+    <programmenumber>111</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Sharon Jones</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>20:33</schedulestarttime>
+    <scheduleendtime>20:37</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Soul, funk, R&amp;B and some infectious dance lessons are delivered by this great figure of Afro-American music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Pat Martino - Lotos Jazz Festival</programmetitle>
+    <programmenumber>562</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Pat Martino</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>20:37</schedulestarttime>
+    <scheduleendtime>20:45</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Miracle guitarist Pat Martino delivers soft-toned grooves with his trio (Carmen Intorre and Pat Bianchi).</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>20:45</schedulestarttime>
+    <scheduleendtime>20:48</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Modern Jazz Quartet - Live in 1962</programmetitle>
+    <programmenumber>238</programmenumber>
+    <yearofrelease>1962</yearofrelease>
+    <directorname/>
+    <castname>Modern Jazz Quartet</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>20:48</schedulestarttime>
+    <scheduleendtime>20:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1/>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>20:54</schedulestarttime>
+    <scheduleendtime>20:58</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Anderson .Paak - Live</programmetitle>
+    <programmenumber>32</programmenumber>
+    <yearofrelease>2016</yearofrelease>
+    <directorname/>
+    <castname>Anderson .Paak</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>20:58</schedulestarttime>
+    <scheduleendtime>21:03</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The most soulful of California rappers onstage at one of the major French festivals of the summer of 2016.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Modern Jazz Quartet - Live in 1962</programmetitle>
+    <programmenumber>238</programmenumber>
+    <yearofrelease>1962</yearofrelease>
+    <directorname/>
+    <castname>Modern Jazz Quartet</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>21:03</schedulestarttime>
+    <scheduleendtime>21:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1/>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Freddie Hubbard Quartet - RTBF</programmetitle>
+    <programmenumber>721</programmenumber>
+    <yearofrelease>1981</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>21:34</schedulestarttime>
+    <scheduleendtime>22:18</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Hubbard shows how much his technique combines power and a disconcerting speed in this unique archive concert.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Specials - Live in 1979</programmetitle>
+    <programmenumber>714</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Terry Hall</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>22:18</schedulestarttime>
+    <scheduleendtime>22:38</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>All their hits are there with punk beats, rock riffs, flamboyant brass, reggae pulse and leaping musicians</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Rhoda Scott Lady Quartet - Live</programmetitle>
+    <programmenumber>1188</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Rhoda Scott</castname>
+    <scheduledate>07082023</scheduledate>
+    <schedulestarttime>22:38</schedulestarttime>
+    <scheduleendtime>00:19</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Seeing Scott's group composed entirely by women is a real rare pleasure, the inverse being very common.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jason Moran "Bandwagon" - Live</programmetitle>
+    <programmenumber>74</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Jason Moran, Tarus Mateen</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>00:19</schedulestarttime>
+    <scheduleendtime>01:20</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Major American jazz figure, Jason Moran and his trio find a perfect balance between classicism and modernity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Mar-Khalifé &amp; Aboulouafa, Piano Day</programmetitle>
+    <programmenumber>2455</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>01:20</schedulestarttime>
+    <scheduleendtime>02:06</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bachar and Meryem elegantly combine contemporary classical music with traditional Lebanese singing.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Da Capo from Constitution Hill</programmetitle>
+    <programmenumber>2408</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>Da Capo</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>02:06</schedulestarttime>
+    <scheduleendtime>03:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Da Capo celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Yom - Back to the Klezmer</programmetitle>
+    <programmenumber>260</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Yom</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>03:01</schedulestarttime>
+    <scheduleendtime>03:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Yom owes his instrument's choice to his father and his Ashkenazi culture to his mother, born in Transylvania.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>03:54</schedulestarttime>
+    <scheduleendtime>03:56</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Lionel Hampton - RTBF Archives 1959</programmetitle>
+    <programmenumber>250</programmenumber>
+    <yearofrelease>1959</yearofrelease>
+    <directorname/>
+    <castname>Lionel Hampton</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>03:56</schedulestarttime>
+    <scheduleendtime>04:05</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The drummer and vibraphonist makes a tour stop in Liège, Belgium, with a supercharged orchestra.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Earl Hines &amp; His All Stars – RTBF</programmetitle>
+    <programmenumber>716</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Earl Hines</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>04:05</schedulestarttime>
+    <scheduleendtime>04:07</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>04:07</schedulestarttime>
+    <scheduleendtime>04:11</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Anderson .Paak - Live</programmetitle>
+    <programmenumber>32</programmenumber>
+    <yearofrelease>2016</yearofrelease>
+    <directorname/>
+    <castname>Anderson .Paak</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>04:11</schedulestarttime>
+    <scheduleendtime>04:16</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The most soulful of California rappers onstage at one of the major French festivals of the summer of 2016.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>04:16</schedulestarttime>
+    <scheduleendtime>04:28</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Archie Shepp "In the Mood" - Live</programmetitle>
+    <programmenumber>488</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Archie Shepp</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>04:28</schedulestarttime>
+    <scheduleendtime>04:43</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>On the island of Porquerolles in Provence, jazz soaks its feet every summer, here with Captain Archie Shepp.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bilal - Live at Moods</programmetitle>
+    <programmenumber>1587</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname>Bilal</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>04:43</schedulestarttime>
+    <scheduleendtime>04:49</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bilal starts his set with "Sirens II," a haunting theme that stands at the crossroads between rock and RnB.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>04:49</schedulestarttime>
+    <scheduleendtime>04:56</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>R. Gallagher - Marquee Club, London</programmetitle>
+    <programmenumber>713</programmenumber>
+    <yearofrelease>1973</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>04:56</schedulestarttime>
+    <scheduleendtime>04:59</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This concert was recorded at the London Marquee Club in 1973, Gallagher was on a world tour at the age of 25.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Nucleus - RTBF</programmetitle>
+    <programmenumber>710</programmenumber>
+    <yearofrelease>1971</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>04:59</schedulestarttime>
+    <scheduleendtime>05:08</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Seun Kuti &amp; Egypt 80 - Moods</programmetitle>
+    <programmenumber>1152</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>05:08</schedulestarttime>
+    <scheduleendtime>05:19</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>They give us sharp, polyrhythmic drums, an array of percussion, and funk guitars that slow-cook the groove.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Melingo w/ Juliette &amp; V. Capossela</programmetitle>
+    <programmenumber>548</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Daniel Melingo</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>05:19</schedulestarttime>
+    <scheduleendtime>05:22</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Welcome to Melingo's surrealist cabaret, which tells the poetry of the shallows, of love &amp; vagabond pathways. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>05:22</schedulestarttime>
+    <scheduleendtime>05:29</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Dionne Warwick - RTBF Archives 1964</programmetitle>
+    <programmenumber>61</programmenumber>
+    <yearofrelease>1964</yearofrelease>
+    <directorname/>
+    <castname>Dionne Warwick</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>05:29</schedulestarttime>
+    <scheduleendtime>05:32</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>An exemplar of both pop and R&amp;B, Warwick had an incredibly soulful sound that endeared her to music lovers.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bombino - Live at Moods</programmetitle>
+    <programmenumber>1189</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Bombino</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>05:32</schedulestarttime>
+    <scheduleendtime>05:40</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bombino sings about the identity politics and culture of the Tuareg people of Niger with sensitivity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>05:40</schedulestarttime>
+    <scheduleendtime>05:57</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>05:57</schedulestarttime>
+    <scheduleendtime>05:59</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>05:59</schedulestarttime>
+    <scheduleendtime>06:09</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Mohamed Abozekry - Live at Moods</programmetitle>
+    <programmenumber>1154</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>06:09</schedulestarttime>
+    <scheduleendtime>06:19</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mohamed Abozekry alongside Lofty Abaza, Hany Bedair, Wassim Halal, and Mohammed Farag for this 2017 concert.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>06:19</schedulestarttime>
+    <scheduleendtime>06:27</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bombino - Live at Moods</programmetitle>
+    <programmenumber>1189</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Bombino</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>06:27</schedulestarttime>
+    <scheduleendtime>06:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bombino sings about the identity politics and culture of the Tuareg people of Niger with sensitivity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Antibalas - Live at Moods</programmetitle>
+    <programmenumber>1200</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>06:34</schedulestarttime>
+    <scheduleendtime>06:45</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Antibalas gives us afrobeat and mix in modern funk, the avant-garde, dub and electronic influences.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Pat Martino - Lotos Jazz Festival</programmetitle>
+    <programmenumber>562</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Pat Martino</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>06:45</schedulestarttime>
+    <scheduleendtime>06:53</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Miracle guitarist Pat Martino delivers soft-toned grooves with his trio (Carmen Intorre and Pat Bianchi).</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>KiNK B2B Janson - Peacock Society</programmetitle>
+    <programmenumber>1253</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>KiNK, Gerd Janson</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>06:53</schedulestarttime>
+    <scheduleendtime>07:16</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>KiNK and Gerd Janson join forces and showcase their love for disco in a boiling hot back-to-back session. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jason Moran "Bandwagon" - Live</programmetitle>
+    <programmenumber>74</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Jason Moran, Tarus Mateen</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>07:16</schedulestarttime>
+    <scheduleendtime>08:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Major American jazz figure, Jason Moran and his trio find a perfect balance between classicism and modernity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Gina Jeanz from Constitution Hill</programmetitle>
+    <programmenumber>2407</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>Gina Jeanz</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>08:01</schedulestarttime>
+    <scheduleendtime>08:55</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Gina Jeanz celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Louis Armstrong &amp; his All Stars</programmetitle>
+    <programmenumber>248</programmenumber>
+    <yearofrelease>1959</yearofrelease>
+    <directorname/>
+    <castname>Louis Armstrong</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>08:55</schedulestarttime>
+    <scheduleendtime>08:59</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This footage is a reminder of Satchmo's talent, unique tone and ability to bring out countless subtleties.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Rymden - Tourcoing Jazz Festival</programmetitle>
+    <programmenumber>1638</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>08:59</schedulestarttime>
+    <scheduleendtime>09:10</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Double-bassist Dan Berglund and drummer Magnus Oström perform as their new trio with Bugge Wesseltof.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Melingo w/ Juliette &amp; V. Capossela</programmetitle>
+    <programmenumber>548</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Daniel Melingo</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>09:10</schedulestarttime>
+    <scheduleendtime>09:20</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Welcome to Melingo's surrealist cabaret, which tells the poetry of the shallows, of love &amp; vagabond pathways. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Pat Martino - Lotos Jazz Festival</programmetitle>
+    <programmenumber>562</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Pat Martino</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>09:20</schedulestarttime>
+    <scheduleendtime>09:31</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Miracle guitarist Pat Martino delivers soft-toned grooves with his trio (Carmen Intorre and Pat Bianchi).</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>09:31</schedulestarttime>
+    <scheduleendtime>09:33</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Girma Bèyènè &amp; Akalé Wubé</programmetitle>
+    <programmenumber>1160</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>09:33</schedulestarttime>
+    <scheduleendtime>09:44</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Ethiopian legend Girma Bèyènè's Amharic lyrics are enhanced by French collective Akalé Wubé at Moods.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bassekou Kouyaté &amp; Ngoni Ba</programmetitle>
+    <programmenumber>1585</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>09:44</schedulestarttime>
+    <scheduleendtime>09:49</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Seeing Bassekou Kouyaté live at Moods with his Ngoni makes it hard to resist his magical vibes. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Anderson .Paak - Live</programmetitle>
+    <programmenumber>32</programmenumber>
+    <yearofrelease>2016</yearofrelease>
+    <directorname/>
+    <castname>Anderson .Paak</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>09:49</schedulestarttime>
+    <scheduleendtime>09:55</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The most soulful of California rappers onstage at one of the major French festivals of the summer of 2016.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Rhoda Scott Lady Quartet - Live</programmetitle>
+    <programmenumber>1188</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Rhoda Scott</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>09:55</schedulestarttime>
+    <scheduleendtime>11:35</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Seeing Scott's group composed entirely by women is a real rare pleasure, the inverse being very common.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ray Charles - Salle Pleyel, Paris</programmetitle>
+    <programmenumber>1485</programmenumber>
+    <yearofrelease>1968</yearofrelease>
+    <directorname/>
+    <castname>Ray Charles</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>11:35</schedulestarttime>
+    <scheduleendtime>12:23</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 1970, the great Ray Charles played 6 nights in Paris. This broadcast depicted him at the top of his game.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>W. Marsalis: Blood On The Fields</programmetitle>
+    <programmenumber>2552</programmenumber>
+    <yearofrelease>1996</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>12:23</schedulestarttime>
+    <scheduleendtime>13:28</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 1995, Marsalis rehearses what later on became the first jazz epic oratorio awarded with The Pulitzer Prize.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Coulondre Trio - Michel On My Mind</programmetitle>
+    <programmenumber>1922</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname>Laurent Coulondre</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>13:28</schedulestarttime>
+    <scheduleendtime>14:44</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>French pianist Laurent Coulondre's album Michel On My Mind commemorates the anniversary of Petrucciani's death</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Avishai Cohen</programmetitle>
+    <programmenumber>2583</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>14:44</schedulestarttime>
+    <scheduleendtime>16:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The doublebass virtuoso plays the Jazz à Vienne Fest alongside pianist Elchin Shirinov &amp; drummer Roni Kaspi.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>LSO: Dvorak, Ginastera &amp; Gerhard</programmetitle>
+    <programmenumber>2476</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>16:34</schedulestarttime>
+    <scheduleendtime>16:39</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Not scheduled, Dvořák's Serenade for Winds in D minor turned out to be the highlight of a very fine concert.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Weber, Mendelssohn &amp; Schumann</programmetitle>
+    <programmenumber>2473</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>16:39</schedulestarttime>
+    <scheduleendtime>16:46</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Isabelle Faust and Kristian Bezuidenhout under the baton of John Eliot Gardiner and London Symphony Orchestra.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Alexander Ekman: A Swan Lake</programmetitle>
+    <programmenumber>1377</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Alexander Ekman</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>16:46</schedulestarttime>
+    <scheduleendtime>16:51</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Dancers are joined on stage by actors, a soprano, musicians, 5 000 liters of water and 1 000 rubber ducks.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Juan Diego Flórez</programmetitle>
+    <programmenumber>1766</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname>Juan Diego Flórez</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>16:51</schedulestarttime>
+    <scheduleendtime>16:56</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Juan Diego Flórez with his bewitching voice is accompanied by the formidable pianist Vincenzo Scalera. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>LSO: Dvorak, Ginastera &amp; Gerhard</programmetitle>
+    <programmenumber>2476</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>16:56</schedulestarttime>
+    <scheduleendtime>17:02</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Not scheduled, Dvořák's Serenade for Winds in D minor turned out to be the highlight of a very fine concert.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>John Wilson: Swing It!</programmetitle>
+    <programmenumber>2477</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>17:02</schedulestarttime>
+    <scheduleendtime>17:07</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>John Wilson and the London Symphony Orchestra showcase the influence of jazz on Bennett, Ravel and Gershwin. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle> Art Blakey &amp; The Jazz Messengers</programmetitle>
+    <programmenumber>1449</programmenumber>
+    <yearofrelease>1963</yearofrelease>
+    <directorname/>
+    <castname>Art Blakey</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>17:07</schedulestarttime>
+    <scheduleendtime>17:39</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The musicians who take part in this concert form one of the best formulas that the Jazz Messengers ever knew.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Richie Havens - Live at Montreux</programmetitle>
+    <programmenumber>712</programmenumber>
+    <yearofrelease>1972</yearofrelease>
+    <directorname/>
+    <castname>Richie Havens</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>17:39</schedulestarttime>
+    <scheduleendtime>18:25</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Recorded in 1972, the African-American singer Richie Havens sends a moving message of love and fraternity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Les Amazones d'Afrique</programmetitle>
+    <programmenumber>737</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>18:25</schedulestarttime>
+    <scheduleendtime>19:26</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Les Amazones d’Afrique brings Malian women together around issues such as equality and freedom. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>19:26</schedulestarttime>
+    <scheduleendtime>19:39</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>UB40 - RTBF Archives 1980</programmetitle>
+    <programmenumber>715</programmenumber>
+    <yearofrelease>1980</yearofrelease>
+    <directorname/>
+    <castname>Ali Campbell</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>19:39</schedulestarttime>
+    <scheduleendtime>19:43</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 1980, UB40 is not yet the huge machine they would become, but their fresh reggae still oozes charisma. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bombino - Live at Moods</programmetitle>
+    <programmenumber>1189</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Bombino</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>19:43</schedulestarttime>
+    <scheduleendtime>19:51</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bombino sings about the identity politics and culture of the Tuareg people of Niger with sensitivity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Antibalas - Live at Moods</programmetitle>
+    <programmenumber>1200</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>19:51</schedulestarttime>
+    <scheduleendtime>20:03</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Antibalas gives us afrobeat and mix in modern funk, the avant-garde, dub and electronic influences.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>20:03</schedulestarttime>
+    <scheduleendtime>20:11</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hypnotic Brass Ensemble - Live</programmetitle>
+    <programmenumber>534</programmenumber>
+    <yearofrelease>2012</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>20:11</schedulestarttime>
+    <scheduleendtime>20:17</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>How often do you see eight brothers rocking together on stage, all weilding different golden instruments? </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>20:17</schedulestarttime>
+    <scheduleendtime>20:31</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bassekou Kouyaté &amp; Ngoni Ba</programmetitle>
+    <programmenumber>1585</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>20:31</schedulestarttime>
+    <scheduleendtime>20:38</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Seeing Bassekou Kouyaté live at Moods with his Ngoni makes it hard to resist his magical vibes. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>BB King - JazzOpen Stuttgart</programmetitle>
+    <programmenumber>207</programmenumber>
+    <yearofrelease>1997</yearofrelease>
+    <directorname/>
+    <castname>BB King</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>20:38</schedulestarttime>
+    <scheduleendtime>20:43</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>King displays here all his musical gifts, singing with soul and wit and expertly leading his crack band.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sly &amp; Robbie meet Molvær &amp; Aarset</programmetitle>
+    <programmenumber>1193</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Lowell 'Sly' Dunbar, Robbie Shakespeare, Nils Petter Molvaer, Eivind Aarset</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>20:43</schedulestarttime>
+    <scheduleendtime>20:49</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The book of life opens onto a dreamlike country where Norwegian Nu jazz transcends the riddims of Jamaica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Chuck Berry - RTBF Archives 1965</programmetitle>
+    <programmenumber>707</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Chuck Berry</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>20:49</schedulestarttime>
+    <scheduleendtime>20:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Berry's natural energy is enough to break through all formalities, getting rid of any stuffiness.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Yemen Blues - Live at Moods</programmetitle>
+    <programmenumber>1586</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>20:54</schedulestarttime>
+    <scheduleendtime>21:04</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The Yemen Blues singer combines family roots, and especially Yemeni culture, with rock, blues and even rap.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Mar-Khalifé &amp; Aboulouafa, Piano Day</programmetitle>
+    <programmenumber>2455</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>21:04</schedulestarttime>
+    <scheduleendtime>21:50</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bachar and Meryem elegantly combine contemporary classical music with traditional Lebanese singing.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Charles Mingus &amp; Eric Dolphy - RTBF</programmetitle>
+    <programmenumber>255</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Charles Mingus, Eric Dolphy</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>21:50</schedulestarttime>
+    <scheduleendtime>22:28</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Together, Mingus and Dolphy symbolize the 60s' climax, where swing and free jazz meet at a tipping point.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Comet is Coming</programmetitle>
+    <programmenumber>2605</programmenumber>
+    <yearofrelease>2012</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>22:28</schedulestarttime>
+    <scheduleendtime>23:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The trio combines Sun Ra's mythological and experimental themes in a fusion of jazz, afrobeat and electronica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>UB40 - RTBF Archives 1980</programmetitle>
+    <programmenumber>715</programmenumber>
+    <yearofrelease>1980</yearofrelease>
+    <directorname/>
+    <castname>Ali Campbell</castname>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>23:34</schedulestarttime>
+    <scheduleendtime>23:52</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 1980, UB40 is not yet the huge machine they would become, but their fresh reggae still oozes charisma. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Lucía De Carvalho - Live in France</programmetitle>
+    <programmenumber>2600</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>08082023</scheduledate>
+    <schedulestarttime>23:52</schedulestarttime>
+    <scheduleendtime>00:53</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>At Nancy Jazz Pulsations Fest, the Angolan singer performs tracks from her latest album, the brilliant Pwanga.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Frisell - The Disfarmers</programmetitle>
+    <programmenumber>297</programmenumber>
+    <yearofrelease>2011</yearofrelease>
+    <directorname/>
+    <castname>Bill Frisell</castname>
+    <scheduledate>09082023</scheduledate>
+    <schedulestarttime>00:53</schedulestarttime>
+    <scheduleendtime>02:19</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This is a soundtrack illustrating photographs by Mike Disfarmer documenting rural America in the Depression.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Specials - Live in 1979</programmetitle>
+    <programmenumber>714</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Terry Hall</castname>
+    <scheduledate>09082023</scheduledate>
+    <schedulestarttime>02:19</schedulestarttime>
+    <scheduleendtime>02:39</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>All their hits are there with punk beats, rock riffs, flamboyant brass, reggae pulse and leaping musicians</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Les Amazones d'Afrique</programmetitle>
+    <programmenumber>737</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>09082023</scheduledate>
+    <schedulestarttime>02:39</schedulestarttime>
+    <scheduleendtime>03:40</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Les Amazones d’Afrique brings Malian women together around issues such as equality and freedom. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Tigran Hamasyan - Live in Norway</programmetitle>
+    <programmenumber>125</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Tigran Hamasyan</castname>
+    <scheduledate>09082023</scheduledate>
+    <schedulestarttime>03:40</schedulestarttime>
+    <scheduleendtime>04:46</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Pianist Hamasyan and samplerist Jan Bang combine eastern accents and electronic riffs at Punkt Festival 2013.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Maceo Parker &amp; Roots Revisited</programmetitle>
+    <programmenumber>199</programmenumber>
+    <yearofrelease>1991</yearofrelease>
+    <directorname/>
+    <castname>Maceo Parker</castname>
+    <scheduledate>09082023</scheduledate>
+    <schedulestarttime>04:46</schedulestarttime>
+    <scheduleendtime>05:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>James Brown alumni Maceo Parker, Fred Wesley and Pee Wee Ellis stir up funky jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Chuck Berry - RTBF Archives 1965</programmetitle>
+    <programmenumber>707</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Chuck Berry</castname>
+    <scheduledate>09082023</scheduledate>
+    <schedulestarttime>05:54</schedulestarttime>
+    <scheduleendtime>05:58</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Berry's natural energy is enough to break through all formalities, getting rid of any stuffiness.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Girma Bèyènè &amp; Akalé Wubé</programmetitle>
+    <programmenumber>1160</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>09082023</scheduledate>
+    <schedulestarttime>05:58</schedulestarttime>
+    <scheduleendtime>06:08</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Ethiopian legend Girma Bèyènè's Amharic lyrics are enhanced by French collective Akalé Wubé at Moods.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Nucleus - RTBF</programmetitle>
+    <programmenumber>710</programmenumber>
+    <yearofrelease>1971</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>09082023</scheduledate>
+    <schedulestarttime>06:08</schedulestarttime>
+    <scheduleendtime>06:20</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sharon Jones and the Dap-Kings</programmetitle>
+    <programmenumber>111</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Sharon Jones</castname>
+    <scheduledate>09082023</scheduledate>
+    <schedulestarttime>06:20</schedulestarttime>
+    <scheduleendtime>06:23</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Soul, funk, R&amp;B and some infectious dance lessons are delivered by this great figure of Afro-American music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Pat Martino - Lotos Jazz Festival</programmetitle>
+    <programmenumber>562</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Pat Martino</castname>
+    <scheduledate>09082023</scheduledate>
+    <schedulestarttime>06:23</schedulestarttime>
+    <scheduleendtime>06:31</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Miracle guitarist Pat Martino delivers soft-toned grooves with his trio (Carmen Intorre and Pat Bianchi).</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>09082023</scheduledate>
+    <schedulestarttime>06:31</schedulestarttime>
+    <scheduleendtime>06:48</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>09082023</scheduledate>
+    <schedulestarttime>06:48</schedulestarttime>
+    <scheduleendtime>06:52</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Abraham Inc. - Live</programmetitle>
+    <programmenumber>471</programmenumber>
+    <yearofrelease>2010</yearofrelease>
+    <directorname/>
+    <castname>David Krakauer, Fred Wesley, Socalled</castname>
+    <scheduledate>09082023</scheduledate>
+    <schedulestarttime>06:52</schedulestarttime>
+    <scheduleendtime>07:10</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Feat. David Krakauer, Fred Wesley &amp; Socalled, jewish music, jazz and funk are mixed at Jazz à la Villette.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Naïssam Jalal - Banlieues Bleues</programmetitle>
+    <programmenumber>739</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Naïssam Jalal</castname>
+    <scheduledate>09082023</scheduledate>
+    <schedulestarttime>07:10</schedulestarttime>
+    <scheduleendtime>08:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>At the Banlieues Bleues Festival, flautist and fighter Naïsim Jalal blends modal jazz with Sufi traditions.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Gasandji - Live at Moods</programmetitle>
+    <programmenumber>1166</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>09082023</scheduledate>
+    <schedulestarttime>08:01</schedulestarttime>
+    <scheduleendtime>10:21</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Gasandji, a native of the Republic of Congo, takes us into a unique world with her stories and music. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Leyla McCalla - Live</programmetitle>
+    <programmenumber>996</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname>Leyla McCalla</castname>
+    <scheduledate>09082023</scheduledate>
+    <schedulestarttime>10:21</schedulestarttime>
+    <scheduleendtime>11:12</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Without artifice and with total sincerity, McCalla sings with a simplicity that touches our hearts and minds.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>OUM - Live at Moods</programmetitle>
+    <programmenumber>1575</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>09082023</scheduledate>
+    <schedulestarttime>11:12</schedulestarttime>
+    <scheduleendtime>13:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The Saharawi descendant revisits parts of her discography, accompanied by Yacir Rami and bassist Damian Nueva.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Lucía De Carvalho - Live in France</programmetitle>
+    <programmenumber>2600</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>09082023</scheduledate>
+    <schedulestarttime>13:01</schedulestarttime>
+    <scheduleendtime>14:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>At Nancy Jazz Pulsations Fest, the Angolan singer performs tracks from her latest album, the brilliant Pwanga.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Dionne Warwick - RTBF Archives 1964</programmetitle>
+    <programmenumber>61</programmenumber>
+    <yearofrelease>1964</yearofrelease>
+    <directorname/>
+    <castname>Dionne Warwick</castname>
+    <scheduledate>09082023</scheduledate>
+    <schedulestarttime>14:01</schedulestarttime>
+    <scheduleendtime>14:33</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>An exemplar of both pop and R&amp;B, Warwick had an incredibly soulful sound that endeared her to music lovers.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>09082023</scheduledate>
+    <schedulestarttime>14:33</schedulestarttime>
+    <scheduleendtime>15:23</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>09082023</scheduledate>
+    <schedulestarttime>15:23</schedulestarttime>
+    <scheduleendtime>16:12</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Liz McComb - Olympia, Paris</programmetitle>
+    <programmenumber>228</programmenumber>
+    <yearofrelease>1998</yearofrelease>
+    <directorname/>
+    <castname>Liz McComb</castname>
+    <scheduledate>09082023</scheduledate>
+    <schedulestarttime>16:12</schedulestarttime>
+    <scheduleendtime>17:23</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Between gospel and soul, singer and pianist Liz McComb is joined by three fine-tuned musicians in Paris, 1998.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>DD Bridgewater Pays Tribute to Ella</programmetitle>
+    <programmenumber>900</programmenumber>
+    <yearofrelease>1997</yearofrelease>
+    <directorname/>
+    <castname>Dee Dee Bridgewater</castname>
+    <scheduledate>09082023</scheduledate>
+    <schedulestarttime>17:23</schedulestarttime>
+    <scheduleendtime>18:30</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Jazz prodigee Dee Dee Bridgewater pays tribute to Ella Fitzgerald accompanied by Ray Brown, Milt Jackson, etc.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Judith Hill - Live at Moods</programmetitle>
+    <programmenumber>1581</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname>Judith Hill</castname>
+    <scheduledate>09082023</scheduledate>
+    <schedulestarttime>18:30</schedulestarttime>
+    <scheduleendtime>20:16</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>A soul heritage that Judith Hill, added to the delicacy of her touch on the piano, imposes naturally.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Diana Ross &amp; The Supremes</programmetitle>
+    <programmenumber>1484</programmenumber>
+    <yearofrelease>1968</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>09082023</scheduledate>
+    <schedulestarttime>20:16</schedulestarttime>
+    <scheduleendtime>20:45</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1> In 1968, Diana Ross gives an eye-catching performance in the royal presence of the Supremes.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Aretha Franklin - Live in Paris</programmetitle>
+    <programmenumber>204</programmenumber>
+    <yearofrelease>1977</yearofrelease>
+    <directorname/>
+    <castname>Aretha Franklin</castname>
+    <scheduledate>09082023</scheduledate>
+    <schedulestarttime>20:45</schedulestarttime>
+    <scheduleendtime>21:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Aretha Franklin sets the Paris Palais des Sports on fire in 1977.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hindi Zahra &amp; Fatoumata Diawara</programmetitle>
+    <programmenumber>740</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Fatoumata Diawara</castname>
+    <scheduledate>09082023</scheduledate>
+    <schedulestarttime>21:54</schedulestarttime>
+    <scheduleendtime>23:00</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The duo mix Bambara with Amazigh &amp; English, folk with jazz, soul with blues &amp; reggae at Banlieues Bleues fest.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Les Amazones d'Afrique</programmetitle>
+    <programmenumber>737</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>09082023</scheduledate>
+    <schedulestarttime>23:00</schedulestarttime>
+    <scheduleendtime>00:02</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Les Amazones d’Afrique brings Malian women together around issues such as equality and freedom. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Morcheeba - Live at Jazz à Vienne</programmetitle>
+    <programmenumber>643</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>00:02</schedulestarttime>
+    <scheduleendtime>01:56</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The group’s DNA is found in Edward’s voice and her natural vocal sensibility, and she knows it.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>DJ Buhle from Constitution Hill</programmetitle>
+    <programmenumber>2406</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>DJ Buhle</castname>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>01:56</schedulestarttime>
+    <scheduleendtime>02:32</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>DJ Buhle celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Gina Jeanz from Constitution Hill</programmetitle>
+    <programmenumber>2407</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>Gina Jeanz</castname>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>02:32</schedulestarttime>
+    <scheduleendtime>03:27</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Gina Jeanz celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Kinga Głyk - New Morning</programmetitle>
+    <programmenumber>2648</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>03:27</schedulestarttime>
+    <scheduleendtime>04:38</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Rising star Polish bass player Kinga Głyk brings hard-hitting funk to the stage of New Morning, Paris.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ala.ni - Live in Paris</programmetitle>
+    <programmenumber>982</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>04:38</schedulestarttime>
+    <scheduleendtime>05:25</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Jazz singer Ala.ni takes to the stage of the Grande Halle de la Villette, in Paris with an original setup.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Emel Mathlouthi - Live</programmetitle>
+    <programmenumber>733</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Emel Mathlouthi</castname>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>05:25</schedulestarttime>
+    <scheduleendtime>06:13</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Emel Mathlouthi offers a techno-punk performance, brimming with influences from Björk to Massive Attack.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ambrose Akinmusire-12Q</programmetitle>
+    <programmenumber>1211</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Ambrose Akinmusire</castname>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>06:13</schedulestarttime>
+    <scheduleendtime>06:25</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Keziah Jones-12Q</programmetitle>
+    <programmenumber>1210</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Keziah Jones</castname>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>06:25</schedulestarttime>
+    <scheduleendtime>06:36</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Oumou Sangaré-12Q</programmetitle>
+    <programmenumber>693</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname>Oumou Sangaré</castname>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>06:36</schedulestarttime>
+    <scheduleendtime>06:41</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Lianne La Havas-12Q</programmetitle>
+    <programmenumber>687</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname>Lianne La Havas</castname>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>06:41</schedulestarttime>
+    <scheduleendtime>06:47</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Erykah Badu-12Q</programmetitle>
+    <programmenumber>678</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname>Erykah Badu</castname>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>06:47</schedulestarttime>
+    <scheduleendtime>06:52</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Carl Cox - Awakenings Festival</programmetitle>
+    <programmenumber>1360</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Carl Cox</castname>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>06:52</schedulestarttime>
+    <scheduleendtime>07:07</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In this DJ set at Awakenings Festival in Amsterdam, Cox hits the crowd with a barrage of techno stompers.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Frisell - The Disfarmers</programmetitle>
+    <programmenumber>297</programmenumber>
+    <yearofrelease>2011</yearofrelease>
+    <directorname/>
+    <castname>Bill Frisell</castname>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>07:07</schedulestarttime>
+    <scheduleendtime>08:25</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This is a soundtrack illustrating photographs by Mike Disfarmer documenting rural America in the Depression.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Da Capo from Constitution Hill</programmetitle>
+    <programmenumber>2408</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>Da Capo</castname>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>08:25</schedulestarttime>
+    <scheduleendtime>09:21</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Da Capo celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Morcheeba - Live at Jazz à Vienne</programmetitle>
+    <programmenumber>643</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>09:21</schedulestarttime>
+    <scheduleendtime>09:26</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The group’s DNA is found in Edward’s voice and her natural vocal sensibility, and she knows it.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>09:26</schedulestarttime>
+    <scheduleendtime>09:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Archie Shepp "In the Mood" - Live</programmetitle>
+    <programmenumber>488</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Archie Shepp</castname>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>09:34</schedulestarttime>
+    <scheduleendtime>09:44</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>On the island of Porquerolles in Provence, jazz soaks its feet every summer, here with Captain Archie Shepp.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jorge Rossy Vibes Quintet - Moods</programmetitle>
+    <programmenumber>1590</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Jorge Rossy, Mark Turner, Billy Hart</castname>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>09:44</schedulestarttime>
+    <scheduleendtime>09:57</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>With saxist Mark Turner, Jaume Llombart on guitar and a rhythmic duo: bassist Doug Weiss &amp; drummer Billy Hart.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Richie Havens - Live at Montreux</programmetitle>
+    <programmenumber>712</programmenumber>
+    <yearofrelease>1972</yearofrelease>
+    <directorname/>
+    <castname>Richie Havens</castname>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>09:57</schedulestarttime>
+    <scheduleendtime>10:43</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Recorded in 1972, the African-American singer Richie Havens sends a moving message of love and fraternity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Lee Fields &amp; The Expressions - Live</programmetitle>
+    <programmenumber>985</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>10:43</schedulestarttime>
+    <scheduleendtime>12:08</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mr. Lee Fields, a stalwart of soul, performs at Jazz à La Villette Festival with three members of Antibalas.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>BALLAKE SISSOKO &amp; VINCENT SEGAL</programmetitle>
+    <programmenumber>2587</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>12:08</schedulestarttime>
+    <scheduleendtime>13:16</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Yom - Back to the Klezmer</programmetitle>
+    <programmenumber>260</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Yom</castname>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>13:16</schedulestarttime>
+    <scheduleendtime>14:10</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Yom owes his instrument's choice to his father and his Ashkenazi culture to his mother, born in Transylvania.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hugh Masekela - Live</programmetitle>
+    <programmenumber>69</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Lee-Roy Sauls, Fana Zulu, Cameron Ward, Hugh Masekela, Francis Manneh Fuster, Randal Skippers</castname>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>14:10</schedulestarttime>
+    <scheduleendtime>15:13</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Five years before his death, South African Hugh Masekela gave a dazzling concert at the Paris Jazz Festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Children of the Light</programmetitle>
+    <programmenumber>50</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Danilo Perez</castname>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>15:13</schedulestarttime>
+    <scheduleendtime>16:14</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Danilo Pérez, John Patitucci and Brian Blade bring back the art of the trio at the Jazz à Junas festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>16:14</schedulestarttime>
+    <scheduleendtime>16:17</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>R. Galliano &amp; Polish Orchestra</programmetitle>
+    <programmenumber>1635</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Richard Galliano</castname>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>16:17</schedulestarttime>
+    <scheduleendtime>16:26</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The repertoire: Aconcagua, concerto for bandoneon by Piazzolla; Madreperla, concerto for accordion by Galliano</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Seun Kuti &amp; Egypt 80 - Moods</programmetitle>
+    <programmenumber>1152</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>16:26</schedulestarttime>
+    <scheduleendtime>16:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>They give us sharp, polyrhythmic drums, an array of percussion, and funk guitars that slow-cook the groove.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Vincent Peirani "Living Being"</programmetitle>
+    <programmenumber>652</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Vincent Peirani</castname>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>16:34</schedulestarttime>
+    <scheduleendtime>16:40</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>From Led Zeppelin to Purcell covers, this quintet is a real chamber rock music orchestra. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Liz McComb - Olympia, Paris</programmetitle>
+    <programmenumber>228</programmenumber>
+    <yearofrelease>1998</yearofrelease>
+    <directorname/>
+    <castname>Liz McComb</castname>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>16:40</schedulestarttime>
+    <scheduleendtime>16:52</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Between gospel and soul, singer and pianist Liz McComb is joined by three fine-tuned musicians in Paris, 1998.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Yemen Blues - Live at Moods</programmetitle>
+    <programmenumber>1586</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>16:52</schedulestarttime>
+    <scheduleendtime>17:02</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The Yemen Blues singer combines family roots, and especially Yemeni culture, with rock, blues and even rap.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Freddie Hubbard Quartet - RTBF</programmetitle>
+    <programmenumber>721</programmenumber>
+    <yearofrelease>1981</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>17:02</schedulestarttime>
+    <scheduleendtime>17:46</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Hubbard shows how much his technique combines power and a disconcerting speed in this unique archive concert.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Maceo Parker &amp; Roots Revisited</programmetitle>
+    <programmenumber>199</programmenumber>
+    <yearofrelease>1991</yearofrelease>
+    <directorname/>
+    <castname>Maceo Parker</castname>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>17:46</schedulestarttime>
+    <scheduleendtime>18:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>James Brown alumni Maceo Parker, Fred Wesley and Pee Wee Ellis stir up funky jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hindi Zahra &amp; Fatoumata Diawara</programmetitle>
+    <programmenumber>740</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Fatoumata Diawara</castname>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>18:54</schedulestarttime>
+    <scheduleendtime>19:59</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The duo mix Bambara with Amazigh &amp; English, folk with jazz, soul with blues &amp; reggae at Banlieues Bleues fest.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>19:59</schedulestarttime>
+    <scheduleendtime>20:18</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>20:18</schedulestarttime>
+    <scheduleendtime>20:24</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Pat Martino - Lotos Jazz Festival</programmetitle>
+    <programmenumber>562</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Pat Martino</castname>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>20:24</schedulestarttime>
+    <scheduleendtime>20:36</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Miracle guitarist Pat Martino delivers soft-toned grooves with his trio (Carmen Intorre and Pat Bianchi).</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Dhafer Youssef - Jazz à Vienne 2018</programmetitle>
+    <programmenumber>634</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Dhafer Youssef</castname>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>20:36</schedulestarttime>
+    <scheduleendtime>20:48</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Dhafer Youssef is joined by Matt Brewer, Aron Parks and Ferenc Nemeth in a colourful and virtuosic concert. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Earl Hines &amp; His All Stars – RTBF</programmetitle>
+    <programmenumber>716</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Earl Hines</castname>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>20:48</schedulestarttime>
+    <scheduleendtime>20:50</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sly &amp; Robbie meet Molvær &amp; Aarset</programmetitle>
+    <programmenumber>1193</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Lowell 'Sly' Dunbar, Robbie Shakespeare, Nils Petter Molvaer, Eivind Aarset</castname>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>20:50</schedulestarttime>
+    <scheduleendtime>20:56</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The book of life opens onto a dreamlike country where Norwegian Nu jazz transcends the riddims of Jamaica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Vincent Peirani "Living Being"</programmetitle>
+    <programmenumber>652</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Vincent Peirani</castname>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>20:56</schedulestarttime>
+    <scheduleendtime>21:02</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>From Led Zeppelin to Purcell covers, this quintet is a real chamber rock music orchestra. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Comet is Coming</programmetitle>
+    <programmenumber>2605</programmenumber>
+    <yearofrelease>2012</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>21:02</schedulestarttime>
+    <scheduleendtime>22:08</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The trio combines Sun Ra's mythological and experimental themes in a fusion of jazz, afrobeat and electronica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>22:08</schedulestarttime>
+    <scheduleendtime>22:58</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Tigran Hamasyan - Live in Norway</programmetitle>
+    <programmenumber>125</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Tigran Hamasyan</castname>
+    <scheduledate>10082023</scheduledate>
+    <schedulestarttime>22:58</schedulestarttime>
+    <scheduleendtime>00:03</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Pianist Hamasyan and samplerist Jan Bang combine eastern accents and electronic riffs at Punkt Festival 2013.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Melingo w/ Juliette &amp; V. Capossela</programmetitle>
+    <programmenumber>548</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Daniel Melingo</castname>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>00:03</schedulestarttime>
+    <scheduleendtime>01:04</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Welcome to Melingo's surrealist cabaret, which tells the poetry of the shallows, of love &amp; vagabond pathways. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jorge Rossy Vibes Quintet ft Turner</programmetitle>
+    <programmenumber>1153</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>01:04</schedulestarttime>
+    <scheduleendtime>03:21</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Make no mistake: Jorge Rossy’s quintet offers more adventurous music than it seems at first glance.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Avishai Cohen</programmetitle>
+    <programmenumber>2583</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>03:21</schedulestarttime>
+    <scheduleendtime>05:11</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The doublebass virtuoso plays the Jazz à Vienne Fest alongside pianist Elchin Shirinov &amp; drummer Roni Kaspi.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>UB40 - RTBF Archives 1980</programmetitle>
+    <programmenumber>715</programmenumber>
+    <yearofrelease>1980</yearofrelease>
+    <directorname/>
+    <castname>Ali Campbell</castname>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>05:11</schedulestarttime>
+    <scheduleendtime>05:29</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 1980, UB40 is not yet the huge machine they would become, but their fresh reggae still oozes charisma. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hindi Zahra &amp; Fatoumata Diawara</programmetitle>
+    <programmenumber>740</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Fatoumata Diawara</castname>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>05:29</schedulestarttime>
+    <scheduleendtime>06:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The duo mix Bambara with Amazigh &amp; English, folk with jazz, soul with blues &amp; reggae at Banlieues Bleues fest.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Mohamed Abozekry - Live at Moods</programmetitle>
+    <programmenumber>1154</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>06:34</schedulestarttime>
+    <scheduleendtime>06:44</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mohamed Abozekry alongside Lofty Abaza, Hany Bedair, Wassim Halal, and Mohammed Farag for this 2017 concert.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Brian Auger's Oblivion Express</programmetitle>
+    <programmenumber>705</programmenumber>
+    <yearofrelease>1972</yearofrelease>
+    <directorname/>
+    <castname>Brian Auger</castname>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>06:44</schedulestarttime>
+    <scheduleendtime>06:51</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The keyboardist Brian Auger shows all his talent for groove and virtuoso solos on the Fender Rhodes.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Count Basie - RTBF Archives 1961</programmetitle>
+    <programmenumber>235</programmenumber>
+    <yearofrelease>1961</yearofrelease>
+    <directorname/>
+    <castname>Count Basie</castname>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>06:51</schedulestarttime>
+    <scheduleendtime>06:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 1961, Count Basie and his orchestra played a classic jazz repertoire on Belgian television.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Dionne Warwick - RTBF Archives 1964</programmetitle>
+    <programmenumber>61</programmenumber>
+    <yearofrelease>1964</yearofrelease>
+    <directorname/>
+    <castname>Dionne Warwick</castname>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>06:54</schedulestarttime>
+    <scheduleendtime>07:09</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>An exemplar of both pop and R&amp;B, Warwick had an incredibly soulful sound that endeared her to music lovers.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Dave Holland Quartet: Prism</programmetitle>
+    <programmenumber>294</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Dave Holland</castname>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>07:09</schedulestarttime>
+    <scheduleendtime>08:17</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bassist Dave Holland’s band unite Kevin Eubanks, Craig Taborn and Eric Harland at the Jazz en Tête Festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Black Motion from Constitution Hill</programmetitle>
+    <programmenumber>2410</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>DJ Murder, Smol</castname>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>08:17</schedulestarttime>
+    <scheduleendtime>09:33</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Black Motion celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>09:33</schedulestarttime>
+    <scheduleendtime>09:49</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Inner Circle - RTBF Archives 1979</programmetitle>
+    <programmenumber>709</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Jacob Miller</castname>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>09:49</schedulestarttime>
+    <scheduleendtime>09:56</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Formed in Kingston in the 70s, Inner Circle here demonstrates a remarkable tightness and energy.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Charles Mingus &amp; Eric Dolphy - RTBF</programmetitle>
+    <programmenumber>255</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Charles Mingus, Eric Dolphy</castname>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>09:56</schedulestarttime>
+    <scheduleendtime>10:35</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Together, Mingus and Dolphy symbolize the 60s' climax, where swing and free jazz meet at a tipping point.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Antibalas - Live at Moods</programmetitle>
+    <programmenumber>1200</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>10:35</schedulestarttime>
+    <scheduleendtime>12:28</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Antibalas gives us afrobeat and mix in modern funk, the avant-garde, dub and electronic influences.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Don Ellis</programmetitle>
+    <programmenumber>2591</programmenumber>
+    <yearofrelease>2007</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>12:28</schedulestarttime>
+    <scheduleendtime>13:56</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This doc showcases the life of the man who did jazz fusion before it was a thing: Don Ellis.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Logan Richardson - Live</programmetitle>
+    <programmenumber>84</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Logan Richardson</castname>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>13:56</schedulestarttime>
+    <scheduleendtime>15:05</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Richardson shows the surreal side of his music at Jazz à Porquerolles Festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Lee Fields &amp; The Expressions - Live</programmetitle>
+    <programmenumber>985</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>15:05</schedulestarttime>
+    <scheduleendtime>16:31</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mr. Lee Fields, a stalwart of soul, performs at Jazz à La Villette Festival with three members of Antibalas.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jason Moran "Bandwagon" - Live</programmetitle>
+    <programmenumber>74</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Jason Moran, Tarus Mateen</castname>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>16:31</schedulestarttime>
+    <scheduleendtime>17:32</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Major American jazz figure, Jason Moran and his trio find a perfect balance between classicism and modernity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>17:32</schedulestarttime>
+    <scheduleendtime>18:19</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ray Charles and His Orchestra</programmetitle>
+    <programmenumber>1486</programmenumber>
+    <yearofrelease>1968</yearofrelease>
+    <directorname/>
+    <castname>Ray Charles</castname>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>18:19</schedulestarttime>
+    <scheduleendtime>19:05</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Ray Charles redoubles his energy with the vocal quartet The Raelets, Billy Preston and his formidable band.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Angélique Kidjo-12Q</programmetitle>
+    <programmenumber>677</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname>Angélique Kidjo</castname>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>19:05</schedulestarttime>
+    <scheduleendtime>19:27</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bakolo Music International</programmetitle>
+    <programmenumber>1908</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Papa Bikunda</castname>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>19:27</schedulestarttime>
+    <scheduleendtime>19:35</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bakolo Music International performing at Africolor Fetsival is a monument of Congolese rumba.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Rymden - Tourcoing Jazz Festival</programmetitle>
+    <programmenumber>1638</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>19:35</schedulestarttime>
+    <scheduleendtime>19:45</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Double-bassist Dan Berglund and drummer Magnus Oström perform as their new trio with Bugge Wesseltof.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bassekou Kouyaté &amp; Ngoni Ba</programmetitle>
+    <programmenumber>1585</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>19:45</schedulestarttime>
+    <scheduleendtime>20:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Seeing Bassekou Kouyaté live at Moods with his Ngoni makes it hard to resist his magical vibes. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Seun Kuti &amp; Egypt 80 - Moods</programmetitle>
+    <programmenumber>1152</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>20:01</schedulestarttime>
+    <scheduleendtime>20:12</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>They give us sharp, polyrhythmic drums, an array of percussion, and funk guitars that slow-cook the groove.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>20:12</schedulestarttime>
+    <scheduleendtime>20:17</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>R. Galliano &amp; Polish Orchestra</programmetitle>
+    <programmenumber>1635</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Richard Galliano</castname>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>20:17</schedulestarttime>
+    <scheduleendtime>20:26</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The repertoire: Aconcagua, concerto for bandoneon by Piazzolla; Madreperla, concerto for accordion by Galliano</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Nucleus - RTBF</programmetitle>
+    <programmenumber>710</programmenumber>
+    <yearofrelease>1971</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>20:26</schedulestarttime>
+    <scheduleendtime>20:37</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Chuck Berry - RTBF Archives 1965</programmetitle>
+    <programmenumber>707</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Chuck Berry</castname>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>20:37</schedulestarttime>
+    <scheduleendtime>20:40</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Berry's natural energy is enough to break through all formalities, getting rid of any stuffiness.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Specials - Live in 1979</programmetitle>
+    <programmenumber>714</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Terry Hall</castname>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>20:40</schedulestarttime>
+    <scheduleendtime>20:42</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>All their hits are there with punk beats, rock riffs, flamboyant brass, reggae pulse and leaping musicians</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Brian Auger's Oblivion Express</programmetitle>
+    <programmenumber>705</programmenumber>
+    <yearofrelease>1972</yearofrelease>
+    <directorname/>
+    <castname>Brian Auger</castname>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>20:42</schedulestarttime>
+    <scheduleendtime>20:52</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The keyboardist Brian Auger shows all his talent for groove and virtuoso solos on the Fender Rhodes.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Louis Armstrong &amp; his All Stars</programmetitle>
+    <programmenumber>248</programmenumber>
+    <yearofrelease>1959</yearofrelease>
+    <directorname/>
+    <castname>Louis Armstrong</castname>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>20:52</schedulestarttime>
+    <scheduleendtime>20:56</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This footage is a reminder of Satchmo's talent, unique tone and ability to bring out countless subtleties.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Anderson .Paak - Live</programmetitle>
+    <programmenumber>32</programmenumber>
+    <yearofrelease>2016</yearofrelease>
+    <directorname/>
+    <castname>Anderson .Paak</castname>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>20:56</schedulestarttime>
+    <scheduleendtime>20:59</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The most soulful of California rappers onstage at one of the major French festivals of the summer of 2016.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Vincent Peirani "Living Being"</programmetitle>
+    <programmenumber>652</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Vincent Peirani</castname>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>20:59</schedulestarttime>
+    <scheduleendtime>21:05</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>From Led Zeppelin to Purcell covers, this quintet is a real chamber rock music orchestra. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Rhoda Scott Lady Quartet - Live</programmetitle>
+    <programmenumber>1188</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Rhoda Scott</castname>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>21:05</schedulestarttime>
+    <scheduleendtime>22:44</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Seeing Scott's group composed entirely by women is a real rare pleasure, the inverse being very common.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle> Art Blakey &amp; The Jazz Messengers</programmetitle>
+    <programmenumber>1449</programmenumber>
+    <yearofrelease>1963</yearofrelease>
+    <directorname/>
+    <castname>Art Blakey</castname>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>22:44</schedulestarttime>
+    <scheduleendtime>23:16</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The musicians who take part in this concert form one of the best formulas that the Jazz Messengers ever knew.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Coulondre Trio - Michel On My Mind</programmetitle>
+    <programmenumber>1922</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname>Laurent Coulondre</castname>
+    <scheduledate>11082023</scheduledate>
+    <schedulestarttime>23:16</schedulestarttime>
+    <scheduleendtime>00:35</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>French pianist Laurent Coulondre's album Michel On My Mind commemorates the anniversary of Petrucciani's death</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Mar-Khalifé &amp; Aboulouafa, Piano Day</programmetitle>
+    <programmenumber>2455</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>00:35</schedulestarttime>
+    <scheduleendtime>01:21</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bachar and Meryem elegantly combine contemporary classical music with traditional Lebanese singing.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>BALLAKE SISSOKO &amp; VINCENT SEGAL</programmetitle>
+    <programmenumber>2587</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>01:21</schedulestarttime>
+    <scheduleendtime>02:29</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ron Carter - Jazz à Vienne Festival</programmetitle>
+    <programmenumber>2585</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>02:29</schedulestarttime>
+    <scheduleendtime>03:38</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Filmed in 2018, Ron Carter is one of the last true masters who participated at the very top of post-war jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Paco de Lucia "Light and Shade"</programmetitle>
+    <programmenumber>19</programmenumber>
+    <yearofrelease>1994</yearofrelease>
+    <directorname/>
+    <castname>Paco de Lucía</castname>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>03:38</schedulestarttime>
+    <scheduleendtime>04:49</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The story of a guitarist obsessed with flamenco since childhood drawing his path towards jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Gina Jeanz from Constitution Hill</programmetitle>
+    <programmenumber>2407</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>Gina Jeanz</castname>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>04:49</schedulestarttime>
+    <scheduleendtime>05:43</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Gina Jeanz celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Yom - Back to the Klezmer</programmetitle>
+    <programmenumber>260</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Yom</castname>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>05:43</schedulestarttime>
+    <scheduleendtime>06:37</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Yom owes his instrument's choice to his father and his Ashkenazi culture to his mother, born in Transylvania.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Brad Mehldau plays The Beatles</programmetitle>
+    <programmenumber>1637</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Brad Mehldau</castname>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>06:37</schedulestarttime>
+    <scheduleendtime>06:39</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Just as many other jazz or soul artists have adapted the Beatles, here, Brad Mehldau follows the same dynamic.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sharon Jones and the Dap-Kings</programmetitle>
+    <programmenumber>111</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Sharon Jones</castname>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>06:39</schedulestarttime>
+    <scheduleendtime>06:47</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Soul, funk, R&amp;B and some infectious dance lessons are delivered by this great figure of Afro-American music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Alexander Ekman: A Swan Lake</programmetitle>
+    <programmenumber>1377</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Alexander Ekman</castname>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>06:47</schedulestarttime>
+    <scheduleendtime>07:00</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Dancers are joined on stage by actors, a soprano, musicians, 5 000 liters of water and 1 000 rubber ducks.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Avishai Cohen</programmetitle>
+    <programmenumber>2583</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>07:00</schedulestarttime>
+    <scheduleendtime>08:50</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The doublebass virtuoso plays the Jazz à Vienne Fest alongside pianist Elchin Shirinov &amp; drummer Roni Kaspi.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Les Amazones d'Afrique</programmetitle>
+    <programmenumber>737</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>08:50</schedulestarttime>
+    <scheduleendtime>09:51</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Les Amazones d’Afrique brings Malian women together around issues such as equality and freedom. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Mar-Khalifé &amp; Aboulouafa, Piano Day</programmetitle>
+    <programmenumber>2455</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>09:51</schedulestarttime>
+    <scheduleendtime>10:37</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bachar and Meryem elegantly combine contemporary classical music with traditional Lebanese singing.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Richie Havens - Live at Montreux</programmetitle>
+    <programmenumber>712</programmenumber>
+    <yearofrelease>1972</yearofrelease>
+    <directorname/>
+    <castname>Richie Havens</castname>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>10:37</schedulestarttime>
+    <scheduleendtime>11:23</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Recorded in 1972, the African-American singer Richie Havens sends a moving message of love and fraternity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Rhoda Scott Lady Quartet - Live</programmetitle>
+    <programmenumber>1188</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Rhoda Scott</castname>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>11:23</schedulestarttime>
+    <scheduleendtime>13:04</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Seeing Scott's group composed entirely by women is a real rare pleasure, the inverse being very common.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Comet is Coming</programmetitle>
+    <programmenumber>2605</programmenumber>
+    <yearofrelease>2012</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>13:04</schedulestarttime>
+    <scheduleendtime>14:11</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The trio combines Sun Ra's mythological and experimental themes in a fusion of jazz, afrobeat and electronica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Antibalas - Live at Moods</programmetitle>
+    <programmenumber>1200</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>14:11</schedulestarttime>
+    <scheduleendtime>16:04</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Antibalas gives us afrobeat and mix in modern funk, the avant-garde, dub and electronic influences.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Charles Tolliver - Live</programmetitle>
+    <programmenumber>261</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Charles Tolliver</castname>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>16:04</schedulestarttime>
+    <scheduleendtime>17:03</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Live at the Banlieue Blues Festival, Strata-East record label's co-founder plays with his quintet.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Charles Mingus &amp; Eric Dolphy - RTBF</programmetitle>
+    <programmenumber>255</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Charles Mingus, Eric Dolphy</castname>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>17:03</schedulestarttime>
+    <scheduleendtime>17:43</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Together, Mingus and Dolphy symbolize the 60s' climax, where swing and free jazz meet at a tipping point.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hugh Masekela - Live</programmetitle>
+    <programmenumber>69</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Lee-Roy Sauls, Fana Zulu, Cameron Ward, Hugh Masekela, Francis Manneh Fuster, Randal Skippers</castname>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>17:43</schedulestarttime>
+    <scheduleendtime>18:46</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Five years before his death, South African Hugh Masekela gave a dazzling concert at the Paris Jazz Festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>DJ Buhle from Constitution Hill</programmetitle>
+    <programmenumber>2406</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>DJ Buhle</castname>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>18:46</schedulestarttime>
+    <scheduleendtime>19:23</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>DJ Buhle celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Archie Shepp "In the Mood" - Live</programmetitle>
+    <programmenumber>488</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Archie Shepp</castname>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>19:23</schedulestarttime>
+    <scheduleendtime>19:38</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>On the island of Porquerolles in Provence, jazz soaks its feet every summer, here with Captain Archie Shepp.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>19:38</schedulestarttime>
+    <scheduleendtime>19:47</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Melingo w/ Juliette &amp; V. Capossela</programmetitle>
+    <programmenumber>548</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Daniel Melingo</castname>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>19:47</schedulestarttime>
+    <scheduleendtime>19:53</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Welcome to Melingo's surrealist cabaret, which tells the poetry of the shallows, of love &amp; vagabond pathways. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Toumani Diabaté's Orchestra</programmetitle>
+    <programmenumber>129</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Toumani Diabaté</castname>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>19:53</schedulestarttime>
+    <scheduleendtime>19:57</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>At the Banlieues Bleues festival, Diabaté's Symmetric Orchestra celebrates peace, hope and pan-African unity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Seun Kuti &amp; Egypt 80 - Moods</programmetitle>
+    <programmenumber>1152</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>19:57</schedulestarttime>
+    <scheduleendtime>20:07</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>They give us sharp, polyrhythmic drums, an array of percussion, and funk guitars that slow-cook the groove.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Specials - Live in 1979</programmetitle>
+    <programmenumber>714</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Terry Hall</castname>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>20:07</schedulestarttime>
+    <scheduleendtime>20:09</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>All their hits are there with punk beats, rock riffs, flamboyant brass, reggae pulse and leaping musicians</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bassekou Kouyaté &amp; Ngoni Ba</programmetitle>
+    <programmenumber>1585</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>20:09</schedulestarttime>
+    <scheduleendtime>20:18</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Seeing Bassekou Kouyaté live at Moods with his Ngoni makes it hard to resist his magical vibes. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>UB40 - RTBF Archives 1980</programmetitle>
+    <programmenumber>715</programmenumber>
+    <yearofrelease>1980</yearofrelease>
+    <directorname/>
+    <castname>Ali Campbell</castname>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>20:18</schedulestarttime>
+    <scheduleendtime>20:22</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 1980, UB40 is not yet the huge machine they would become, but their fresh reggae still oozes charisma. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Anderson .Paak - Live</programmetitle>
+    <programmenumber>32</programmenumber>
+    <yearofrelease>2016</yearofrelease>
+    <directorname/>
+    <castname>Anderson .Paak</castname>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>20:22</schedulestarttime>
+    <scheduleendtime>20:27</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The most soulful of California rappers onstage at one of the major French festivals of the summer of 2016.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sly &amp; Robbie meet Molvær &amp; Aarset</programmetitle>
+    <programmenumber>1193</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Lowell 'Sly' Dunbar, Robbie Shakespeare, Nils Petter Molvaer, Eivind Aarset</castname>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>20:27</schedulestarttime>
+    <scheduleendtime>20:33</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The book of life opens onto a dreamlike country where Norwegian Nu jazz transcends the riddims of Jamaica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Rymden - Tourcoing Jazz Festival</programmetitle>
+    <programmenumber>1638</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>20:33</schedulestarttime>
+    <scheduleendtime>20:44</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Double-bassist Dan Berglund and drummer Magnus Oström perform as their new trio with Bugge Wesseltof.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Morcheeba - Live at Jazz à Vienne</programmetitle>
+    <programmenumber>643</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>20:44</schedulestarttime>
+    <scheduleendtime>20:50</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The group’s DNA is found in Edward’s voice and her natural vocal sensibility, and she knows it.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Yemen Blues - Live at Moods</programmetitle>
+    <programmenumber>1586</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>20:50</schedulestarttime>
+    <scheduleendtime>20:58</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The Yemen Blues singer combines family roots, and especially Yemeni culture, with rock, blues and even rap.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Les Amazones d'Afrique</programmetitle>
+    <programmenumber>737</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>20:58</schedulestarttime>
+    <scheduleendtime>22:00</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Les Amazones d’Afrique brings Malian women together around issues such as equality and freedom. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Charles Lloyd Quartet - RTBF</programmetitle>
+    <programmenumber>242</programmenumber>
+    <yearofrelease>1966</yearofrelease>
+    <directorname/>
+    <castname>Charles Lloyd</castname>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>22:00</schedulestarttime>
+    <scheduleendtime>22:37</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Recorded for the RTBF in 1966,  this concert by the Charles Lloyd Quartet was destined to go down in history.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Makaya McCraven - Jazz à Sète</programmetitle>
+    <programmenumber>962</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>12082023</scheduledate>
+    <schedulestarttime>22:37</schedulestarttime>
+    <scheduleendtime>00:11</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Beat Scientist, drummer and producer, McCraven blurs the lines between jazz, electronic and hip-hop.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Electric Mamba</programmetitle>
+    <programmenumber>2573</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>00:11</schedulestarttime>
+    <scheduleendtime>01:18</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The France-based afrobeat group led by Central African singer Idylle Mamba performs in Lyon.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Don Ellis</programmetitle>
+    <programmenumber>2591</programmenumber>
+    <yearofrelease>2007</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>01:18</schedulestarttime>
+    <scheduleendtime>02:45</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This doc showcases the life of the man who did jazz fusion before it was a thing: Don Ellis.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Children of the Light</programmetitle>
+    <programmenumber>50</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Danilo Perez</castname>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>02:45</schedulestarttime>
+    <scheduleendtime>03:46</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Danilo Pérez, John Patitucci and Brian Blade bring back the art of the trio at the Jazz à Junas festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Melingo w/ Juliette &amp; V. Capossela</programmetitle>
+    <programmenumber>548</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Daniel Melingo</castname>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>03:46</schedulestarttime>
+    <scheduleendtime>04:49</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Welcome to Melingo's surrealist cabaret, which tells the poetry of the shallows, of love &amp; vagabond pathways. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>DJ Buhle from Constitution Hill</programmetitle>
+    <programmenumber>2406</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>DJ Buhle</castname>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>04:49</schedulestarttime>
+    <scheduleendtime>05:25</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>DJ Buhle celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Logan Richardson - Live</programmetitle>
+    <programmenumber>84</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Logan Richardson</castname>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>05:25</schedulestarttime>
+    <scheduleendtime>06:35</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Richardson shows the surreal side of his music at Jazz à Porquerolles Festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hypnotic Brass Ensemble - Live</programmetitle>
+    <programmenumber>534</programmenumber>
+    <yearofrelease>2012</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>06:35</schedulestarttime>
+    <scheduleendtime>06:39</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>How often do you see eight brothers rocking together on stage, all weilding different golden instruments? </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Inner Circle - RTBF Archives 1979</programmetitle>
+    <programmenumber>709</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Jacob Miller</castname>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>06:39</schedulestarttime>
+    <scheduleendtime>06:46</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Formed in Kingston in the 70s, Inner Circle here demonstrates a remarkable tightness and energy.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bilal - Live at Moods</programmetitle>
+    <programmenumber>1587</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname>Bilal</castname>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>06:46</schedulestarttime>
+    <scheduleendtime>06:50</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bilal starts his set with "Sirens II," a haunting theme that stands at the crossroads between rock and RnB.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Respect to Aretha - La Villette</programmetitle>
+    <programmenumber>986</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>06:50</schedulestarttime>
+    <scheduleendtime>06:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>It is no less than the universalism of what is termed Great Black Music that is being celebrated here.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Berliner Philharmoniker &amp; Rattle</programmetitle>
+    <programmenumber>1328</programmenumber>
+    <yearofrelease>2004</yearofrelease>
+    <directorname/>
+    <castname>Sir Simon Rattle</castname>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>06:54</schedulestarttime>
+    <scheduleendtime>07:16</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The 2004 Gala from Berlin presents the outstanding Berliner Philharmoniker, conducted by Sir Simon Rattle.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ron Carter - Jazz à Vienne Festival</programmetitle>
+    <programmenumber>2585</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>07:16</schedulestarttime>
+    <scheduleendtime>08:09</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Filmed in 2018, Ron Carter is one of the last true masters who participated at the very top of post-war jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Emel Mathlouthi - Live</programmetitle>
+    <programmenumber>733</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Emel Mathlouthi</castname>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>08:09</schedulestarttime>
+    <scheduleendtime>08:56</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Emel Mathlouthi offers a techno-punk performance, brimming with influences from Björk to Massive Attack.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>08:56</schedulestarttime>
+    <scheduleendtime>09:00</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>BCUC - Live at Moods</programmetitle>
+    <programmenumber>1180</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>09:00</schedulestarttime>
+    <scheduleendtime>09:13</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Originally from Soweto, BCUC's Afro-psychedelic trance hypnotises us with reworked traditional sounds. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>09:13</schedulestarttime>
+    <scheduleendtime>09:26</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>09:26</schedulestarttime>
+    <scheduleendtime>09:29</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Seun Kuti &amp; Egypt 80 - Moods</programmetitle>
+    <programmenumber>1152</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>09:29</schedulestarttime>
+    <scheduleendtime>09:39</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>They give us sharp, polyrhythmic drums, an array of percussion, and funk guitars that slow-cook the groove.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Morcheeba - Live at Jazz à Vienne</programmetitle>
+    <programmenumber>643</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>09:39</schedulestarttime>
+    <scheduleendtime>09:44</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The group’s DNA is found in Edward’s voice and her natural vocal sensibility, and she knows it.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Tomatito y Grupo - Live at Moods</programmetitle>
+    <programmenumber>1162</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>09:44</schedulestarttime>
+    <scheduleendtime>09:53</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The "Disciple of Paco de Lucia" delivers his most beautiful compositions on a gypsy flamenco repertoire.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sly &amp; Robbie meet Molvær &amp; Aarset</programmetitle>
+    <programmenumber>1193</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Lowell 'Sly' Dunbar, Robbie Shakespeare, Nils Petter Molvaer, Eivind Aarset</castname>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>09:53</schedulestarttime>
+    <scheduleendtime>10:04</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The book of life opens onto a dreamlike country where Norwegian Nu jazz transcends the riddims of Jamaica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Avishai Cohen</programmetitle>
+    <programmenumber>2583</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>10:04</schedulestarttime>
+    <scheduleendtime>11:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The doublebass virtuoso plays the Jazz à Vienne Fest alongside pianist Elchin Shirinov &amp; drummer Roni Kaspi.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Aretha Franklin - Live in Paris</programmetitle>
+    <programmenumber>204</programmenumber>
+    <yearofrelease>1977</yearofrelease>
+    <directorname/>
+    <castname>Aretha Franklin</castname>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>11:54</schedulestarttime>
+    <scheduleendtime>13:03</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Aretha Franklin sets the Paris Palais des Sports on fire in 1977.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Chuck Berry - RTBF Archives 1965</programmetitle>
+    <programmenumber>707</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Chuck Berry</castname>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>13:03</schedulestarttime>
+    <scheduleendtime>13:36</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Berry's natural energy is enough to break through all formalities, getting rid of any stuffiness.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Kinga Głyk - New Morning</programmetitle>
+    <programmenumber>2648</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>13:36</schedulestarttime>
+    <scheduleendtime>14:47</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Rising star Polish bass player Kinga Głyk brings hard-hitting funk to the stage of New Morning, Paris.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Richie Havens - Live at Montreux</programmetitle>
+    <programmenumber>712</programmenumber>
+    <yearofrelease>1972</yearofrelease>
+    <directorname/>
+    <castname>Richie Havens</castname>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>14:47</schedulestarttime>
+    <scheduleendtime>15:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Recorded in 1972, the African-American singer Richie Havens sends a moving message of love and fraternity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Frisell - The Disfarmers</programmetitle>
+    <programmenumber>297</programmenumber>
+    <yearofrelease>2011</yearofrelease>
+    <directorname/>
+    <castname>Bill Frisell</castname>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>15:34</schedulestarttime>
+    <scheduleendtime>16:59</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This is a soundtrack illustrating photographs by Mike Disfarmer documenting rural America in the Depression.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jimmy McGriff Trio - Live in 1965</programmetitle>
+    <programmenumber>245</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Jimmy McGriff</castname>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>16:59</schedulestarttime>
+    <scheduleendtime>17:42</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>At the helm of a classic organ trio, with guitar and drums support, McGriff dives deep into an ocean of blues.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Lee Fields &amp; The Expressions - Live</programmetitle>
+    <programmenumber>985</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>17:42</schedulestarttime>
+    <scheduleendtime>19:07</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mr. Lee Fields, a stalwart of soul, performs at Jazz à La Villette Festival with three members of Antibalas.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Da Capo from Constitution Hill</programmetitle>
+    <programmenumber>2408</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>Da Capo</castname>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>19:07</schedulestarttime>
+    <scheduleendtime>20:02</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Da Capo celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>20:02</schedulestarttime>
+    <scheduleendtime>20:13</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Brad Mehldau plays The Beatles</programmetitle>
+    <programmenumber>1637</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Brad Mehldau</castname>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>20:13</schedulestarttime>
+    <scheduleendtime>20:15</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Just as many other jazz or soul artists have adapted the Beatles, here, Brad Mehldau follows the same dynamic.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bombino - Live at Moods</programmetitle>
+    <programmenumber>1189</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Bombino</castname>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>20:15</schedulestarttime>
+    <scheduleendtime>20:22</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bombino sings about the identity politics and culture of the Tuareg people of Niger with sensitivity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Morcheeba - Live at Jazz à Vienne</programmetitle>
+    <programmenumber>643</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>20:22</schedulestarttime>
+    <scheduleendtime>20:26</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The group’s DNA is found in Edward’s voice and her natural vocal sensibility, and she knows it.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Brad Mehldau plays The Beatles</programmetitle>
+    <programmenumber>1637</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Brad Mehldau</castname>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>20:26</schedulestarttime>
+    <scheduleendtime>20:29</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Just as many other jazz or soul artists have adapted the Beatles, here, Brad Mehldau follows the same dynamic.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>20:29</schedulestarttime>
+    <scheduleendtime>20:33</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Mohamed Abozekry - Live at Moods</programmetitle>
+    <programmenumber>1154</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>20:33</schedulestarttime>
+    <scheduleendtime>20:42</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mohamed Abozekry alongside Lofty Abaza, Hany Bedair, Wassim Halal, and Mohammed Farag for this 2017 concert.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Vincent Peirani "Living Being"</programmetitle>
+    <programmenumber>652</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Vincent Peirani</castname>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>20:42</schedulestarttime>
+    <scheduleendtime>20:48</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>From Led Zeppelin to Purcell covers, this quintet is a real chamber rock music orchestra. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sly &amp; Robbie meet Molvær &amp; Aarset</programmetitle>
+    <programmenumber>1193</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Lowell 'Sly' Dunbar, Robbie Shakespeare, Nils Petter Molvaer, Eivind Aarset</castname>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>20:48</schedulestarttime>
+    <scheduleendtime>20:55</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The book of life opens onto a dreamlike country where Norwegian Nu jazz transcends the riddims of Jamaica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>20:55</schedulestarttime>
+    <scheduleendtime>21:00</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Richie Havens - Live at Montreux</programmetitle>
+    <programmenumber>712</programmenumber>
+    <yearofrelease>1972</yearofrelease>
+    <directorname/>
+    <castname>Richie Havens</castname>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>21:00</schedulestarttime>
+    <scheduleendtime>21:46</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Recorded in 1972, the African-American singer Richie Havens sends a moving message of love and fraternity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Freddie Hubbard Quartet - RTBF</programmetitle>
+    <programmenumber>721</programmenumber>
+    <yearofrelease>1981</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>21:46</schedulestarttime>
+    <scheduleendtime>22:30</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Hubbard shows how much his technique combines power and a disconcerting speed in this unique archive concert.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Yom - Back to the Klezmer</programmetitle>
+    <programmenumber>260</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Yom</castname>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>22:30</schedulestarttime>
+    <scheduleendtime>23:24</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Yom owes his instrument's choice to his father and his Ashkenazi culture to his mother, born in Transylvania.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Specials - Live in 1979</programmetitle>
+    <programmenumber>714</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Terry Hall</castname>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>23:24</schedulestarttime>
+    <scheduleendtime>23:45</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>All their hits are there with punk beats, rock riffs, flamboyant brass, reggae pulse and leaping musicians</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Rhoda Scott Lady Quartet - Live</programmetitle>
+    <programmenumber>1188</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Rhoda Scott</castname>
+    <scheduledate>13082023</scheduledate>
+    <schedulestarttime>23:45</schedulestarttime>
+    <scheduleendtime>01:25</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Seeing Scott's group composed entirely by women is a real rare pleasure, the inverse being very common.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jason Moran "Bandwagon" - Live</programmetitle>
+    <programmenumber>74</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Jason Moran, Tarus Mateen</castname>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>01:25</schedulestarttime>
+    <scheduleendtime>02:27</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Major American jazz figure, Jason Moran and his trio find a perfect balance between classicism and modernity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Mar-Khalifé &amp; Aboulouafa, Piano Day</programmetitle>
+    <programmenumber>2455</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>02:27</schedulestarttime>
+    <scheduleendtime>03:12</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bachar and Meryem elegantly combine contemporary classical music with traditional Lebanese singing.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Da Capo from Constitution Hill</programmetitle>
+    <programmenumber>2408</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>Da Capo</castname>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>03:12</schedulestarttime>
+    <scheduleendtime>04:06</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Da Capo celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Comet is Coming</programmetitle>
+    <programmenumber>2605</programmenumber>
+    <yearofrelease>2012</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>04:06</schedulestarttime>
+    <scheduleendtime>05:12</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The trio combines Sun Ra's mythological and experimental themes in a fusion of jazz, afrobeat and electronica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>05:12</schedulestarttime>
+    <scheduleendtime>05:15</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>05:15</schedulestarttime>
+    <scheduleendtime>05:29</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Dionne Warwick - RTBF Archives 1964</programmetitle>
+    <programmenumber>61</programmenumber>
+    <yearofrelease>1964</yearofrelease>
+    <directorname/>
+    <castname>Dionne Warwick</castname>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>05:29</schedulestarttime>
+    <scheduleendtime>05:31</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>An exemplar of both pop and R&amp;B, Warwick had an incredibly soulful sound that endeared her to music lovers.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>05:31</schedulestarttime>
+    <scheduleendtime>05:39</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>05:39</schedulestarttime>
+    <scheduleendtime>05:46</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Pat Martino - Lotos Jazz Festival</programmetitle>
+    <programmenumber>562</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Pat Martino</castname>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>05:46</schedulestarttime>
+    <scheduleendtime>05:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Miracle guitarist Pat Martino delivers soft-toned grooves with his trio (Carmen Intorre and Pat Bianchi).</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Seun Kuti &amp; Egypt 80 - Moods</programmetitle>
+    <programmenumber>1152</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>05:54</schedulestarttime>
+    <scheduleendtime>06:02</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>They give us sharp, polyrhythmic drums, an array of percussion, and funk guitars that slow-cook the groove.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>06:02</schedulestarttime>
+    <scheduleendtime>06:06</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>06:06</schedulestarttime>
+    <scheduleendtime>06:10</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sly &amp; Robbie meet Molvær &amp; Aarset</programmetitle>
+    <programmenumber>1193</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Lowell 'Sly' Dunbar, Robbie Shakespeare, Nils Petter Molvaer, Eivind Aarset</castname>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>06:10</schedulestarttime>
+    <scheduleendtime>06:20</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The book of life opens onto a dreamlike country where Norwegian Nu jazz transcends the riddims of Jamaica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Melingo w/ Juliette &amp; V. Capossela</programmetitle>
+    <programmenumber>548</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Daniel Melingo</castname>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>06:20</schedulestarttime>
+    <scheduleendtime>06:23</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Welcome to Melingo's surrealist cabaret, which tells the poetry of the shallows, of love &amp; vagabond pathways. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Morcheeba - Live at Jazz à Vienne</programmetitle>
+    <programmenumber>643</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>06:23</schedulestarttime>
+    <scheduleendtime>06:31</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The group’s DNA is found in Edward’s voice and her natural vocal sensibility, and she knows it.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>BCUC - Live at Moods</programmetitle>
+    <programmenumber>1180</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>06:31</schedulestarttime>
+    <scheduleendtime>06:44</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Originally from Soweto, BCUC's Afro-psychedelic trance hypnotises us with reworked traditional sounds. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ulf Wakenius: Jazz à Junas Festival</programmetitle>
+    <programmenumber>596</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Ulf Wakenius</castname>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>06:44</schedulestarttime>
+    <scheduleendtime>06:50</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>With Vincent Peirani and Simon Tailleu, this concert is infused with Swedish folk and global music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Brian Auger's Oblivion Express</programmetitle>
+    <programmenumber>705</programmenumber>
+    <yearofrelease>1972</yearofrelease>
+    <directorname/>
+    <castname>Brian Auger</castname>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>06:50</schedulestarttime>
+    <scheduleendtime>07:15</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The keyboardist Brian Auger shows all his talent for groove and virtuoso solos on the Fender Rhodes.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Children of the Light</programmetitle>
+    <programmenumber>50</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Danilo Perez</castname>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>07:15</schedulestarttime>
+    <scheduleendtime>08:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Danilo Pérez, John Patitucci and Brian Blade bring back the art of the trio at the Jazz à Junas festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hindi Zahra &amp; Fatoumata Diawara</programmetitle>
+    <programmenumber>740</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Fatoumata Diawara</castname>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>08:01</schedulestarttime>
+    <scheduleendtime>09:09</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The duo mix Bambara with Amazigh &amp; English, folk with jazz, soul with blues &amp; reggae at Banlieues Bleues fest.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>09:09</schedulestarttime>
+    <scheduleendtime>09:20</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Pat Martino - Lotos Jazz Festival</programmetitle>
+    <programmenumber>562</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Pat Martino</castname>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>09:20</schedulestarttime>
+    <scheduleendtime>09:26</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Miracle guitarist Pat Martino delivers soft-toned grooves with his trio (Carmen Intorre and Pat Bianchi).</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Melingo w/ Juliette &amp; V. Capossela</programmetitle>
+    <programmenumber>548</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Daniel Melingo</castname>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>09:26</schedulestarttime>
+    <scheduleendtime>09:30</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Welcome to Melingo's surrealist cabaret, which tells the poetry of the shallows, of love &amp; vagabond pathways. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sharon Jones and the Dap-Kings</programmetitle>
+    <programmenumber>111</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Sharon Jones</castname>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>09:30</schedulestarttime>
+    <scheduleendtime>09:35</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Soul, funk, R&amp;B and some infectious dance lessons are delivered by this great figure of Afro-American music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Antibalas - Live at Moods</programmetitle>
+    <programmenumber>1200</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>09:35</schedulestarttime>
+    <scheduleendtime>09:47</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Antibalas gives us afrobeat and mix in modern funk, the avant-garde, dub and electronic influences.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sharon Jones and the Dap-Kings</programmetitle>
+    <programmenumber>111</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Sharon Jones</castname>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>09:47</schedulestarttime>
+    <scheduleendtime>09:52</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Soul, funk, R&amp;B and some infectious dance lessons are delivered by this great figure of Afro-American music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bassekou Kouyaté &amp; Ngoni Ba</programmetitle>
+    <programmenumber>1585</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>09:52</schedulestarttime>
+    <scheduleendtime>10:00</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Seeing Bassekou Kouyaté live at Moods with his Ngoni makes it hard to resist his magical vibes. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Comet is Coming</programmetitle>
+    <programmenumber>2605</programmenumber>
+    <yearofrelease>2012</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>10:00</schedulestarttime>
+    <scheduleendtime>11:07</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The trio combines Sun Ra's mythological and experimental themes in a fusion of jazz, afrobeat and electronica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Maceo Parker &amp; Roots Revisited</programmetitle>
+    <programmenumber>199</programmenumber>
+    <yearofrelease>1991</yearofrelease>
+    <directorname/>
+    <castname>Maceo Parker</castname>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>11:07</schedulestarttime>
+    <scheduleendtime>12:17</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>James Brown alumni Maceo Parker, Fred Wesley and Pee Wee Ellis stir up funky jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Lucía De Carvalho - Live in France</programmetitle>
+    <programmenumber>2600</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>12:17</schedulestarttime>
+    <scheduleendtime>13:18</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>At Nancy Jazz Pulsations Fest, the Angolan singer performs tracks from her latest album, the brilliant Pwanga.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Tigran Hamasyan - Live in Norway</programmetitle>
+    <programmenumber>125</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Tigran Hamasyan</castname>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>13:18</schedulestarttime>
+    <scheduleendtime>14:24</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Pianist Hamasyan and samplerist Jan Bang combine eastern accents and electronic riffs at Punkt Festival 2013.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Aretha Franklin - Live in Paris</programmetitle>
+    <programmenumber>204</programmenumber>
+    <yearofrelease>1977</yearofrelease>
+    <directorname/>
+    <castname>Aretha Franklin</castname>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>14:24</schedulestarttime>
+    <scheduleendtime>15:32</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Aretha Franklin sets the Paris Palais des Sports on fire in 1977.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Dave Holland Quartet: Prism</programmetitle>
+    <programmenumber>294</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Dave Holland</castname>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>15:32</schedulestarttime>
+    <scheduleendtime>16:50</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bassist Dave Holland’s band unite Kevin Eubanks, Craig Taborn and Eric Harland at the Jazz en Tête Festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Archie Shepp "In the Mood" - Live</programmetitle>
+    <programmenumber>488</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Archie Shepp</castname>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>16:50</schedulestarttime>
+    <scheduleendtime>17:00</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>On the island of Porquerolles in Provence, jazz soaks its feet every summer, here with Captain Archie Shepp.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>17:00</schedulestarttime>
+    <scheduleendtime>17:50</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Antibalas - Live at Moods</programmetitle>
+    <programmenumber>1200</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>17:50</schedulestarttime>
+    <scheduleendtime>19:45</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Antibalas gives us afrobeat and mix in modern funk, the avant-garde, dub and electronic influences.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Black Motion from Constitution Hill</programmetitle>
+    <programmenumber>2410</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>DJ Murder, Smol</castname>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>19:45</schedulestarttime>
+    <scheduleendtime>21:02</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Black Motion celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Charles Mingus &amp; Eric Dolphy - RTBF</programmetitle>
+    <programmenumber>255</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Charles Mingus, Eric Dolphy</castname>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>21:02</schedulestarttime>
+    <scheduleendtime>21:41</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Together, Mingus and Dolphy symbolize the 60s' climax, where swing and free jazz meet at a tipping point.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>21:41</schedulestarttime>
+    <scheduleendtime>22:27</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Logan Richardson - Live</programmetitle>
+    <programmenumber>84</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Logan Richardson</castname>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>22:27</schedulestarttime>
+    <scheduleendtime>23:35</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Richardson shows the surreal side of his music at Jazz à Porquerolles Festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Spanish Harlem Orchestra</programmetitle>
+    <programmenumber>1155</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>14082023</scheduledate>
+    <schedulestarttime>23:35</schedulestarttime>
+    <scheduleendtime>01:16</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Led by salsa giant Oscar Hernandez, this band has not finished spreading salsa and good vibes around the world</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Chuck Berry - RTBF Archives 1965</programmetitle>
+    <programmenumber>707</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Chuck Berry</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>01:16</schedulestarttime>
+    <scheduleendtime>01:51</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Berry's natural energy is enough to break through all formalities, getting rid of any stuffiness.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Charles Tolliver - Live</programmetitle>
+    <programmenumber>261</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Charles Tolliver</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>01:51</schedulestarttime>
+    <scheduleendtime>02:55</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Live at the Banlieue Blues Festival, Strata-East record label's co-founder plays with his quintet.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Electric Mamba</programmetitle>
+    <programmenumber>2573</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>02:55</schedulestarttime>
+    <scheduleendtime>04:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The France-based afrobeat group led by Central African singer Idylle Mamba performs in Lyon.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Black Motion from Constitution Hill</programmetitle>
+    <programmenumber>2410</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>DJ Murder, Smol</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>04:01</schedulestarttime>
+    <scheduleendtime>05:17</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Black Motion celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Kinga Głyk - New Morning</programmetitle>
+    <programmenumber>2648</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>05:17</schedulestarttime>
+    <scheduleendtime>06:26</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Rising star Polish bass player Kinga Głyk brings hard-hitting funk to the stage of New Morning, Paris.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Yemen Blues - Live at Moods</programmetitle>
+    <programmenumber>1586</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>06:26</schedulestarttime>
+    <scheduleendtime>06:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The Yemen Blues singer combines family roots, and especially Yemeni culture, with rock, blues and even rap.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Toquinho - Live</programmetitle>
+    <programmenumber>328</programmenumber>
+    <yearofrelease>1983</yearofrelease>
+    <directorname/>
+    <castname>Toquinho</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>06:34</schedulestarttime>
+    <scheduleendtime>06:37</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Toquinho takes us on a voyage from Rio to Sertão, concluding with a declaration of love for Bahian culture.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Piers Faccini - Cosmo Jazz Festival</programmetitle>
+    <programmenumber>564</programmenumber>
+    <yearofrelease>2012</yearofrelease>
+    <directorname/>
+    <castname>Piers Faccini</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>06:37</schedulestarttime>
+    <scheduleendtime>06:42</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Wandering in the grass between clusters of spectators, Piers performs alone, armed with only a few instruments</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bilal - Live at Moods</programmetitle>
+    <programmenumber>1587</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname>Bilal</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>06:42</schedulestarttime>
+    <scheduleendtime>06:49</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bilal starts his set with "Sirens II," a haunting theme that stands at the crossroads between rock and RnB.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Marcus Strickland - Twilife on my mind</programmetitle>
+    <programmenumber>2461</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>06:49</schedulestarttime>
+    <scheduleendtime>06:55</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1/>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Morgan Heritage - Live in London</programmetitle>
+    <programmenumber>1802</programmenumber>
+    <yearofrelease>2002</yearofrelease>
+    <directorname/>
+    <castname>Denroy Morgan</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>06:55</schedulestarttime>
+    <scheduleendtime>07:12</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Stemming from a true fraternity, the Morgan Heritage group is also one of the pioneers of this roots revival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Charles Tolliver - Live</programmetitle>
+    <programmenumber>261</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Charles Tolliver</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>07:12</schedulestarttime>
+    <scheduleendtime>07:59</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Live at the Banlieue Blues Festival, Strata-East record label's co-founder plays with his quintet.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>DJ Buhle from Constitution Hill</programmetitle>
+    <programmenumber>2406</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>DJ Buhle</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>07:59</schedulestarttime>
+    <scheduleendtime>08:35</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>DJ Buhle celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>08:35</schedulestarttime>
+    <scheduleendtime>08:38</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Morcheeba - Live at Jazz à Vienne</programmetitle>
+    <programmenumber>643</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>08:38</schedulestarttime>
+    <scheduleendtime>08:43</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The group’s DNA is found in Edward’s voice and her natural vocal sensibility, and she knows it.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>08:43</schedulestarttime>
+    <scheduleendtime>08:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>08:54</schedulestarttime>
+    <scheduleendtime>08:58</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sly &amp; Robbie meet Molvær &amp; Aarset</programmetitle>
+    <programmenumber>1193</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Lowell 'Sly' Dunbar, Robbie Shakespeare, Nils Petter Molvaer, Eivind Aarset</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>08:58</schedulestarttime>
+    <scheduleendtime>09:08</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The book of life opens onto a dreamlike country where Norwegian Nu jazz transcends the riddims of Jamaica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Modern Jazz Quartet - Live in 1962</programmetitle>
+    <programmenumber>238</programmenumber>
+    <yearofrelease>1962</yearofrelease>
+    <directorname/>
+    <castname>Modern Jazz Quartet</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>09:08</schedulestarttime>
+    <scheduleendtime>09:11</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1/>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bassekou Kouyaté &amp; Ngoni Ba</programmetitle>
+    <programmenumber>1585</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>09:11</schedulestarttime>
+    <scheduleendtime>09:20</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Seeing Bassekou Kouyaté live at Moods with his Ngoni makes it hard to resist his magical vibes. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sly &amp; Robbie meet Molvær &amp; Aarset</programmetitle>
+    <programmenumber>1193</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Lowell 'Sly' Dunbar, Robbie Shakespeare, Nils Petter Molvaer, Eivind Aarset</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>09:20</schedulestarttime>
+    <scheduleendtime>09:26</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The book of life opens onto a dreamlike country where Norwegian Nu jazz transcends the riddims of Jamaica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hypnotic Brass Ensemble - Live</programmetitle>
+    <programmenumber>534</programmenumber>
+    <yearofrelease>2012</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>09:26</schedulestarttime>
+    <scheduleendtime>09:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>How often do you see eight brothers rocking together on stage, all weilding different golden instruments? </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>09:34</schedulestarttime>
+    <scheduleendtime>09:39</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>09:39</schedulestarttime>
+    <scheduleendtime>09:46</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bassekou Kouyaté &amp; Ngoni Ba</programmetitle>
+    <programmenumber>1585</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>09:46</schedulestarttime>
+    <scheduleendtime>10:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Seeing Bassekou Kouyaté live at Moods with his Ngoni makes it hard to resist his magical vibes. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Chuck Berry - RTBF Archives 1965</programmetitle>
+    <programmenumber>707</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Chuck Berry</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>10:01</schedulestarttime>
+    <scheduleendtime>10:36</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Berry's natural energy is enough to break through all formalities, getting rid of any stuffiness.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hugh Masekela - Live</programmetitle>
+    <programmenumber>69</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Lee-Roy Sauls, Fana Zulu, Cameron Ward, Hugh Masekela, Francis Manneh Fuster, Randal Skippers</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>10:36</schedulestarttime>
+    <scheduleendtime>11:39</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Five years before his death, South African Hugh Masekela gave a dazzling concert at the Paris Jazz Festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jorge Rossy Vibes Quintet ft Turner</programmetitle>
+    <programmenumber>1153</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>11:39</schedulestarttime>
+    <scheduleendtime>13:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Make no mistake: Jorge Rossy’s quintet offers more adventurous music than it seems at first glance.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Makaya McCraven - Jazz à Sète</programmetitle>
+    <programmenumber>962</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>13:54</schedulestarttime>
+    <scheduleendtime>15:27</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Beat Scientist, drummer and producer, McCraven blurs the lines between jazz, electronic and hip-hop.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ray Charles and His Orchestra</programmetitle>
+    <programmenumber>1486</programmenumber>
+    <yearofrelease>1968</yearofrelease>
+    <directorname/>
+    <castname>Ray Charles</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>15:27</schedulestarttime>
+    <scheduleendtime>16:12</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Ray Charles redoubles his energy with the vocal quartet The Raelets, Billy Preston and his formidable band.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Seun Kuti &amp; Egypt 80 - Moods</programmetitle>
+    <programmenumber>1152</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>16:12</schedulestarttime>
+    <scheduleendtime>16:23</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>They give us sharp, polyrhythmic drums, an array of percussion, and funk guitars that slow-cook the groove.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Louis Armstrong &amp; his All Stars</programmetitle>
+    <programmenumber>248</programmenumber>
+    <yearofrelease>1959</yearofrelease>
+    <directorname/>
+    <castname>Louis Armstrong</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>16:23</schedulestarttime>
+    <scheduleendtime>16:27</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This footage is a reminder of Satchmo's talent, unique tone and ability to bring out countless subtleties.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>16:27</schedulestarttime>
+    <scheduleendtime>16:36</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Inner Circle - RTBF Archives 1979</programmetitle>
+    <programmenumber>709</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Jacob Miller</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>16:36</schedulestarttime>
+    <scheduleendtime>16:40</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Formed in Kingston in the 70s, Inner Circle here demonstrates a remarkable tightness and energy.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sly &amp; Robbie meet Molvær &amp; Aarset</programmetitle>
+    <programmenumber>1193</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Lowell 'Sly' Dunbar, Robbie Shakespeare, Nils Petter Molvaer, Eivind Aarset</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>16:40</schedulestarttime>
+    <scheduleendtime>16:49</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The book of life opens onto a dreamlike country where Norwegian Nu jazz transcends the riddims of Jamaica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Pat Martino - Lotos Jazz Festival</programmetitle>
+    <programmenumber>562</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Pat Martino</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>16:49</schedulestarttime>
+    <scheduleendtime>17:00</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Miracle guitarist Pat Martino delivers soft-toned grooves with his trio (Carmen Intorre and Pat Bianchi).</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Charles Lloyd Quartet - RTBF</programmetitle>
+    <programmenumber>242</programmenumber>
+    <yearofrelease>1966</yearofrelease>
+    <directorname/>
+    <castname>Charles Lloyd</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>17:00</schedulestarttime>
+    <scheduleendtime>17:36</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Recorded for the RTBF in 1966,  this concert by the Charles Lloyd Quartet was destined to go down in history.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Aretha Franklin - Live in Paris</programmetitle>
+    <programmenumber>204</programmenumber>
+    <yearofrelease>1977</yearofrelease>
+    <directorname/>
+    <castname>Aretha Franklin</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>17:36</schedulestarttime>
+    <scheduleendtime>18:45</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Aretha Franklin sets the Paris Palais des Sports on fire in 1977.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Emel Mathlouthi - Live</programmetitle>
+    <programmenumber>733</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Emel Mathlouthi</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>18:45</schedulestarttime>
+    <scheduleendtime>19:32</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Emel Mathlouthi offers a techno-punk performance, brimming with influences from Björk to Massive Attack.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>19:32</schedulestarttime>
+    <scheduleendtime>19:40</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>BCUC - Live at Moods</programmetitle>
+    <programmenumber>1180</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>19:40</schedulestarttime>
+    <scheduleendtime>19:44</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Originally from Soweto, BCUC's Afro-psychedelic trance hypnotises us with reworked traditional sounds. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Earl Hines &amp; His All Stars – RTBF</programmetitle>
+    <programmenumber>716</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Earl Hines</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>19:44</schedulestarttime>
+    <scheduleendtime>19:48</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Nucleus - RTBF</programmetitle>
+    <programmenumber>710</programmenumber>
+    <yearofrelease>1971</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>19:48</schedulestarttime>
+    <scheduleendtime>20:00</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Archie Shepp "In the Mood" - Live</programmetitle>
+    <programmenumber>488</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Archie Shepp</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>20:00</schedulestarttime>
+    <scheduleendtime>20:15</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>On the island of Porquerolles in Provence, jazz soaks its feet every summer, here with Captain Archie Shepp.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Yemen Blues - Live at Moods</programmetitle>
+    <programmenumber>1586</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>20:15</schedulestarttime>
+    <scheduleendtime>20:24</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The Yemen Blues singer combines family roots, and especially Yemeni culture, with rock, blues and even rap.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jorge Rossy Vibes Quintet - Moods</programmetitle>
+    <programmenumber>1590</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Jorge Rossy, Mark Turner, Billy Hart</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>20:24</schedulestarttime>
+    <scheduleendtime>20:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>With saxist Mark Turner, Jaume Llombart on guitar and a rhythmic duo: bassist Doug Weiss &amp; drummer Billy Hart.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>20:34</schedulestarttime>
+    <scheduleendtime>20:41</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Yemen Blues - Live at Moods</programmetitle>
+    <programmenumber>1586</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>20:41</schedulestarttime>
+    <scheduleendtime>20:47</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The Yemen Blues singer combines family roots, and especially Yemeni culture, with rock, blues and even rap.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Lionel Hampton - RTBF Archives 1959</programmetitle>
+    <programmenumber>250</programmenumber>
+    <yearofrelease>1959</yearofrelease>
+    <directorname/>
+    <castname>Lionel Hampton</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>20:47</schedulestarttime>
+    <scheduleendtime>20:57</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The drummer and vibraphonist makes a tour stop in Liège, Belgium, with a supercharged orchestra.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Electric Mamba</programmetitle>
+    <programmenumber>2573</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>20:57</schedulestarttime>
+    <scheduleendtime>22:03</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The France-based afrobeat group led by Central African singer Idylle Mamba performs in Lyon.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jimmy McGriff Trio - Live in 1965</programmetitle>
+    <programmenumber>245</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Jimmy McGriff</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>22:03</schedulestarttime>
+    <scheduleendtime>22:47</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>At the helm of a classic organ trio, with guitar and drums support, McGriff dives deep into an ocean of blues.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Kinga Głyk - New Morning</programmetitle>
+    <programmenumber>2648</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>22:47</schedulestarttime>
+    <scheduleendtime>23:58</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Rising star Polish bass player Kinga Głyk brings hard-hitting funk to the stage of New Morning, Paris.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Paco de Lucia "Light and Shade"</programmetitle>
+    <programmenumber>19</programmenumber>
+    <yearofrelease>1994</yearofrelease>
+    <directorname/>
+    <castname>Paco de Lucía</castname>
+    <scheduledate>15082023</scheduledate>
+    <schedulestarttime>23:58</schedulestarttime>
+    <scheduleendtime>01:10</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The story of a guitarist obsessed with flamenco since childhood drawing his path towards jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>W. Marsalis: Blood On The Fields</programmetitle>
+    <programmenumber>2552</programmenumber>
+    <yearofrelease>1996</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>01:10</schedulestarttime>
+    <scheduleendtime>02:16</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 1995, Marsalis rehearses what later on became the first jazz epic oratorio awarded with The Pulitzer Prize.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Dave Holland Quartet: Prism</programmetitle>
+    <programmenumber>294</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Dave Holland</castname>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>02:16</schedulestarttime>
+    <scheduleendtime>03:33</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bassist Dave Holland’s band unite Kevin Eubanks, Craig Taborn and Eric Harland at the Jazz en Tête Festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Spanish Harlem Orchestra</programmetitle>
+    <programmenumber>1155</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>03:33</schedulestarttime>
+    <scheduleendtime>05:13</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Led by salsa giant Oscar Hernandez, this band has not finished spreading salsa and good vibes around the world</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Emel Mathlouthi - Live</programmetitle>
+    <programmenumber>733</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Emel Mathlouthi</castname>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>05:13</schedulestarttime>
+    <scheduleendtime>06:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Emel Mathlouthi offers a techno-punk performance, brimming with influences from Björk to Massive Attack.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Mohamed Abozekry - Live at Moods</programmetitle>
+    <programmenumber>1154</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>06:01</schedulestarttime>
+    <scheduleendtime>06:12</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mohamed Abozekry alongside Lofty Abaza, Hany Bedair, Wassim Halal, and Mohammed Farag for this 2017 concert.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>John Coltrane Quartet - RTBF, 1965</programmetitle>
+    <programmenumber>246</programmenumber>
+    <yearofrelease>1966</yearofrelease>
+    <directorname/>
+    <castname>John Coltrane</castname>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>06:12</schedulestarttime>
+    <scheduleendtime>06:23</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This is the last footage of John Coltrane’s "Classic Quartet", one of the greatest jazz bands of all time.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>OUM - Live at Moods</programmetitle>
+    <programmenumber>1575</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>06:23</schedulestarttime>
+    <scheduleendtime>06:36</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The Saharawi descendant revisits parts of her discography, accompanied by Yacir Rami and bassist Damian Nueva.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Earl Hines Trio - Live in 1966</programmetitle>
+    <programmenumber>244</programmenumber>
+    <yearofrelease>1966</yearofrelease>
+    <directorname/>
+    <castname>Earl Hines</castname>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>06:36</schedulestarttime>
+    <scheduleendtime>06:47</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Earl Hines proves that forty years after he defined jazz piano, he still had the goods.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Abraham Inc. - Live</programmetitle>
+    <programmenumber>471</programmenumber>
+    <yearofrelease>2010</yearofrelease>
+    <directorname/>
+    <castname>David Krakauer, Fred Wesley, Socalled</castname>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>06:47</schedulestarttime>
+    <scheduleendtime>06:53</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Feat. David Krakauer, Fred Wesley &amp; Socalled, jewish music, jazz and funk are mixed at Jazz à la Villette.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Son House - Master of Country Blues</programmetitle>
+    <programmenumber>1722</programmenumber>
+    <yearofrelease>1991</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>06:53</schedulestarttime>
+    <scheduleendtime>07:07</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This doc is an almost wall-to-wall archival footage of the Delta blues guitarist &amp; vocalist performing.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Frisell - The Disfarmers</programmetitle>
+    <programmenumber>297</programmenumber>
+    <yearofrelease>2011</yearofrelease>
+    <directorname/>
+    <castname>Bill Frisell</castname>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>07:07</schedulestarttime>
+    <scheduleendtime>08:25</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This is a soundtrack illustrating photographs by Mike Disfarmer documenting rural America in the Depression.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Da Capo from Constitution Hill</programmetitle>
+    <programmenumber>2408</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>Da Capo</castname>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>08:25</schedulestarttime>
+    <scheduleendtime>09:20</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Da Capo celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>09:20</schedulestarttime>
+    <scheduleendtime>09:24</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sharon Jones and the Dap-Kings</programmetitle>
+    <programmenumber>111</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Sharon Jones</castname>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>09:24</schedulestarttime>
+    <scheduleendtime>09:31</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Soul, funk, R&amp;B and some infectious dance lessons are delivered by this great figure of Afro-American music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Mohamed Abozekry - Live at Moods</programmetitle>
+    <programmenumber>1154</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>09:31</schedulestarttime>
+    <scheduleendtime>09:39</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mohamed Abozekry alongside Lofty Abaza, Hany Bedair, Wassim Halal, and Mohammed Farag for this 2017 concert.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hypnotic Brass Ensemble - Live</programmetitle>
+    <programmenumber>534</programmenumber>
+    <yearofrelease>2012</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>09:39</schedulestarttime>
+    <scheduleendtime>09:46</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>How often do you see eight brothers rocking together on stage, all weilding different golden instruments? </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Modern Jazz Quartet - Live in 1962</programmetitle>
+    <programmenumber>238</programmenumber>
+    <yearofrelease>1962</yearofrelease>
+    <directorname/>
+    <castname>Modern Jazz Quartet</castname>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>09:46</schedulestarttime>
+    <scheduleendtime>09:49</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1/>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bassekou Kouyaté &amp; Ngoni Ba</programmetitle>
+    <programmenumber>1585</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>09:49</schedulestarttime>
+    <scheduleendtime>09:58</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Seeing Bassekou Kouyaté live at Moods with his Ngoni makes it hard to resist his magical vibes. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Emel Mathlouthi - Live</programmetitle>
+    <programmenumber>733</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Emel Mathlouthi</castname>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>09:58</schedulestarttime>
+    <scheduleendtime>10:45</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Emel Mathlouthi offers a techno-punk performance, brimming with influences from Björk to Massive Attack.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Lee Fields &amp; The Expressions - Live</programmetitle>
+    <programmenumber>985</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>10:45</schedulestarttime>
+    <scheduleendtime>12:11</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mr. Lee Fields, a stalwart of soul, performs at Jazz à La Villette Festival with three members of Antibalas.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>BALLAKE SISSOKO &amp; VINCENT SEGAL</programmetitle>
+    <programmenumber>2587</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>12:11</schedulestarttime>
+    <scheduleendtime>13:19</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Yom - Back to the Klezmer</programmetitle>
+    <programmenumber>260</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Yom</castname>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>13:19</schedulestarttime>
+    <scheduleendtime>14:13</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Yom owes his instrument's choice to his father and his Ashkenazi culture to his mother, born in Transylvania.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hugh Masekela - Live</programmetitle>
+    <programmenumber>69</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Lee-Roy Sauls, Fana Zulu, Cameron Ward, Hugh Masekela, Francis Manneh Fuster, Randal Skippers</castname>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>14:13</schedulestarttime>
+    <scheduleendtime>15:16</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Five years before his death, South African Hugh Masekela gave a dazzling concert at the Paris Jazz Festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Children of the Light</programmetitle>
+    <programmenumber>50</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Danilo Perez</castname>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>15:16</schedulestarttime>
+    <scheduleendtime>16:17</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Danilo Pérez, John Patitucci and Brian Blade bring back the art of the trio at the Jazz à Junas festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Antibalas - Live at Moods</programmetitle>
+    <programmenumber>1200</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>16:17</schedulestarttime>
+    <scheduleendtime>16:26</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Antibalas gives us afrobeat and mix in modern funk, the avant-garde, dub and electronic influences.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bilal - Live at Moods</programmetitle>
+    <programmenumber>1587</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname>Bilal</castname>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>16:26</schedulestarttime>
+    <scheduleendtime>16:35</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bilal starts his set with "Sirens II," a haunting theme that stands at the crossroads between rock and RnB.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bassekou Kouyaté &amp; Ngoni Ba</programmetitle>
+    <programmenumber>1585</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>16:35</schedulestarttime>
+    <scheduleendtime>16:42</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Seeing Bassekou Kouyaté live at Moods with his Ngoni makes it hard to resist his magical vibes. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Vincent Peirani "Living Being"</programmetitle>
+    <programmenumber>652</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Vincent Peirani</castname>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>16:42</schedulestarttime>
+    <scheduleendtime>16:48</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>From Led Zeppelin to Purcell covers, this quintet is a real chamber rock music orchestra. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Dionne Warwick - RTBF Archives 1964</programmetitle>
+    <programmenumber>61</programmenumber>
+    <yearofrelease>1964</yearofrelease>
+    <directorname/>
+    <castname>Dionne Warwick</castname>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>16:48</schedulestarttime>
+    <scheduleendtime>16:51</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>An exemplar of both pop and R&amp;B, Warwick had an incredibly soulful sound that endeared her to music lovers.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>16:51</schedulestarttime>
+    <scheduleendtime>17:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Freddie Hubbard Quartet - RTBF</programmetitle>
+    <programmenumber>721</programmenumber>
+    <yearofrelease>1981</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>17:01</schedulestarttime>
+    <scheduleendtime>17:45</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Hubbard shows how much his technique combines power and a disconcerting speed in this unique archive concert.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Maceo Parker &amp; Roots Revisited</programmetitle>
+    <programmenumber>199</programmenumber>
+    <yearofrelease>1991</yearofrelease>
+    <directorname/>
+    <castname>Maceo Parker</castname>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>17:45</schedulestarttime>
+    <scheduleendtime>18:53</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>James Brown alumni Maceo Parker, Fred Wesley and Pee Wee Ellis stir up funky jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hindi Zahra &amp; Fatoumata Diawara</programmetitle>
+    <programmenumber>740</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Fatoumata Diawara</castname>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>18:53</schedulestarttime>
+    <scheduleendtime>19:58</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The duo mix Bambara with Amazigh &amp; English, folk with jazz, soul with blues &amp; reggae at Banlieues Bleues fest.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Toumani Diabaté's Orchestra</programmetitle>
+    <programmenumber>129</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Toumani Diabaté</castname>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>19:58</schedulestarttime>
+    <scheduleendtime>20:04</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>At the Banlieues Bleues festival, Diabaté's Symmetric Orchestra celebrates peace, hope and pan-African unity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sharon Jones and the Dap-Kings</programmetitle>
+    <programmenumber>111</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Sharon Jones</castname>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>20:04</schedulestarttime>
+    <scheduleendtime>20:09</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Soul, funk, R&amp;B and some infectious dance lessons are delivered by this great figure of Afro-American music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Archie Shepp "In the Mood" - Live</programmetitle>
+    <programmenumber>488</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Archie Shepp</castname>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>20:09</schedulestarttime>
+    <scheduleendtime>20:25</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>On the island of Porquerolles in Provence, jazz soaks its feet every summer, here with Captain Archie Shepp.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Pat Martino - Lotos Jazz Festival</programmetitle>
+    <programmenumber>562</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Pat Martino</castname>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>20:25</schedulestarttime>
+    <scheduleendtime>20:30</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Miracle guitarist Pat Martino delivers soft-toned grooves with his trio (Carmen Intorre and Pat Bianchi).</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>20:30</schedulestarttime>
+    <scheduleendtime>20:39</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Mohamed Abozekry - Live at Moods</programmetitle>
+    <programmenumber>1154</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>20:39</schedulestarttime>
+    <scheduleendtime>20:51</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mohamed Abozekry alongside Lofty Abaza, Hany Bedair, Wassim Halal, and Mohammed Farag for this 2017 concert.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Antibalas - Live at Moods</programmetitle>
+    <programmenumber>1200</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>20:51</schedulestarttime>
+    <scheduleendtime>21:02</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Antibalas gives us afrobeat and mix in modern funk, the avant-garde, dub and electronic influences.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ron Carter - Jazz à Vienne Festival</programmetitle>
+    <programmenumber>2585</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>21:02</schedulestarttime>
+    <scheduleendtime>22:11</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Filmed in 2018, Ron Carter is one of the last true masters who participated at the very top of post-war jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>22:11</schedulestarttime>
+    <scheduleendtime>23:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Tigran Hamasyan - Live in Norway</programmetitle>
+    <programmenumber>125</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Tigran Hamasyan</castname>
+    <scheduledate>16082023</scheduledate>
+    <schedulestarttime>23:01</schedulestarttime>
+    <scheduleendtime>00:06</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Pianist Hamasyan and samplerist Jan Bang combine eastern accents and electronic riffs at Punkt Festival 2013.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Melingo w/ Juliette &amp; V. Capossela</programmetitle>
+    <programmenumber>548</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Daniel Melingo</castname>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>00:06</schedulestarttime>
+    <scheduleendtime>01:08</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Welcome to Melingo's surrealist cabaret, which tells the poetry of the shallows, of love &amp; vagabond pathways. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jorge Rossy Vibes Quintet ft Turner</programmetitle>
+    <programmenumber>1153</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>01:08</schedulestarttime>
+    <scheduleendtime>03:25</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Make no mistake: Jorge Rossy’s quintet offers more adventurous music than it seems at first glance.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The William Parker Organ Quartet</programmetitle>
+    <programmenumber>738</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>03:25</schedulestarttime>
+    <scheduleendtime>04:35</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Playing live with Hamid Drake, Cooper Moore and saxophonist James Brandon Lewis at Banlieues Bleues Festival</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>UB40 - RTBF Archives 1980</programmetitle>
+    <programmenumber>715</programmenumber>
+    <yearofrelease>1980</yearofrelease>
+    <directorname/>
+    <castname>Ali Campbell</castname>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>04:35</schedulestarttime>
+    <scheduleendtime>04:52</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 1980, UB40 is not yet the huge machine they would become, but their fresh reggae still oozes charisma. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hindi Zahra &amp; Fatoumata Diawara</programmetitle>
+    <programmenumber>740</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Fatoumata Diawara</castname>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>04:52</schedulestarttime>
+    <scheduleendtime>05:56</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The duo mix Bambara with Amazigh &amp; English, folk with jazz, soul with blues &amp; reggae at Banlieues Bleues fest.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Mohamed Abozekry - Live at Moods</programmetitle>
+    <programmenumber>1154</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>05:56</schedulestarttime>
+    <scheduleendtime>06:07</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mohamed Abozekry alongside Lofty Abaza, Hany Bedair, Wassim Halal, and Mohammed Farag for this 2017 concert.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>06:07</schedulestarttime>
+    <scheduleendtime>06:10</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>06:10</schedulestarttime>
+    <scheduleendtime>06:20</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bakolo Music International</programmetitle>
+    <programmenumber>1908</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Papa Bikunda</castname>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>06:20</schedulestarttime>
+    <scheduleendtime>06:27</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bakolo Music International performing at Africolor Fetsival is a monument of Congolese rumba.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Brad Mehldau plays The Beatles</programmetitle>
+    <programmenumber>1637</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Brad Mehldau</castname>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>06:27</schedulestarttime>
+    <scheduleendtime>06:32</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Just as many other jazz or soul artists have adapted the Beatles, here, Brad Mehldau follows the same dynamic.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>OUM - Live at Moods</programmetitle>
+    <programmenumber>1575</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>06:32</schedulestarttime>
+    <scheduleendtime>06:45</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The Saharawi descendant revisits parts of her discography, accompanied by Yacir Rami and bassist Damian Nueva.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jeremy Underground - Pitchfork</programmetitle>
+    <programmenumber>1369</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Jeremy Underground</castname>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>06:45</schedulestarttime>
+    <scheduleendtime>06:52</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>From hip-house to acid, Jeremy Fichon takes the audience on a ride across the spectrum of house music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Liz McComb - Olympia, Paris</programmetitle>
+    <programmenumber>228</programmenumber>
+    <yearofrelease>1998</yearofrelease>
+    <directorname/>
+    <castname>Liz McComb</castname>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>06:52</schedulestarttime>
+    <scheduleendtime>07:10</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Between gospel and soul, singer and pianist Liz McComb is joined by three fine-tuned musicians in Paris, 1998.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Dave Holland Quartet: Prism</programmetitle>
+    <programmenumber>294</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Dave Holland</castname>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>07:10</schedulestarttime>
+    <scheduleendtime>08:15</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bassist Dave Holland’s band unite Kevin Eubanks, Craig Taborn and Eric Harland at the Jazz en Tête Festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Black Motion from Constitution Hill</programmetitle>
+    <programmenumber>2410</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>DJ Murder, Smol</castname>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>08:15</schedulestarttime>
+    <scheduleendtime>09:35</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Black Motion celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Earl Hines &amp; His All Stars – RTBF</programmetitle>
+    <programmenumber>716</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Earl Hines</castname>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>09:35</schedulestarttime>
+    <scheduleendtime>09:37</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>BB King - JazzOpen Stuttgart</programmetitle>
+    <programmenumber>207</programmenumber>
+    <yearofrelease>1997</yearofrelease>
+    <directorname/>
+    <castname>BB King</castname>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>09:37</schedulestarttime>
+    <scheduleendtime>09:44</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>King displays here all his musical gifts, singing with soul and wit and expertly leading his crack band.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>09:44</schedulestarttime>
+    <scheduleendtime>09:53</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ulf Wakenius: Jazz à Junas Festival</programmetitle>
+    <programmenumber>596</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Ulf Wakenius</castname>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>09:53</schedulestarttime>
+    <scheduleendtime>10:00</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>With Vincent Peirani and Simon Tailleu, this concert is infused with Swedish folk and global music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Aretha Franklin - Live in Paris</programmetitle>
+    <programmenumber>204</programmenumber>
+    <yearofrelease>1977</yearofrelease>
+    <directorname/>
+    <castname>Aretha Franklin</castname>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>10:00</schedulestarttime>
+    <scheduleendtime>11:11</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Aretha Franklin sets the Paris Palais des Sports on fire in 1977.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Antibalas - Live at Moods</programmetitle>
+    <programmenumber>1200</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>11:11</schedulestarttime>
+    <scheduleendtime>13:03</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Antibalas gives us afrobeat and mix in modern funk, the avant-garde, dub and electronic influences.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Don Ellis</programmetitle>
+    <programmenumber>2591</programmenumber>
+    <yearofrelease>2007</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>13:03</schedulestarttime>
+    <scheduleendtime>14:27</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This doc showcases the life of the man who did jazz fusion before it was a thing: Don Ellis.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Logan Richardson - Live</programmetitle>
+    <programmenumber>84</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Logan Richardson</castname>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>14:27</schedulestarttime>
+    <scheduleendtime>15:35</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Richardson shows the surreal side of his music at Jazz à Porquerolles Festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Lee Fields &amp; The Expressions - Live</programmetitle>
+    <programmenumber>985</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>15:35</schedulestarttime>
+    <scheduleendtime>17:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mr. Lee Fields, a stalwart of soul, performs at Jazz à La Villette Festival with three members of Antibalas.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ray Charles and His Orchestra</programmetitle>
+    <programmenumber>1486</programmenumber>
+    <yearofrelease>1968</yearofrelease>
+    <directorname/>
+    <castname>Ray Charles</castname>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>17:01</schedulestarttime>
+    <scheduleendtime>17:45</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Ray Charles redoubles his energy with the vocal quartet The Raelets, Billy Preston and his formidable band.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Gina Jeanz from Constitution Hill</programmetitle>
+    <programmenumber>2407</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>Gina Jeanz</castname>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>17:45</schedulestarttime>
+    <scheduleendtime>18:45</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Gina Jeanz celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Melingo w/ Juliette &amp; V. Capossela</programmetitle>
+    <programmenumber>548</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Daniel Melingo</castname>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>18:45</schedulestarttime>
+    <scheduleendtime>18:52</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Welcome to Melingo's surrealist cabaret, which tells the poetry of the shallows, of love &amp; vagabond pathways. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Brian Auger's Oblivion Express</programmetitle>
+    <programmenumber>705</programmenumber>
+    <yearofrelease>1972</yearofrelease>
+    <directorname/>
+    <castname>Brian Auger</castname>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>18:52</schedulestarttime>
+    <scheduleendtime>18:59</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The keyboardist Brian Auger shows all his talent for groove and virtuoso solos on the Fender Rhodes.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Melingo w/ Juliette &amp; V. Capossela</programmetitle>
+    <programmenumber>548</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Daniel Melingo</castname>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>18:59</schedulestarttime>
+    <scheduleendtime>19:04</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Welcome to Melingo's surrealist cabaret, which tells the poetry of the shallows, of love &amp; vagabond pathways. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Nils Landgren &amp; Bootsy Collins</programmetitle>
+    <programmenumber>209</programmenumber>
+    <yearofrelease>1998</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>19:04</schedulestarttime>
+    <scheduleendtime>19:13</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Two back to back performances by the Nils Landgren Funk Unit and Bootsy Collins at the Jazzopen in Stuttgart.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Toumani Diabaté's Orchestra</programmetitle>
+    <programmenumber>129</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Toumani Diabaté</castname>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>19:13</schedulestarttime>
+    <scheduleendtime>19:20</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>At the Banlieues Bleues festival, Diabaté's Symmetric Orchestra celebrates peace, hope and pan-African unity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bombino - Live at Moods</programmetitle>
+    <programmenumber>1189</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Bombino</castname>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>19:20</schedulestarttime>
+    <scheduleendtime>19:25</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bombino sings about the identity politics and culture of the Tuareg people of Niger with sensitivity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Vincent Peirani "Living Being"</programmetitle>
+    <programmenumber>652</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Vincent Peirani</castname>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>19:25</schedulestarttime>
+    <scheduleendtime>19:29</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>From Led Zeppelin to Purcell covers, this quintet is a real chamber rock music orchestra. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Morcheeba - Live at Jazz à Vienne</programmetitle>
+    <programmenumber>643</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>19:29</schedulestarttime>
+    <scheduleendtime>19:36</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The group’s DNA is found in Edward’s voice and her natural vocal sensibility, and she knows it.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Nucleus - RTBF</programmetitle>
+    <programmenumber>710</programmenumber>
+    <yearofrelease>1971</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>19:36</schedulestarttime>
+    <scheduleendtime>19:42</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Morcheeba - Live at Jazz à Vienne</programmetitle>
+    <programmenumber>643</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>19:42</schedulestarttime>
+    <scheduleendtime>19:49</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The group’s DNA is found in Edward’s voice and her natural vocal sensibility, and she knows it.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>19:49</schedulestarttime>
+    <scheduleendtime>19:56</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Chris Potter - Circuits - Vaulx</programmetitle>
+    <programmenumber>660</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname>Chris Potter</castname>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>19:56</schedulestarttime>
+    <scheduleendtime>20:09</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>To promote his latest album, Circuits, Chris Potter called on Craig Taborn, Tim Lefebvre, and Justin Brown.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Specials - Live in 1979</programmetitle>
+    <programmenumber>714</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Terry Hall</castname>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>20:09</schedulestarttime>
+    <scheduleendtime>20:14</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>All their hits are there with punk beats, rock riffs, flamboyant brass, reggae pulse and leaping musicians</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Seun Kuti &amp; Egypt 80 - Moods</programmetitle>
+    <programmenumber>1152</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>20:14</schedulestarttime>
+    <scheduleendtime>20:22</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>They give us sharp, polyrhythmic drums, an array of percussion, and funk guitars that slow-cook the groove.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Pat Martino - Lotos Jazz Festival</programmetitle>
+    <programmenumber>562</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Pat Martino</castname>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>20:22</schedulestarttime>
+    <scheduleendtime>20:30</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Miracle guitarist Pat Martino delivers soft-toned grooves with his trio (Carmen Intorre and Pat Bianchi).</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Specials - Live in 1979</programmetitle>
+    <programmenumber>714</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Terry Hall</castname>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>20:30</schedulestarttime>
+    <scheduleendtime>20:33</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>All their hits are there with punk beats, rock riffs, flamboyant brass, reggae pulse and leaping musicians</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Inner Circle - RTBF Archives 1979</programmetitle>
+    <programmenumber>709</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Jacob Miller</castname>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>20:33</schedulestarttime>
+    <scheduleendtime>20:37</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Formed in Kingston in the 70s, Inner Circle here demonstrates a remarkable tightness and energy.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hypnotic Brass Ensemble - Live</programmetitle>
+    <programmenumber>534</programmenumber>
+    <yearofrelease>2012</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>20:37</schedulestarttime>
+    <scheduleendtime>20:43</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>How often do you see eight brothers rocking together on stage, all weilding different golden instruments? </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>20:43</schedulestarttime>
+    <scheduleendtime>20:47</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Rymden - Tourcoing Jazz Festival</programmetitle>
+    <programmenumber>1638</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>20:47</schedulestarttime>
+    <scheduleendtime>20:56</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Double-bassist Dan Berglund and drummer Magnus Oström perform as their new trio with Bugge Wesseltof.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Kinga Głyk - New Morning</programmetitle>
+    <programmenumber>2648</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>20:56</schedulestarttime>
+    <scheduleendtime>22:06</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Rising star Polish bass player Kinga Głyk brings hard-hitting funk to the stage of New Morning, Paris.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle> Art Blakey &amp; The Jazz Messengers</programmetitle>
+    <programmenumber>1449</programmenumber>
+    <yearofrelease>1963</yearofrelease>
+    <directorname/>
+    <castname>Art Blakey</castname>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>22:06</schedulestarttime>
+    <scheduleendtime>22:36</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The musicians who take part in this concert form one of the best formulas that the Jazz Messengers ever knew.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Coulondre Trio - Michel On My Mind</programmetitle>
+    <programmenumber>1922</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname>Laurent Coulondre</castname>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>22:36</schedulestarttime>
+    <scheduleendtime>23:56</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>French pianist Laurent Coulondre's album Michel On My Mind commemorates the anniversary of Petrucciani's death</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jungle By Night – Pelpass Festival</programmetitle>
+    <programmenumber>2479</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>17082023</scheduledate>
+    <schedulestarttime>23:56</schedulestarttime>
+    <scheduleendtime>01:20</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The dutch band was inspired by afrobeat to create this unique brand of funky, rhythmic and colorful jazz!</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>BALLAKE SISSOKO &amp; VINCENT SEGAL</programmetitle>
+    <programmenumber>2587</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>18082023</scheduledate>
+    <schedulestarttime>01:20</schedulestarttime>
+    <scheduleendtime>02:29</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ron Carter - Jazz à Vienne Festival</programmetitle>
+    <programmenumber>2585</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>18082023</scheduledate>
+    <schedulestarttime>02:29</schedulestarttime>
+    <scheduleendtime>03:35</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Filmed in 2018, Ron Carter is one of the last true masters who participated at the very top of post-war jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Paco de Lucia "Light and Shade"</programmetitle>
+    <programmenumber>19</programmenumber>
+    <yearofrelease>1994</yearofrelease>
+    <directorname/>
+    <castname>Paco de Lucía</castname>
+    <scheduledate>18082023</scheduledate>
+    <schedulestarttime>03:35</schedulestarttime>
+    <scheduleendtime>04:43</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The story of a guitarist obsessed with flamenco since childhood drawing his path towards jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Gina Jeanz from Constitution Hill</programmetitle>
+    <programmenumber>2407</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>Gina Jeanz</castname>
+    <scheduledate>18082023</scheduledate>
+    <schedulestarttime>04:43</schedulestarttime>
+    <scheduleendtime>05:43</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Gina Jeanz celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Pat Martino - Lotos Jazz Festival</programmetitle>
+    <programmenumber>562</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Pat Martino</castname>
+    <scheduledate>18082023</scheduledate>
+    <schedulestarttime>05:43</schedulestarttime>
+    <scheduleendtime>05:52</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Miracle guitarist Pat Martino delivers soft-toned grooves with his trio (Carmen Intorre and Pat Bianchi).</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bilal - Live at Moods</programmetitle>
+    <programmenumber>1587</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname>Bilal</castname>
+    <scheduledate>18082023</scheduledate>
+    <schedulestarttime>05:52</schedulestarttime>
+    <scheduleendtime>05:57</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bilal starts his set with "Sirens II," a haunting theme that stands at the crossroads between rock and RnB.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Yemen Blues - Live at Moods</programmetitle>
+    <programmenumber>1586</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>18082023</scheduledate>
+    <schedulestarttime>05:57</schedulestarttime>
+    <scheduleendtime>06:08</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The Yemen Blues singer combines family roots, and especially Yemeni culture, with rock, blues and even rap.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>18082023</scheduledate>
+    <schedulestarttime>06:08</schedulestarttime>
+    <scheduleendtime>06:13</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hypnotic Brass Ensemble - Live</programmetitle>
+    <programmenumber>534</programmenumber>
+    <yearofrelease>2012</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>18082023</scheduledate>
+    <schedulestarttime>06:13</schedulestarttime>
+    <scheduleendtime>06:18</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>How often do you see eight brothers rocking together on stage, all weilding different golden instruments? </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>UB40 - RTBF Archives 1980</programmetitle>
+    <programmenumber>715</programmenumber>
+    <yearofrelease>1980</yearofrelease>
+    <directorname/>
+    <castname>Ali Campbell</castname>
+    <scheduledate>18082023</scheduledate>
+    <schedulestarttime>06:18</schedulestarttime>
+    <scheduleendtime>06:23</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 1980, UB40 is not yet the huge machine they would become, but their fresh reggae still oozes charisma. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Rymden - Tourcoing Jazz Festival</programmetitle>
+    <programmenumber>1638</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>18082023</scheduledate>
+    <schedulestarttime>06:23</schedulestarttime>
+    <scheduleendtime>06:32</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Double-bassist Dan Berglund and drummer Magnus Oström perform as their new trio with Bugge Wesseltof.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bassekou Kouyaté &amp; Ngoni Ba</programmetitle>
+    <programmenumber>1585</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>18082023</scheduledate>
+    <schedulestarttime>06:32</schedulestarttime>
+    <scheduleendtime>06:38</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Seeing Bassekou Kouyaté live at Moods with his Ngoni makes it hard to resist his magical vibes. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Morcheeba - Live at Jazz à Vienne</programmetitle>
+    <programmenumber>643</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>18082023</scheduledate>
+    <schedulestarttime>06:38</schedulestarttime>
+    <scheduleendtime>06:42</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The group’s DNA is found in Edward’s voice and her natural vocal sensibility, and she knows it.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sly &amp; Robbie meet Molvær &amp; Aarset</programmetitle>
+    <programmenumber>1193</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Lowell 'Sly' Dunbar, Robbie Shakespeare, Nils Petter Molvaer, Eivind Aarset</castname>
+    <scheduledate>18082023</scheduledate>
+    <schedulestarttime>06:42</schedulestarttime>
+    <scheduleendtime>07:14</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The book of life opens onto a dreamlike country where Norwegian Nu jazz transcends the riddims of Jamaica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The William Parker Organ Quartet</programmetitle>
+    <programmenumber>738</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>18082023</scheduledate>
+    <schedulestarttime>07:14</schedulestarttime>
+    <scheduleendtime>08:07</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Playing live with Hamid Drake, Cooper Moore and saxophonist James Brandon Lewis at Banlieues Bleues Festival</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Mulatu Astatke &amp; Friends - Live</programmetitle>
+    <programmenumber>2611</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>18082023</scheduledate>
+    <schedulestarttime>08:07</schedulestarttime>
+    <scheduleendtime>10:05</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mixing jazz, latin music and traditional Ethiopian sounds, meet the man who birthed ethio-jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jimmy McGriff Trio - Live in 1965</programmetitle>
+    <programmenumber>245</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Jimmy McGriff</castname>
+    <scheduledate>18082023</scheduledate>
+    <schedulestarttime>10:05</schedulestarttime>
+    <scheduleendtime>10:48</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>At the helm of a classic organ trio, with guitar and drums support, McGriff dives deep into an ocean of blues.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Trombone Shorty &amp; Orleans Avenue</programmetitle>
+    <programmenumber>2580</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>18082023</scheduledate>
+    <schedulestarttime>10:48</schedulestarttime>
+    <scheduleendtime>12:03</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Trombone delivers a gig full of soul and rock sounds with a few forays into blues and jazz lands.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>CHILLY GONZALES</programmetitle>
+    <programmenumber>2581</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>18082023</scheduledate>
+    <schedulestarttime>12:03</schedulestarttime>
+    <scheduleendtime>13:06</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Avishaï Cohen's Big Vicious</programmetitle>
+    <programmenumber>988</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>18082023</scheduledate>
+    <schedulestarttime>13:06</schedulestarttime>
+    <scheduleendtime>14:43</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>With two guitarists and two drummers, Avishaï Cohen blends rock, avant-garde, groove and, of course, jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Antibalas - Live at Moods</programmetitle>
+    <programmenumber>1200</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>18082023</scheduledate>
+    <schedulestarttime>14:43</schedulestarttime>
+    <scheduleendtime>16:37</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Antibalas gives us afrobeat and mix in modern funk, the avant-garde, dub and electronic influences.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>18082023</scheduledate>
+    <schedulestarttime>16:37</schedulestarttime>
+    <scheduleendtime>16:43</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>UB40 - RTBF Archives 1980</programmetitle>
+    <programmenumber>715</programmenumber>
+    <yearofrelease>1980</yearofrelease>
+    <directorname/>
+    <castname>Ali Campbell</castname>
+    <scheduledate>18082023</scheduledate>
+    <schedulestarttime>16:43</schedulestarttime>
+    <scheduleendtime>16:49</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 1980, UB40 is not yet the huge machine they would become, but their fresh reggae still oozes charisma. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>18082023</scheduledate>
+    <schedulestarttime>16:49</schedulestarttime>
+    <scheduleendtime>16:55</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Nucleus - RTBF</programmetitle>
+    <programmenumber>710</programmenumber>
+    <yearofrelease>1971</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>18082023</scheduledate>
+    <schedulestarttime>16:55</schedulestarttime>
+    <scheduleendtime>17:03</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bobby McFerrin - Live in 1988</programmetitle>
+    <programmenumber>926</programmenumber>
+    <yearofrelease>1988</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>18082023</scheduledate>
+    <schedulestarttime>17:03</schedulestarttime>
+    <scheduleendtime>17:39</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Different arpeggios and harmonies, percussive chest beating and irresistible smoothness from start to finish.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Charles Lloyd Quartet - RTBF</programmetitle>
+    <programmenumber>242</programmenumber>
+    <yearofrelease>1966</yearofrelease>
+    <directorname/>
+    <castname>Charles Lloyd</castname>
+    <scheduledate>18082023</scheduledate>
+    <schedulestarttime>17:39</schedulestarttime>
+    <scheduleendtime>18:16</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Recorded for the RTBF in 1966,  this concert by the Charles Lloyd Quartet was destined to go down in history.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Makaya McCraven - Jazz à Sète</programmetitle>
+    <programmenumber>962</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>18082023</scheduledate>
+    <schedulestarttime>18:16</schedulestarttime>
+    <scheduleendtime>19:51</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Beat Scientist, drummer and producer, McCraven blurs the lines between jazz, electronic and hip-hop.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Electric Mamba</programmetitle>
+    <programmenumber>2573</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>18082023</scheduledate>
+    <schedulestarttime>19:51</schedulestarttime>
+    <scheduleendtime>20:58</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The France-based afrobeat group led by Central African singer Idylle Mamba performs in Lyon.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Chuck Berry - RTBF Archives 1965</programmetitle>
+    <programmenumber>707</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Chuck Berry</castname>
+    <scheduledate>18082023</scheduledate>
+    <schedulestarttime>20:58</schedulestarttime>
+    <scheduleendtime>21:33</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Berry's natural energy is enough to break through all formalities, getting rid of any stuffiness.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hugh Masekela - Live</programmetitle>
+    <programmenumber>69</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Lee-Roy Sauls, Fana Zulu, Cameron Ward, Hugh Masekela, Francis Manneh Fuster, Randal Skippers</castname>
+    <scheduledate>18082023</scheduledate>
+    <schedulestarttime>21:33</schedulestarttime>
+    <scheduleendtime>22:36</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Five years before his death, South African Hugh Masekela gave a dazzling concert at the Paris Jazz Festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>DJ Buhle from Constitution Hill</programmetitle>
+    <programmenumber>2406</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>DJ Buhle</castname>
+    <scheduledate>18082023</scheduledate>
+    <schedulestarttime>22:36</schedulestarttime>
+    <scheduleendtime>23:13</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>DJ Buhle celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Don Ellis</programmetitle>
+    <programmenumber>2591</programmenumber>
+    <yearofrelease>2007</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>18082023</scheduledate>
+    <schedulestarttime>23:13</schedulestarttime>
+    <scheduleendtime>00:40</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This doc showcases the life of the man who did jazz fusion before it was a thing: Don Ellis.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Children of the Light</programmetitle>
+    <programmenumber>50</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Danilo Perez</castname>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>00:40</schedulestarttime>
+    <scheduleendtime>01:41</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Danilo Pérez, John Patitucci and Brian Blade bring back the art of the trio at the Jazz à Junas festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Melingo w/ Juliette &amp; V. Capossela</programmetitle>
+    <programmenumber>548</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Daniel Melingo</castname>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>01:41</schedulestarttime>
+    <scheduleendtime>02:42</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Welcome to Melingo's surrealist cabaret, which tells the poetry of the shallows, of love &amp; vagabond pathways. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>DJ Buhle from Constitution Hill</programmetitle>
+    <programmenumber>2406</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>DJ Buhle</castname>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>02:42</schedulestarttime>
+    <scheduleendtime>03:18</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>DJ Buhle celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Makaya McCraven - Jazz à Sète</programmetitle>
+    <programmenumber>962</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>03:18</schedulestarttime>
+    <scheduleendtime>04:52</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Beat Scientist, drummer and producer, McCraven blurs the lines between jazz, electronic and hip-hop.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hindi Zahra &amp; Fatoumata Diawara</programmetitle>
+    <programmenumber>740</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Fatoumata Diawara</castname>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>04:52</schedulestarttime>
+    <scheduleendtime>05:57</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The duo mix Bambara with Amazigh &amp; English, folk with jazz, soul with blues &amp; reggae at Banlieues Bleues fest.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>05:57</schedulestarttime>
+    <scheduleendtime>06:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bombino - Live at Moods</programmetitle>
+    <programmenumber>1189</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Bombino</castname>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>06:01</schedulestarttime>
+    <scheduleendtime>06:09</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bombino sings about the identity politics and culture of the Tuareg people of Niger with sensitivity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Chuck Berry - RTBF Archives 1965</programmetitle>
+    <programmenumber>707</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Chuck Berry</castname>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>06:09</schedulestarttime>
+    <scheduleendtime>06:13</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Berry's natural energy is enough to break through all formalities, getting rid of any stuffiness.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Richie Havens - Live at Montreux</programmetitle>
+    <programmenumber>712</programmenumber>
+    <yearofrelease>1972</yearofrelease>
+    <directorname/>
+    <castname>Richie Havens</castname>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>06:13</schedulestarttime>
+    <scheduleendtime>06:23</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Recorded in 1972, the African-American singer Richie Havens sends a moving message of love and fraternity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Seun Kuti &amp; Egypt 80 - Moods</programmetitle>
+    <programmenumber>1152</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>06:23</schedulestarttime>
+    <scheduleendtime>06:41</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>They give us sharp, polyrhythmic drums, an array of percussion, and funk guitars that slow-cook the groove.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Michel Portal and Vincent Peirani</programmetitle>
+    <programmenumber>554</programmenumber>
+    <yearofrelease>2012</yearofrelease>
+    <directorname/>
+    <castname>Michel Portal, Vincent Peirani</castname>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>06:41</schedulestarttime>
+    <scheduleendtime>06:48</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sly &amp; Robbie meet Molvær &amp; Aarset</programmetitle>
+    <programmenumber>1193</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Lowell 'Sly' Dunbar, Robbie Shakespeare, Nils Petter Molvaer, Eivind Aarset</castname>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>06:48</schedulestarttime>
+    <scheduleendtime>06:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The book of life opens onto a dreamlike country where Norwegian Nu jazz transcends the riddims of Jamaica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Modern Jazz Quartet - Live in 1962</programmetitle>
+    <programmenumber>238</programmenumber>
+    <yearofrelease>1962</yearofrelease>
+    <directorname/>
+    <castname>Modern Jazz Quartet</castname>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>06:54</schedulestarttime>
+    <scheduleendtime>07:16</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1/>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ron Carter - Jazz à Vienne Festival</programmetitle>
+    <programmenumber>2585</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>07:16</schedulestarttime>
+    <scheduleendtime>08:09</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Filmed in 2018, Ron Carter is one of the last true masters who participated at the very top of post-war jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Emel Mathlouthi - Live</programmetitle>
+    <programmenumber>733</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Emel Mathlouthi</castname>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>08:09</schedulestarttime>
+    <scheduleendtime>08:56</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Emel Mathlouthi offers a techno-punk performance, brimming with influences from Björk to Massive Attack.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>08:56</schedulestarttime>
+    <scheduleendtime>09:02</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hypnotic Brass Ensemble - Live</programmetitle>
+    <programmenumber>534</programmenumber>
+    <yearofrelease>2012</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>09:02</schedulestarttime>
+    <scheduleendtime>09:09</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>How often do you see eight brothers rocking together on stage, all weilding different golden instruments? </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sly &amp; Robbie meet Molvær &amp; Aarset</programmetitle>
+    <programmenumber>1193</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Lowell 'Sly' Dunbar, Robbie Shakespeare, Nils Petter Molvaer, Eivind Aarset</castname>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>09:09</schedulestarttime>
+    <scheduleendtime>09:16</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The book of life opens onto a dreamlike country where Norwegian Nu jazz transcends the riddims of Jamaica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Louis Armstrong &amp; his All Stars</programmetitle>
+    <programmenumber>248</programmenumber>
+    <yearofrelease>1959</yearofrelease>
+    <directorname/>
+    <castname>Louis Armstrong</castname>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>09:16</schedulestarttime>
+    <scheduleendtime>09:21</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This footage is a reminder of Satchmo's talent, unique tone and ability to bring out countless subtleties.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>09:21</schedulestarttime>
+    <scheduleendtime>09:32</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Pat Martino - Lotos Jazz Festival</programmetitle>
+    <programmenumber>562</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Pat Martino</castname>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>09:32</schedulestarttime>
+    <scheduleendtime>09:42</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Miracle guitarist Pat Martino delivers soft-toned grooves with his trio (Carmen Intorre and Pat Bianchi).</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bassekou Kouyaté &amp; Ngoni Ba</programmetitle>
+    <programmenumber>1585</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>09:42</schedulestarttime>
+    <scheduleendtime>09:48</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Seeing Bassekou Kouyaté live at Moods with his Ngoni makes it hard to resist his magical vibes. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ulf Wakenius: Jazz à Junas Festival</programmetitle>
+    <programmenumber>596</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Ulf Wakenius</castname>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>09:48</schedulestarttime>
+    <scheduleendtime>09:57</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>With Vincent Peirani and Simon Tailleu, this concert is infused with Swedish folk and global music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Electric Mamba</programmetitle>
+    <programmenumber>2573</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>09:57</schedulestarttime>
+    <scheduleendtime>11:04</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The France-based afrobeat group led by Central African singer Idylle Mamba performs in Lyon.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Aretha Franklin - Live in Paris</programmetitle>
+    <programmenumber>204</programmenumber>
+    <yearofrelease>1977</yearofrelease>
+    <directorname/>
+    <castname>Aretha Franklin</castname>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>11:04</schedulestarttime>
+    <scheduleendtime>12:13</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Aretha Franklin sets the Paris Palais des Sports on fire in 1977.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Chuck Berry - RTBF Archives 1965</programmetitle>
+    <programmenumber>707</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Chuck Berry</castname>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>12:13</schedulestarttime>
+    <scheduleendtime>12:47</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Berry's natural energy is enough to break through all formalities, getting rid of any stuffiness.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Kinga Głyk - New Morning</programmetitle>
+    <programmenumber>2648</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>12:47</schedulestarttime>
+    <scheduleendtime>13:59</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Rising star Polish bass player Kinga Głyk brings hard-hitting funk to the stage of New Morning, Paris.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Trombone Shorty &amp; Orleans Avenue</programmetitle>
+    <programmenumber>2580</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>13:59</schedulestarttime>
+    <scheduleendtime>15:14</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Trombone delivers a gig full of soul and rock sounds with a few forays into blues and jazz lands.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Frisell - The Disfarmers</programmetitle>
+    <programmenumber>297</programmenumber>
+    <yearofrelease>2011</yearofrelease>
+    <directorname/>
+    <castname>Bill Frisell</castname>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>15:14</schedulestarttime>
+    <scheduleendtime>16:40</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This is a soundtrack illustrating photographs by Mike Disfarmer documenting rural America in the Depression.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Nucleus - RTBF</programmetitle>
+    <programmenumber>710</programmenumber>
+    <yearofrelease>1971</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>16:40</schedulestarttime>
+    <scheduleendtime>16:46</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Thomas Adès "In Seven Days" </programmetitle>
+    <programmenumber>2474</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>16:46</schedulestarttime>
+    <scheduleendtime>16:58</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Works by Sibelius and Adès played by the London Symphony Orchestra and Kirill Gerstein.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jimmy McGriff Trio - Live in 1965</programmetitle>
+    <programmenumber>245</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Jimmy McGriff</castname>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>16:58</schedulestarttime>
+    <scheduleendtime>17:41</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>At the helm of a classic organ trio, with guitar and drums support, McGriff dives deep into an ocean of blues.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Lee Fields &amp; The Expressions - Live</programmetitle>
+    <programmenumber>985</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>17:41</schedulestarttime>
+    <scheduleendtime>19:07</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mr. Lee Fields, a stalwart of soul, performs at Jazz à La Villette Festival with three members of Antibalas.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Da Capo from Constitution Hill</programmetitle>
+    <programmenumber>2408</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>Da Capo</castname>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>19:07</schedulestarttime>
+    <scheduleendtime>20:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Da Capo celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Toumani Diabaté's Orchestra</programmetitle>
+    <programmenumber>129</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Toumani Diabaté</castname>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>20:01</schedulestarttime>
+    <scheduleendtime>20:07</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>At the Banlieues Bleues festival, Diabaté's Symmetric Orchestra celebrates peace, hope and pan-African unity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sly &amp; Robbie meet Molvær &amp; Aarset</programmetitle>
+    <programmenumber>1193</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Lowell 'Sly' Dunbar, Robbie Shakespeare, Nils Petter Molvaer, Eivind Aarset</castname>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>20:07</schedulestarttime>
+    <scheduleendtime>20:13</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The book of life opens onto a dreamlike country where Norwegian Nu jazz transcends the riddims of Jamaica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Chuck Berry - RTBF Archives 1965</programmetitle>
+    <programmenumber>707</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Chuck Berry</castname>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>20:13</schedulestarttime>
+    <scheduleendtime>20:20</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Berry's natural energy is enough to break through all formalities, getting rid of any stuffiness.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>20:20</schedulestarttime>
+    <scheduleendtime>20:23</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Toumani Diabaté's Orchestra</programmetitle>
+    <programmenumber>129</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Toumani Diabaté</castname>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>20:23</schedulestarttime>
+    <scheduleendtime>20:27</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>At the Banlieues Bleues festival, Diabaté's Symmetric Orchestra celebrates peace, hope and pan-African unity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ulf Wakenius: Jazz à Junas Festival</programmetitle>
+    <programmenumber>596</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Ulf Wakenius</castname>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>20:27</schedulestarttime>
+    <scheduleendtime>20:35</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>With Vincent Peirani and Simon Tailleu, this concert is infused with Swedish folk and global music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Pat Martino - Lotos Jazz Festival</programmetitle>
+    <programmenumber>562</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Pat Martino</castname>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>20:35</schedulestarttime>
+    <scheduleendtime>20:43</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Miracle guitarist Pat Martino delivers soft-toned grooves with his trio (Carmen Intorre and Pat Bianchi).</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>R. Galliano &amp; Polish Orchestra</programmetitle>
+    <programmenumber>1635</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Richard Galliano</castname>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>20:43</schedulestarttime>
+    <scheduleendtime>20:52</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The repertoire: Aconcagua, concerto for bandoneon by Piazzolla; Madreperla, concerto for accordion by Galliano</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Antibalas - Live at Moods</programmetitle>
+    <programmenumber>1200</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>20:52</schedulestarttime>
+    <scheduleendtime>21:03</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Antibalas gives us afrobeat and mix in modern funk, the avant-garde, dub and electronic influences.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Emel Mathlouthi - Live</programmetitle>
+    <programmenumber>733</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Emel Mathlouthi</castname>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>21:03</schedulestarttime>
+    <scheduleendtime>21:51</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Emel Mathlouthi offers a techno-punk performance, brimming with influences from Björk to Massive Attack.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Freddie Hubbard Quartet - RTBF</programmetitle>
+    <programmenumber>721</programmenumber>
+    <yearofrelease>1981</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>21:51</schedulestarttime>
+    <scheduleendtime>22:35</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Hubbard shows how much his technique combines power and a disconcerting speed in this unique archive concert.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Yom - Back to the Klezmer</programmetitle>
+    <programmenumber>260</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Yom</castname>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>22:35</schedulestarttime>
+    <scheduleendtime>23:28</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Yom owes his instrument's choice to his father and his Ashkenazi culture to his mother, born in Transylvania.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Specials - Live in 1979</programmetitle>
+    <programmenumber>714</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Terry Hall</castname>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>23:28</schedulestarttime>
+    <scheduleendtime>23:47</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>All their hits are there with punk beats, rock riffs, flamboyant brass, reggae pulse and leaping musicians</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>CHILLY GONZALES</programmetitle>
+    <programmenumber>2581</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>19082023</scheduledate>
+    <schedulestarttime>23:47</schedulestarttime>
+    <scheduleendtime>00:52</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jason Moran "Bandwagon" - Live</programmetitle>
+    <programmenumber>74</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Jason Moran, Tarus Mateen</castname>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>00:52</schedulestarttime>
+    <scheduleendtime>01:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Major American jazz figure, Jason Moran and his trio find a perfect balance between classicism and modernity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>CHILLY GONZALES</programmetitle>
+    <programmenumber>2581</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>01:54</schedulestarttime>
+    <scheduleendtime>02:59</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jungle By Night – Pelpass Festival</programmetitle>
+    <programmenumber>2479</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>02:59</schedulestarttime>
+    <scheduleendtime>04:20</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The dutch band was inspired by afrobeat to create this unique brand of funky, rhythmic and colorful jazz!</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Da Capo from Constitution Hill</programmetitle>
+    <programmenumber>2408</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>Da Capo</castname>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>04:20</schedulestarttime>
+    <scheduleendtime>05:15</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Da Capo celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Yom - Back to the Klezmer</programmetitle>
+    <programmenumber>260</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Yom</castname>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>05:15</schedulestarttime>
+    <scheduleendtime>06:08</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Yom owes his instrument's choice to his father and his Ashkenazi culture to his mother, born in Transylvania.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Pat Martino - Lotos Jazz Festival</programmetitle>
+    <programmenumber>562</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Pat Martino</castname>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>06:08</schedulestarttime>
+    <scheduleendtime>06:19</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Miracle guitarist Pat Martino delivers soft-toned grooves with his trio (Carmen Intorre and Pat Bianchi).</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>06:19</schedulestarttime>
+    <scheduleendtime>06:23</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>R. Galliano &amp; Polish Orchestra</programmetitle>
+    <programmenumber>1635</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Richard Galliano</castname>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>06:23</schedulestarttime>
+    <scheduleendtime>06:32</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The repertoire: Aconcagua, concerto for bandoneon by Piazzolla; Madreperla, concerto for accordion by Galliano</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Morcheeba - Live at Jazz à Vienne</programmetitle>
+    <programmenumber>643</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>06:32</schedulestarttime>
+    <scheduleendtime>06:38</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The group’s DNA is found in Edward’s voice and her natural vocal sensibility, and she knows it.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>BB King - JazzOpen Stuttgart</programmetitle>
+    <programmenumber>207</programmenumber>
+    <yearofrelease>1997</yearofrelease>
+    <directorname/>
+    <castname>BB King</castname>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>06:38</schedulestarttime>
+    <scheduleendtime>06:43</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>King displays here all his musical gifts, singing with soul and wit and expertly leading his crack band.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Vicente Amigo - Live at Jazz à Sète</programmetitle>
+    <programmenumber>136</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Vicente Amigo</castname>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>06:43</schedulestarttime>
+    <scheduleendtime>06:48</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Vicente Amigo is one of the great masters of the flamenco guitar. Onstage, his posture is incredibly striking.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Manu Dibango - Live</programmetitle>
+    <programmenumber>146</programmenumber>
+    <yearofrelease>1983</yearofrelease>
+    <directorname/>
+    <castname>Manu Dibango</castname>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>06:48</schedulestarttime>
+    <scheduleendtime>06:52</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Witness saxophonist Manu Dibango in this rare 1983 archive concert.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>John Wilson: Swing It!</programmetitle>
+    <programmenumber>2477</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>06:52</schedulestarttime>
+    <scheduleendtime>07:15</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>John Wilson and the London Symphony Orchestra showcase the influence of jazz on Bennett, Ravel and Gershwin. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Children of the Light</programmetitle>
+    <programmenumber>50</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Danilo Perez</castname>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>07:15</schedulestarttime>
+    <scheduleendtime>08:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Danilo Pérez, John Patitucci and Brian Blade bring back the art of the trio at the Jazz à Junas festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hindi Zahra &amp; Fatoumata Diawara</programmetitle>
+    <programmenumber>740</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Fatoumata Diawara</castname>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>08:01</schedulestarttime>
+    <scheduleendtime>09:06</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The duo mix Bambara with Amazigh &amp; English, folk with jazz, soul with blues &amp; reggae at Banlieues Bleues fest.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hypnotic Brass Ensemble - Live</programmetitle>
+    <programmenumber>534</programmenumber>
+    <yearofrelease>2012</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>09:06</schedulestarttime>
+    <scheduleendtime>09:12</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>How often do you see eight brothers rocking together on stage, all weilding different golden instruments? </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>09:12</schedulestarttime>
+    <scheduleendtime>09:18</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>UB40 - RTBF Archives 1980</programmetitle>
+    <programmenumber>715</programmenumber>
+    <yearofrelease>1980</yearofrelease>
+    <directorname/>
+    <castname>Ali Campbell</castname>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>09:18</schedulestarttime>
+    <scheduleendtime>09:24</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 1980, UB40 is not yet the huge machine they would become, but their fresh reggae still oozes charisma. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bassekou Kouyaté &amp; Ngoni Ba</programmetitle>
+    <programmenumber>1585</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>09:24</schedulestarttime>
+    <scheduleendtime>09:39</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Seeing Bassekou Kouyaté live at Moods with his Ngoni makes it hard to resist his magical vibes. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Yemen Blues - Live at Moods</programmetitle>
+    <programmenumber>1586</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>09:39</schedulestarttime>
+    <scheduleendtime>09:49</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The Yemen Blues singer combines family roots, and especially Yemeni culture, with rock, blues and even rap.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>09:49</schedulestarttime>
+    <scheduleendtime>09:53</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Dionne Warwick - RTBF Archives 1964</programmetitle>
+    <programmenumber>61</programmenumber>
+    <yearofrelease>1964</yearofrelease>
+    <directorname/>
+    <castname>Dionne Warwick</castname>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>09:53</schedulestarttime>
+    <scheduleendtime>09:56</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>An exemplar of both pop and R&amp;B, Warwick had an incredibly soulful sound that endeared her to music lovers.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>09:56</schedulestarttime>
+    <scheduleendtime>10:02</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ron Carter - Jazz à Vienne Festival</programmetitle>
+    <programmenumber>2585</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>10:02</schedulestarttime>
+    <scheduleendtime>11:11</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Filmed in 2018, Ron Carter is one of the last true masters who participated at the very top of post-war jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Maceo Parker &amp; Roots Revisited</programmetitle>
+    <programmenumber>199</programmenumber>
+    <yearofrelease>1991</yearofrelease>
+    <directorname/>
+    <castname>Maceo Parker</castname>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>11:11</schedulestarttime>
+    <scheduleendtime>12:19</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>James Brown alumni Maceo Parker, Fred Wesley and Pee Wee Ellis stir up funky jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Lucía De Carvalho - Live in France</programmetitle>
+    <programmenumber>2600</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>12:19</schedulestarttime>
+    <scheduleendtime>13:20</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>At Nancy Jazz Pulsations Fest, the Angolan singer performs tracks from her latest album, the brilliant Pwanga.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Tigran Hamasyan - Live in Norway</programmetitle>
+    <programmenumber>125</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Tigran Hamasyan</castname>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>13:20</schedulestarttime>
+    <scheduleendtime>14:26</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Pianist Hamasyan and samplerist Jan Bang combine eastern accents and electronic riffs at Punkt Festival 2013.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Aretha Franklin - Live in Paris</programmetitle>
+    <programmenumber>204</programmenumber>
+    <yearofrelease>1977</yearofrelease>
+    <directorname/>
+    <castname>Aretha Franklin</castname>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>14:26</schedulestarttime>
+    <scheduleendtime>15:35</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Aretha Franklin sets the Paris Palais des Sports on fire in 1977.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Dave Holland Quartet: Prism</programmetitle>
+    <programmenumber>294</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Dave Holland</castname>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>15:35</schedulestarttime>
+    <scheduleendtime>16:52</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bassist Dave Holland’s band unite Kevin Eubanks, Craig Taborn and Eric Harland at the Jazz en Tête Festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>UB40 - RTBF Archives 1980</programmetitle>
+    <programmenumber>715</programmenumber>
+    <yearofrelease>1980</yearofrelease>
+    <directorname/>
+    <castname>Ali Campbell</castname>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>16:52</schedulestarttime>
+    <scheduleendtime>16:56</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 1980, UB40 is not yet the huge machine they would become, but their fresh reggae still oozes charisma. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Nucleus - RTBF</programmetitle>
+    <programmenumber>710</programmenumber>
+    <yearofrelease>1971</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>16:56</schedulestarttime>
+    <scheduleendtime>17:05</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>17:05</schedulestarttime>
+    <scheduleendtime>17:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Antibalas - Live at Moods</programmetitle>
+    <programmenumber>1200</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>17:54</schedulestarttime>
+    <scheduleendtime>19:48</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Antibalas gives us afrobeat and mix in modern funk, the avant-garde, dub and electronic influences.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Black Motion from Constitution Hill</programmetitle>
+    <programmenumber>2410</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>DJ Murder, Smol</castname>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>19:48</schedulestarttime>
+    <scheduleendtime>21:04</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Black Motion celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Aretha Franklin - Live in Paris</programmetitle>
+    <programmenumber>204</programmenumber>
+    <yearofrelease>1977</yearofrelease>
+    <directorname/>
+    <castname>Aretha Franklin</castname>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>21:04</schedulestarttime>
+    <scheduleendtime>22:13</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Aretha Franklin sets the Paris Palais des Sports on fire in 1977.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>22:13</schedulestarttime>
+    <scheduleendtime>23:00</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Logan Richardson - Live</programmetitle>
+    <programmenumber>84</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Logan Richardson</castname>
+    <scheduledate>20082023</scheduledate>
+    <schedulestarttime>23:00</schedulestarttime>
+    <scheduleendtime>00:10</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Richardson shows the surreal side of his music at Jazz à Porquerolles Festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Spanish Harlem Orchestra</programmetitle>
+    <programmenumber>1155</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>00:10</schedulestarttime>
+    <scheduleendtime>01:52</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Led by salsa giant Oscar Hernandez, this band has not finished spreading salsa and good vibes around the world</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Chuck Berry - RTBF Archives 1965</programmetitle>
+    <programmenumber>707</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Chuck Berry</castname>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>01:52</schedulestarttime>
+    <scheduleendtime>02:24</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Berry's natural energy is enough to break through all formalities, getting rid of any stuffiness.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Charles Tolliver - Live</programmetitle>
+    <programmenumber>261</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Charles Tolliver</castname>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>02:24</schedulestarttime>
+    <scheduleendtime>03:26</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Live at the Banlieue Blues Festival, Strata-East record label's co-founder plays with his quintet.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Electric Mamba</programmetitle>
+    <programmenumber>2573</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>03:26</schedulestarttime>
+    <scheduleendtime>04:35</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The France-based afrobeat group led by Central African singer Idylle Mamba performs in Lyon.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Black Motion from Constitution Hill</programmetitle>
+    <programmenumber>2410</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>DJ Murder, Smol</castname>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>04:35</schedulestarttime>
+    <scheduleendtime>05:51</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Black Motion celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>05:51</schedulestarttime>
+    <scheduleendtime>06:04</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bombino - Live at Moods</programmetitle>
+    <programmenumber>1189</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Bombino</castname>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>06:04</schedulestarttime>
+    <scheduleendtime>06:15</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bombino sings about the identity politics and culture of the Tuareg people of Niger with sensitivity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>UB40 - RTBF Archives 1980</programmetitle>
+    <programmenumber>715</programmenumber>
+    <yearofrelease>1980</yearofrelease>
+    <directorname/>
+    <castname>Ali Campbell</castname>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>06:15</schedulestarttime>
+    <scheduleendtime>06:19</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 1980, UB40 is not yet the huge machine they would become, but their fresh reggae still oozes charisma. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Chuck Berry - RTBF Archives 1965</programmetitle>
+    <programmenumber>707</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Chuck Berry</castname>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>06:19</schedulestarttime>
+    <scheduleendtime>06:26</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Berry's natural energy is enough to break through all formalities, getting rid of any stuffiness.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>06:26</schedulestarttime>
+    <scheduleendtime>06:32</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Earl Hines &amp; His All Stars – RTBF</programmetitle>
+    <programmenumber>716</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Earl Hines</castname>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>06:32</schedulestarttime>
+    <scheduleendtime>06:37</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>06:37</schedulestarttime>
+    <scheduleendtime>06:42</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Melingo w/ Juliette &amp; V. Capossela</programmetitle>
+    <programmenumber>548</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Daniel Melingo</castname>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>06:42</schedulestarttime>
+    <scheduleendtime>06:47</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Welcome to Melingo's surrealist cabaret, which tells the poetry of the shallows, of love &amp; vagabond pathways. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Liz McComb - Olympia, Paris</programmetitle>
+    <programmenumber>228</programmenumber>
+    <yearofrelease>1998</yearofrelease>
+    <directorname/>
+    <castname>Liz McComb</castname>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>06:47</schedulestarttime>
+    <scheduleendtime>06:51</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Between gospel and soul, singer and pianist Liz McComb is joined by three fine-tuned musicians in Paris, 1998.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>06:51</schedulestarttime>
+    <scheduleendtime>06:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Juan Diego Flórez and Friends</programmetitle>
+    <programmenumber>1398</programmenumber>
+    <yearofrelease>2015</yearofrelease>
+    <directorname/>
+    <castname>Juan Diego Flórez</castname>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>06:54</schedulestarttime>
+    <scheduleendtime>07:16</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Juan Diego Flórez on the stage of the Vienna Opera House for a charity gala for his foundation.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jason Moran "Bandwagon" - Live</programmetitle>
+    <programmenumber>74</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Jason Moran, Tarus Mateen</castname>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>07:16</schedulestarttime>
+    <scheduleendtime>08:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Major American jazz figure, Jason Moran and his trio find a perfect balance between classicism and modernity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Gina Jeanz from Constitution Hill</programmetitle>
+    <programmenumber>2407</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>Gina Jeanz</castname>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>08:01</schedulestarttime>
+    <scheduleendtime>08:55</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Gina Jeanz celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sharon Jones and the Dap-Kings</programmetitle>
+    <programmenumber>111</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Sharon Jones</castname>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>08:55</schedulestarttime>
+    <scheduleendtime>08:59</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Soul, funk, R&amp;B and some infectious dance lessons are delivered by this great figure of Afro-American music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Tomatito y Grupo - Live at Moods</programmetitle>
+    <programmenumber>1162</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>08:59</schedulestarttime>
+    <scheduleendtime>09:08</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The "Disciple of Paco de Lucia" delivers his most beautiful compositions on a gypsy flamenco repertoire.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Dionne Warwick - RTBF Archives 1964</programmetitle>
+    <programmenumber>61</programmenumber>
+    <yearofrelease>1964</yearofrelease>
+    <directorname/>
+    <castname>Dionne Warwick</castname>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>09:08</schedulestarttime>
+    <scheduleendtime>09:10</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>An exemplar of both pop and R&amp;B, Warwick had an incredibly soulful sound that endeared her to music lovers.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Modern Jazz Quartet - Live in 1962</programmetitle>
+    <programmenumber>238</programmenumber>
+    <yearofrelease>1962</yearofrelease>
+    <directorname/>
+    <castname>Modern Jazz Quartet</castname>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>09:10</schedulestarttime>
+    <scheduleendtime>09:19</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1/>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bakolo Music International</programmetitle>
+    <programmenumber>1908</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Papa Bikunda</castname>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>09:19</schedulestarttime>
+    <scheduleendtime>09:26</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bakolo Music International performing at Africolor Fetsival is a monument of Congolese rumba.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>09:26</schedulestarttime>
+    <scheduleendtime>09:30</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>09:30</schedulestarttime>
+    <scheduleendtime>09:43</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Antibalas - Live at Moods</programmetitle>
+    <programmenumber>1200</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>09:43</schedulestarttime>
+    <scheduleendtime>09:55</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Antibalas gives us afrobeat and mix in modern funk, the avant-garde, dub and electronic influences.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Kinga Głyk - New Morning</programmetitle>
+    <programmenumber>2648</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>09:55</schedulestarttime>
+    <scheduleendtime>11:06</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Rising star Polish bass player Kinga Głyk brings hard-hitting funk to the stage of New Morning, Paris.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ray Charles and His Orchestra</programmetitle>
+    <programmenumber>1486</programmenumber>
+    <yearofrelease>1968</yearofrelease>
+    <directorname/>
+    <castname>Ray Charles</castname>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>11:06</schedulestarttime>
+    <scheduleendtime>11:53</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Ray Charles redoubles his energy with the vocal quartet The Raelets, Billy Preston and his formidable band.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>W. Marsalis: Blood On The Fields</programmetitle>
+    <programmenumber>2552</programmenumber>
+    <yearofrelease>1996</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>11:53</schedulestarttime>
+    <scheduleendtime>12:59</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 1995, Marsalis rehearses what later on became the first jazz epic oratorio awarded with The Pulitzer Prize.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Coulondre Trio - Michel On My Mind</programmetitle>
+    <programmenumber>1922</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname>Laurent Coulondre</castname>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>12:59</schedulestarttime>
+    <scheduleendtime>14:16</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>French pianist Laurent Coulondre's album Michel On My Mind commemorates the anniversary of Petrucciani's death</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Maceo Parker &amp; Roots Revisited</programmetitle>
+    <programmenumber>199</programmenumber>
+    <yearofrelease>1991</yearofrelease>
+    <directorname/>
+    <castname>Maceo Parker</castname>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>14:16</schedulestarttime>
+    <scheduleendtime>15:23</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>James Brown alumni Maceo Parker, Fred Wesley and Pee Wee Ellis stir up funky jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The William Parker Organ Quartet</programmetitle>
+    <programmenumber>738</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>15:23</schedulestarttime>
+    <scheduleendtime>16:33</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Playing live with Hamid Drake, Cooper Moore and saxophonist James Brandon Lewis at Banlieues Bleues Festival</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Richie Havens - Live at Montreux</programmetitle>
+    <programmenumber>712</programmenumber>
+    <yearofrelease>1972</yearofrelease>
+    <directorname/>
+    <castname>Richie Havens</castname>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>16:33</schedulestarttime>
+    <scheduleendtime>16:40</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Recorded in 1972, the African-American singer Richie Havens sends a moving message of love and fraternity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Morgan Heritage - Live in London</programmetitle>
+    <programmenumber>1802</programmenumber>
+    <yearofrelease>2002</yearofrelease>
+    <directorname/>
+    <castname>Denroy Morgan</castname>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>16:40</schedulestarttime>
+    <scheduleendtime>16:44</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Stemming from a true fraternity, the Morgan Heritage group is also one of the pioneers of this roots revival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Specials - Live in 1979</programmetitle>
+    <programmenumber>714</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Terry Hall</castname>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>16:44</schedulestarttime>
+    <scheduleendtime>16:47</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>All their hits are there with punk beats, rock riffs, flamboyant brass, reggae pulse and leaping musicians</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bombino - Live at Moods</programmetitle>
+    <programmenumber>1189</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Bombino</castname>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>16:47</schedulestarttime>
+    <scheduleendtime>16:55</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bombino sings about the identity politics and culture of the Tuareg people of Niger with sensitivity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Rymden - Tourcoing Jazz Festival</programmetitle>
+    <programmenumber>1638</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>16:55</schedulestarttime>
+    <scheduleendtime>17:05</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Double-bassist Dan Berglund and drummer Magnus Oström perform as their new trio with Bugge Wesseltof.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle> Art Blakey &amp; The Jazz Messengers</programmetitle>
+    <programmenumber>1449</programmenumber>
+    <yearofrelease>1963</yearofrelease>
+    <directorname/>
+    <castname>Art Blakey</castname>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>17:05</schedulestarttime>
+    <scheduleendtime>17:37</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The musicians who take part in this concert form one of the best formulas that the Jazz Messengers ever knew.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Trombone Shorty &amp; Orleans Avenue</programmetitle>
+    <programmenumber>2580</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>17:37</schedulestarttime>
+    <scheduleendtime>18:50</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Trombone delivers a gig full of soul and rock sounds with a few forays into blues and jazz lands.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Mulatu Astatke &amp; Friends - Live</programmetitle>
+    <programmenumber>2611</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>18:50</schedulestarttime>
+    <scheduleendtime>20:47</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mixing jazz, latin music and traditional Ethiopian sounds, meet the man who birthed ethio-jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Anderson .Paak - Live</programmetitle>
+    <programmenumber>32</programmenumber>
+    <yearofrelease>2016</yearofrelease>
+    <directorname/>
+    <castname>Anderson .Paak</castname>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>20:47</schedulestarttime>
+    <scheduleendtime>20:50</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The most soulful of California rappers onstage at one of the major French festivals of the summer of 2016.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Nucleus - RTBF</programmetitle>
+    <programmenumber>710</programmenumber>
+    <yearofrelease>1971</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>20:50</schedulestarttime>
+    <scheduleendtime>20:59</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jimmy McGriff Trio - Live in 1965</programmetitle>
+    <programmenumber>245</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Jimmy McGriff</castname>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>20:59</schedulestarttime>
+    <scheduleendtime>21:41</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>At the helm of a classic organ trio, with guitar and drums support, McGriff dives deep into an ocean of blues.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bobby McFerrin - Live in 1988</programmetitle>
+    <programmenumber>926</programmenumber>
+    <yearofrelease>1988</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>21:41</schedulestarttime>
+    <scheduleendtime>22:17</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Different arpeggios and harmonies, percussive chest beating and irresistible smoothness from start to finish.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Avishaï Cohen's Big Vicious</programmetitle>
+    <programmenumber>988</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>22:17</schedulestarttime>
+    <scheduleendtime>23:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>With two guitarists and two drummers, Avishaï Cohen blends rock, avant-garde, groove and, of course, jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>UB40 - RTBF Archives 1980</programmetitle>
+    <programmenumber>715</programmenumber>
+    <yearofrelease>1980</yearofrelease>
+    <directorname/>
+    <castname>Ali Campbell</castname>
+    <scheduledate>21082023</scheduledate>
+    <schedulestarttime>23:54</schedulestarttime>
+    <scheduleendtime>00:11</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 1980, UB40 is not yet the huge machine they would become, but their fresh reggae still oozes charisma. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Lucía De Carvalho - Live in France</programmetitle>
+    <programmenumber>2600</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>00:11</schedulestarttime>
+    <scheduleendtime>01:12</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>At Nancy Jazz Pulsations Fest, the Angolan singer performs tracks from her latest album, the brilliant Pwanga.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Frisell - The Disfarmers</programmetitle>
+    <programmenumber>297</programmenumber>
+    <yearofrelease>2011</yearofrelease>
+    <directorname/>
+    <castname>Bill Frisell</castname>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>01:12</schedulestarttime>
+    <scheduleendtime>02:38</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This is a soundtrack illustrating photographs by Mike Disfarmer documenting rural America in the Depression.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Specials - Live in 1979</programmetitle>
+    <programmenumber>714</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Terry Hall</castname>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>02:38</schedulestarttime>
+    <scheduleendtime>02:58</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>All their hits are there with punk beats, rock riffs, flamboyant brass, reggae pulse and leaping musicians</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Mulatu Astatke &amp; Friends - Live</programmetitle>
+    <programmenumber>2611</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>02:58</schedulestarttime>
+    <scheduleendtime>04:56</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mixing jazz, latin music and traditional Ethiopian sounds, meet the man who birthed ethio-jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Avishaï Cohen's Big Vicious</programmetitle>
+    <programmenumber>988</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>04:56</schedulestarttime>
+    <scheduleendtime>06:33</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>With two guitarists and two drummers, Avishaï Cohen blends rock, avant-garde, groove and, of course, jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>06:33</schedulestarttime>
+    <scheduleendtime>06:35</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bombino - Live at Moods</programmetitle>
+    <programmenumber>1189</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Bombino</castname>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>06:35</schedulestarttime>
+    <scheduleendtime>06:43</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bombino sings about the identity politics and culture of the Tuareg people of Niger with sensitivity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Aretha Franklin - Live in Paris</programmetitle>
+    <programmenumber>204</programmenumber>
+    <yearofrelease>1977</yearofrelease>
+    <directorname/>
+    <castname>Aretha Franklin</castname>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>06:43</schedulestarttime>
+    <scheduleendtime>06:51</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Aretha Franklin sets the Paris Palais des Sports on fire in 1977.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Alexander Ekman: A Swan Lake</programmetitle>
+    <programmenumber>1377</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Alexander Ekman</castname>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>06:51</schedulestarttime>
+    <scheduleendtime>07:09</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Dancers are joined on stage by actors, a soprano, musicians, 5 000 liters of water and 1 000 rubber ducks.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Frisell - The Disfarmers</programmetitle>
+    <programmenumber>297</programmenumber>
+    <yearofrelease>2011</yearofrelease>
+    <directorname/>
+    <castname>Bill Frisell</castname>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>07:09</schedulestarttime>
+    <scheduleendtime>08:28</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This is a soundtrack illustrating photographs by Mike Disfarmer documenting rural America in the Depression.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Da Capo from Constitution Hill</programmetitle>
+    <programmenumber>2408</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>Da Capo</castname>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>08:28</schedulestarttime>
+    <scheduleendtime>09:23</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Da Capo celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Toumani Diabaté's Orchestra</programmetitle>
+    <programmenumber>129</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Toumani Diabaté</castname>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>09:23</schedulestarttime>
+    <scheduleendtime>09:31</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>At the Banlieues Bleues festival, Diabaté's Symmetric Orchestra celebrates peace, hope and pan-African unity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>09:31</schedulestarttime>
+    <scheduleendtime>09:36</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bakolo Music International</programmetitle>
+    <programmenumber>1908</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Papa Bikunda</castname>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>09:36</schedulestarttime>
+    <scheduleendtime>09:46</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bakolo Music International performing at Africolor Fetsival is a monument of Congolese rumba.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Pat Martino - Lotos Jazz Festival</programmetitle>
+    <programmenumber>562</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Pat Martino</castname>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>09:46</schedulestarttime>
+    <scheduleendtime>09:57</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Miracle guitarist Pat Martino delivers soft-toned grooves with his trio (Carmen Intorre and Pat Bianchi).</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Lucía De Carvalho - Live in France</programmetitle>
+    <programmenumber>2600</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>09:57</schedulestarttime>
+    <scheduleendtime>10:58</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>At Nancy Jazz Pulsations Fest, the Angolan singer performs tracks from her latest album, the brilliant Pwanga.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Lee Fields &amp; The Expressions - Live</programmetitle>
+    <programmenumber>985</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>10:58</schedulestarttime>
+    <scheduleendtime>12:26</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mr. Lee Fields, a stalwart of soul, performs at Jazz à La Villette Festival with three members of Antibalas.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>BALLAKE SISSOKO &amp; VINCENT SEGAL</programmetitle>
+    <programmenumber>2587</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>12:26</schedulestarttime>
+    <scheduleendtime>13:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>YOM - Banlieues Bleues Festival</programmetitle>
+    <programmenumber>258</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Yom</castname>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>13:34</schedulestarttime>
+    <scheduleendtime>14:29</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Live at Banlieues Bleues Festival, this creation was inspired by the Jewish founding myth: the exit of Egypt.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hugh Masekela - Live</programmetitle>
+    <programmenumber>69</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Lee-Roy Sauls, Fana Zulu, Cameron Ward, Hugh Masekela, Francis Manneh Fuster, Randal Skippers</castname>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>14:29</schedulestarttime>
+    <scheduleendtime>15:33</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Five years before his death, South African Hugh Masekela gave a dazzling concert at the Paris Jazz Festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Children of the Light</programmetitle>
+    <programmenumber>50</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Danilo Perez</castname>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>15:33</schedulestarttime>
+    <scheduleendtime>16:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Danilo Pérez, John Patitucci and Brian Blade bring back the art of the trio at the Jazz à Junas festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Nils Landgren &amp; Bootsy Collins</programmetitle>
+    <programmenumber>209</programmenumber>
+    <yearofrelease>1998</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>16:34</schedulestarttime>
+    <scheduleendtime>16:45</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Two back to back performances by the Nils Landgren Funk Unit and Bootsy Collins at the Jazzopen in Stuttgart.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>16:45</schedulestarttime>
+    <scheduleendtime>16:48</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Louis Armstrong &amp; his All Stars</programmetitle>
+    <programmenumber>248</programmenumber>
+    <yearofrelease>1959</yearofrelease>
+    <directorname/>
+    <castname>Louis Armstrong</castname>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>16:48</schedulestarttime>
+    <scheduleendtime>16:52</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This footage is a reminder of Satchmo's talent, unique tone and ability to bring out countless subtleties.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Toumani Diabaté's Orchestra</programmetitle>
+    <programmenumber>129</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Toumani Diabaté</castname>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>16:52</schedulestarttime>
+    <scheduleendtime>17:00</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>At the Banlieues Bleues festival, Diabaté's Symmetric Orchestra celebrates peace, hope and pan-African unity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Freddie Hubbard Quartet - RTBF</programmetitle>
+    <programmenumber>721</programmenumber>
+    <yearofrelease>1981</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>17:00</schedulestarttime>
+    <scheduleendtime>17:44</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Hubbard shows how much his technique combines power and a disconcerting speed in this unique archive concert.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Maceo Parker &amp; Roots Revisited</programmetitle>
+    <programmenumber>199</programmenumber>
+    <yearofrelease>1991</yearofrelease>
+    <directorname/>
+    <castname>Maceo Parker</castname>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>17:44</schedulestarttime>
+    <scheduleendtime>18:51</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>James Brown alumni Maceo Parker, Fred Wesley and Pee Wee Ellis stir up funky jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hindi Zahra &amp; Fatoumata Diawara</programmetitle>
+    <programmenumber>740</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Fatoumata Diawara</castname>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>18:51</schedulestarttime>
+    <scheduleendtime>19:58</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The duo mix Bambara with Amazigh &amp; English, folk with jazz, soul with blues &amp; reggae at Banlieues Bleues fest.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Nils Landgren &amp; Bootsy Collins</programmetitle>
+    <programmenumber>209</programmenumber>
+    <yearofrelease>1998</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>19:58</schedulestarttime>
+    <scheduleendtime>20:09</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Two back to back performances by the Nils Landgren Funk Unit and Bootsy Collins at the Jazzopen in Stuttgart.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sly &amp; Robbie meet Molvær &amp; Aarset</programmetitle>
+    <programmenumber>1193</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Lowell 'Sly' Dunbar, Robbie Shakespeare, Nils Petter Molvaer, Eivind Aarset</castname>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>20:09</schedulestarttime>
+    <scheduleendtime>20:19</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The book of life opens onto a dreamlike country where Norwegian Nu jazz transcends the riddims of Jamaica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Vincent Peirani "Living Being"</programmetitle>
+    <programmenumber>652</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Vincent Peirani</castname>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>20:19</schedulestarttime>
+    <scheduleendtime>20:23</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>From Led Zeppelin to Purcell covers, this quintet is a real chamber rock music orchestra. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Chuck Berry - RTBF Archives 1965</programmetitle>
+    <programmenumber>707</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Chuck Berry</castname>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>20:23</schedulestarttime>
+    <scheduleendtime>20:25</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Berry's natural energy is enough to break through all formalities, getting rid of any stuffiness.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>20:25</schedulestarttime>
+    <scheduleendtime>20:31</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>BB King - JazzOpen Stuttgart</programmetitle>
+    <programmenumber>207</programmenumber>
+    <yearofrelease>1997</yearofrelease>
+    <directorname/>
+    <castname>BB King</castname>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>20:31</schedulestarttime>
+    <scheduleendtime>20:36</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>King displays here all his musical gifts, singing with soul and wit and expertly leading his crack band.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sharon Jones and the Dap-Kings</programmetitle>
+    <programmenumber>111</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Sharon Jones</castname>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>20:36</schedulestarttime>
+    <scheduleendtime>20:42</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Soul, funk, R&amp;B and some infectious dance lessons are delivered by this great figure of Afro-American music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Rymden - Tourcoing Jazz Festival</programmetitle>
+    <programmenumber>1638</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>20:42</schedulestarttime>
+    <scheduleendtime>20:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Double-bassist Dan Berglund and drummer Magnus Oström perform as their new trio with Bugge Wesseltof.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Specials - Live in 1979</programmetitle>
+    <programmenumber>714</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Terry Hall</castname>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>20:54</schedulestarttime>
+    <scheduleendtime>21:16</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>All their hits are there with punk beats, rock riffs, flamboyant brass, reggae pulse and leaping musicians</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Tigran Hamasyan - Live in Norway</programmetitle>
+    <programmenumber>125</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Tigran Hamasyan</castname>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>21:16</schedulestarttime>
+    <scheduleendtime>22:20</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Pianist Hamasyan and samplerist Jan Bang combine eastern accents and electronic riffs at Punkt Festival 2013.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Melingo w/ Juliette &amp; V. Capossela</programmetitle>
+    <programmenumber>548</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Daniel Melingo</castname>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>22:20</schedulestarttime>
+    <scheduleendtime>23:21</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Welcome to Melingo's surrealist cabaret, which tells the poetry of the shallows, of love &amp; vagabond pathways. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jorge Rossy Vibes Quintet ft Turner</programmetitle>
+    <programmenumber>1153</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>22082023</scheduledate>
+    <schedulestarttime>23:21</schedulestarttime>
+    <scheduleendtime>01:35</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Make no mistake: Jorge Rossy’s quintet offers more adventurous music than it seems at first glance.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The William Parker Organ Quartet</programmetitle>
+    <programmenumber>738</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>01:35</schedulestarttime>
+    <scheduleendtime>02:45</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Playing live with Hamid Drake, Cooper Moore and saxophonist James Brandon Lewis at Banlieues Bleues Festival</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>UB40 - RTBF Archives 1980</programmetitle>
+    <programmenumber>715</programmenumber>
+    <yearofrelease>1980</yearofrelease>
+    <directorname/>
+    <castname>Ali Campbell</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>02:45</schedulestarttime>
+    <scheduleendtime>03:02</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 1980, UB40 is not yet the huge machine they would become, but their fresh reggae still oozes charisma. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hindi Zahra &amp; Fatoumata Diawara</programmetitle>
+    <programmenumber>740</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Fatoumata Diawara</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>03:02</schedulestarttime>
+    <scheduleendtime>04:05</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The duo mix Bambara with Amazigh &amp; English, folk with jazz, soul with blues &amp; reggae at Banlieues Bleues fest.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Tigran Hamasyan - Live in Norway</programmetitle>
+    <programmenumber>125</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Tigran Hamasyan</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>04:05</schedulestarttime>
+    <scheduleendtime>05:09</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Pianist Hamasyan and samplerist Jan Bang combine eastern accents and electronic riffs at Punkt Festival 2013.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>05:09</schedulestarttime>
+    <scheduleendtime>05:13</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Yemen Blues - Live at Moods</programmetitle>
+    <programmenumber>1586</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>05:13</schedulestarttime>
+    <scheduleendtime>05:21</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The Yemen Blues singer combines family roots, and especially Yemeni culture, with rock, blues and even rap.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Specials - Live in 1979</programmetitle>
+    <programmenumber>714</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Terry Hall</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>05:21</schedulestarttime>
+    <scheduleendtime>05:23</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>All their hits are there with punk beats, rock riffs, flamboyant brass, reggae pulse and leaping musicians</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Brad Mehldau plays The Beatles</programmetitle>
+    <programmenumber>1637</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Brad Mehldau</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>05:23</schedulestarttime>
+    <scheduleendtime>05:25</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Just as many other jazz or soul artists have adapted the Beatles, here, Brad Mehldau follows the same dynamic.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>05:25</schedulestarttime>
+    <scheduleendtime>05:30</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Melingo w/ Juliette &amp; V. Capossela</programmetitle>
+    <programmenumber>548</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Daniel Melingo</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>05:30</schedulestarttime>
+    <scheduleendtime>05:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Welcome to Melingo's surrealist cabaret, which tells the poetry of the shallows, of love &amp; vagabond pathways. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Chuck Berry - RTBF Archives 1965</programmetitle>
+    <programmenumber>707</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Chuck Berry</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>05:34</schedulestarttime>
+    <scheduleendtime>05:39</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Berry's natural energy is enough to break through all formalities, getting rid of any stuffiness.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>BCUC - Live at Moods</programmetitle>
+    <programmenumber>1180</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>05:39</schedulestarttime>
+    <scheduleendtime>05:52</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Originally from Soweto, BCUC's Afro-psychedelic trance hypnotises us with reworked traditional sounds. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ulf Wakenius: Jazz à Junas Festival</programmetitle>
+    <programmenumber>596</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Ulf Wakenius</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>05:52</schedulestarttime>
+    <scheduleendtime>05:59</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>With Vincent Peirani and Simon Tailleu, this concert is infused with Swedish folk and global music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Melingo w/ Juliette &amp; V. Capossela</programmetitle>
+    <programmenumber>548</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Daniel Melingo</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>05:59</schedulestarttime>
+    <scheduleendtime>06:03</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Welcome to Melingo's surrealist cabaret, which tells the poetry of the shallows, of love &amp; vagabond pathways. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sharon Jones and the Dap-Kings</programmetitle>
+    <programmenumber>111</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Sharon Jones</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>06:03</schedulestarttime>
+    <scheduleendtime>06:09</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Soul, funk, R&amp;B and some infectious dance lessons are delivered by this great figure of Afro-American music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Morcheeba - Live at Jazz à Vienne</programmetitle>
+    <programmenumber>643</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>06:09</schedulestarttime>
+    <scheduleendtime>06:16</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The group’s DNA is found in Edward’s voice and her natural vocal sensibility, and she knows it.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bombino - Live at Moods</programmetitle>
+    <programmenumber>1189</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Bombino</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>06:16</schedulestarttime>
+    <scheduleendtime>06:26</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bombino sings about the identity politics and culture of the Tuareg people of Niger with sensitivity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>06:26</schedulestarttime>
+    <scheduleendtime>06:29</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bilal - Live at Moods</programmetitle>
+    <programmenumber>1587</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname>Bilal</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>06:29</schedulestarttime>
+    <scheduleendtime>06:36</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bilal starts his set with "Sirens II," a haunting theme that stands at the crossroads between rock and RnB.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>BCUC - Live at Moods</programmetitle>
+    <programmenumber>1180</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>06:36</schedulestarttime>
+    <scheduleendtime>06:47</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Originally from Soweto, BCUC's Afro-psychedelic trance hypnotises us with reworked traditional sounds. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Stéphane Kerecki "French Touch" - Like A Jazz Machine</programmetitle>
+    <programmenumber>620</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Stéphane Kerecki</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>06:47</schedulestarttime>
+    <scheduleendtime>06:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Fanfare Ciocărlia - Live at Moods</programmetitle>
+    <programmenumber>1183</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>06:54</schedulestarttime>
+    <scheduleendtime>07:11</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>At the Moods club in Zurich in 2018, the brass band Ciocarlia will set fire to everything in their path. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Dave Holland Quartet: Prism</programmetitle>
+    <programmenumber>294</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Dave Holland</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>07:11</schedulestarttime>
+    <scheduleendtime>08:17</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bassist Dave Holland’s band unite Kevin Eubanks, Craig Taborn and Eric Harland at the Jazz en Tête Festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Black Motion from Constitution Hill</programmetitle>
+    <programmenumber>2410</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>DJ Murder, Smol</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>08:17</schedulestarttime>
+    <scheduleendtime>09:32</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Black Motion celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Melingo w/ Juliette &amp; V. Capossela</programmetitle>
+    <programmenumber>548</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Daniel Melingo</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>09:32</schedulestarttime>
+    <scheduleendtime>09:35</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Welcome to Melingo's surrealist cabaret, which tells the poetry of the shallows, of love &amp; vagabond pathways. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sharon Jones and the Dap-Kings</programmetitle>
+    <programmenumber>111</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Sharon Jones</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>09:35</schedulestarttime>
+    <scheduleendtime>09:41</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Soul, funk, R&amp;B and some infectious dance lessons are delivered by this great figure of Afro-American music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Toumani Diabaté's Orchestra</programmetitle>
+    <programmenumber>129</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Toumani Diabaté</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>09:41</schedulestarttime>
+    <scheduleendtime>09:46</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>At the Banlieues Bleues festival, Diabaté's Symmetric Orchestra celebrates peace, hope and pan-African unity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>09:46</schedulestarttime>
+    <scheduleendtime>09:51</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>09:51</schedulestarttime>
+    <scheduleendtime>09:57</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Aretha Franklin - Live in Paris</programmetitle>
+    <programmenumber>204</programmenumber>
+    <yearofrelease>1977</yearofrelease>
+    <directorname/>
+    <castname>Aretha Franklin</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>09:57</schedulestarttime>
+    <scheduleendtime>11:05</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Aretha Franklin sets the Paris Palais des Sports on fire in 1977.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Antibalas - Live at Moods</programmetitle>
+    <programmenumber>1200</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>11:05</schedulestarttime>
+    <scheduleendtime>12:58</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Antibalas gives us afrobeat and mix in modern funk, the avant-garde, dub and electronic influences.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Don Ellis</programmetitle>
+    <programmenumber>2591</programmenumber>
+    <yearofrelease>2007</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>12:58</schedulestarttime>
+    <scheduleendtime>14:27</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This doc showcases the life of the man who did jazz fusion before it was a thing: Don Ellis.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Lee Fields &amp; The Expressions - Live</programmetitle>
+    <programmenumber>985</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>14:27</schedulestarttime>
+    <scheduleendtime>15:53</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mr. Lee Fields, a stalwart of soul, performs at Jazz à La Villette Festival with three members of Antibalas.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jason Moran "Bandwagon" - Live</programmetitle>
+    <programmenumber>74</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Jason Moran, Tarus Mateen</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>15:53</schedulestarttime>
+    <scheduleendtime>16:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Major American jazz figure, Jason Moran and his trio find a perfect balance between classicism and modernity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>16:54</schedulestarttime>
+    <scheduleendtime>17:42</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ray Charles and His Orchestra</programmetitle>
+    <programmenumber>1486</programmenumber>
+    <yearofrelease>1968</yearofrelease>
+    <directorname/>
+    <castname>Ray Charles</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>17:42</schedulestarttime>
+    <scheduleendtime>18:29</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Ray Charles redoubles his energy with the vocal quartet The Raelets, Billy Preston and his formidable band.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Gina Jeanz from Constitution Hill</programmetitle>
+    <programmenumber>2407</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>Gina Jeanz</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>18:29</schedulestarttime>
+    <scheduleendtime>19:23</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Gina Jeanz celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>BB King - JazzOpen Stuttgart</programmetitle>
+    <programmenumber>207</programmenumber>
+    <yearofrelease>1997</yearofrelease>
+    <directorname/>
+    <castname>BB King</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>19:23</schedulestarttime>
+    <scheduleendtime>19:29</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>King displays here all his musical gifts, singing with soul and wit and expertly leading his crack band.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>UB40 - RTBF Archives 1980</programmetitle>
+    <programmenumber>715</programmenumber>
+    <yearofrelease>1980</yearofrelease>
+    <directorname/>
+    <castname>Ali Campbell</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>19:29</schedulestarttime>
+    <scheduleendtime>19:35</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 1980, UB40 is not yet the huge machine they would become, but their fresh reggae still oozes charisma. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ulf Wakenius: Jazz à Junas Festival</programmetitle>
+    <programmenumber>596</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Ulf Wakenius</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>19:35</schedulestarttime>
+    <scheduleendtime>19:41</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>With Vincent Peirani and Simon Tailleu, this concert is infused with Swedish folk and global music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bassekou Kouyaté &amp; Ngoni Ba</programmetitle>
+    <programmenumber>1585</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>19:41</schedulestarttime>
+    <scheduleendtime>19:50</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Seeing Bassekou Kouyaté live at Moods with his Ngoni makes it hard to resist his magical vibes. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sly &amp; Robbie meet Molvær &amp; Aarset</programmetitle>
+    <programmenumber>1193</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Lowell 'Sly' Dunbar, Robbie Shakespeare, Nils Petter Molvaer, Eivind Aarset</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>19:50</schedulestarttime>
+    <scheduleendtime>19:56</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The book of life opens onto a dreamlike country where Norwegian Nu jazz transcends the riddims of Jamaica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>19:56</schedulestarttime>
+    <scheduleendtime>20:06</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Orchestre Poly-Rythmo de Cotonou</programmetitle>
+    <programmenumber>1187</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>20:06</schedulestarttime>
+    <scheduleendtime>20:11</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Formed after the independence of Benin, this band with more than 500 records to their credit is like no other.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bombino - Live at Moods</programmetitle>
+    <programmenumber>1189</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Bombino</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>20:11</schedulestarttime>
+    <scheduleendtime>20:21</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bombino sings about the identity politics and culture of the Tuareg people of Niger with sensitivity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bilal - Live at Moods</programmetitle>
+    <programmenumber>1587</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname>Bilal</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>20:21</schedulestarttime>
+    <scheduleendtime>20:27</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bilal starts his set with "Sirens II," a haunting theme that stands at the crossroads between rock and RnB.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Inner Circle - RTBF Archives 1979</programmetitle>
+    <programmenumber>709</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Jacob Miller</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>20:27</schedulestarttime>
+    <scheduleendtime>20:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Formed in Kingston in the 70s, Inner Circle here demonstrates a remarkable tightness and energy.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sly &amp; Robbie meet Molvær &amp; Aarset</programmetitle>
+    <programmenumber>1193</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Lowell 'Sly' Dunbar, Robbie Shakespeare, Nils Petter Molvaer, Eivind Aarset</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>20:34</schedulestarttime>
+    <scheduleendtime>20:41</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The book of life opens onto a dreamlike country where Norwegian Nu jazz transcends the riddims of Jamaica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>20:41</schedulestarttime>
+    <scheduleendtime>20:49</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jorge Rossy Vibes Quintet - Moods</programmetitle>
+    <programmenumber>1590</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Jorge Rossy, Mark Turner, Billy Hart</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>20:49</schedulestarttime>
+    <scheduleendtime>21:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>With saxist Mark Turner, Jaume Llombart on guitar and a rhythmic duo: bassist Doug Weiss &amp; drummer Billy Hart.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Children of the Light</programmetitle>
+    <programmenumber>50</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Danilo Perez</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>21:01</schedulestarttime>
+    <scheduleendtime>22:02</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Danilo Pérez, John Patitucci and Brian Blade bring back the art of the trio at the Jazz à Junas festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle> Art Blakey &amp; The Jazz Messengers</programmetitle>
+    <programmenumber>1449</programmenumber>
+    <yearofrelease>1963</yearofrelease>
+    <directorname/>
+    <castname>Art Blakey</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>22:02</schedulestarttime>
+    <scheduleendtime>22:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The musicians who take part in this concert form one of the best formulas that the Jazz Messengers ever knew.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Coulondre Trio - Michel On My Mind</programmetitle>
+    <programmenumber>1922</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname>Laurent Coulondre</castname>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>22:34</schedulestarttime>
+    <scheduleendtime>23:50</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>French pianist Laurent Coulondre's album Michel On My Mind commemorates the anniversary of Petrucciani's death</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jungle By Night – Pelpass Festival</programmetitle>
+    <programmenumber>2479</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>23082023</scheduledate>
+    <schedulestarttime>23:50</schedulestarttime>
+    <scheduleendtime>01:11</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The dutch band was inspired by afrobeat to create this unique brand of funky, rhythmic and colorful jazz!</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>BALLAKE SISSOKO &amp; VINCENT SEGAL</programmetitle>
+    <programmenumber>2587</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>01:11</schedulestarttime>
+    <scheduleendtime>02:20</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Sound Before the Fury </programmetitle>
+    <programmenumber>4</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Tom McClung, Raphael Imbert, Archie Shepp</castname>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>02:20</schedulestarttime>
+    <scheduleendtime>04:05</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This story tells of how Archie Shepp created the Attica Blues Big Band to bear witness of the riots of 1971.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Paco de Lucia "Light and Shade"</programmetitle>
+    <programmenumber>19</programmenumber>
+    <yearofrelease>1994</yearofrelease>
+    <directorname/>
+    <castname>Paco de Lucía</castname>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>04:05</schedulestarttime>
+    <scheduleendtime>05:15</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The story of a guitarist obsessed with flamenco since childhood drawing his path towards jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Gina Jeanz from Constitution Hill</programmetitle>
+    <programmenumber>2407</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>Gina Jeanz</castname>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>05:15</schedulestarttime>
+    <scheduleendtime>06:10</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Gina Jeanz celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>OUM - Live at Moods</programmetitle>
+    <programmenumber>1575</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>06:10</schedulestarttime>
+    <scheduleendtime>06:22</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The Saharawi descendant revisits parts of her discography, accompanied by Yacir Rami and bassist Damian Nueva.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Pat Martino - Lotos Jazz Festival</programmetitle>
+    <programmenumber>562</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Pat Martino</castname>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>06:22</schedulestarttime>
+    <scheduleendtime>06:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Miracle guitarist Pat Martino delivers soft-toned grooves with his trio (Carmen Intorre and Pat Bianchi).</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>06:34</schedulestarttime>
+    <scheduleendtime>06:47</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Respect to Aretha - La Villette</programmetitle>
+    <programmenumber>986</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>06:47</schedulestarttime>
+    <scheduleendtime>06:50</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>It is no less than the universalism of what is termed Great Black Music that is being celebrated here.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>06:50</schedulestarttime>
+    <scheduleendtime>06:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Louis Armstrong &amp; his All Stars</programmetitle>
+    <programmenumber>248</programmenumber>
+    <yearofrelease>1959</yearofrelease>
+    <directorname/>
+    <castname>Louis Armstrong</castname>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>06:54</schedulestarttime>
+    <scheduleendtime>07:15</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This footage is a reminder of Satchmo's talent, unique tone and ability to bring out countless subtleties.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The William Parker Organ Quartet</programmetitle>
+    <programmenumber>738</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>07:15</schedulestarttime>
+    <scheduleendtime>08:09</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Playing live with Hamid Drake, Cooper Moore and saxophonist James Brandon Lewis at Banlieues Bleues Festival</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Mulatu Astatke &amp; Friends - Live</programmetitle>
+    <programmenumber>2611</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>08:09</schedulestarttime>
+    <scheduleendtime>10:08</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mixing jazz, latin music and traditional Ethiopian sounds, meet the man who birthed ethio-jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Maceo Parker &amp; Roots Revisited</programmetitle>
+    <programmenumber>199</programmenumber>
+    <yearofrelease>1991</yearofrelease>
+    <directorname/>
+    <castname>Maceo Parker</castname>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>10:08</schedulestarttime>
+    <scheduleendtime>11:17</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>James Brown alumni Maceo Parker, Fred Wesley and Pee Wee Ellis stir up funky jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Trombone Shorty &amp; Orleans Avenue</programmetitle>
+    <programmenumber>2580</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>11:17</schedulestarttime>
+    <scheduleendtime>12:31</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Trombone delivers a gig full of soul and rock sounds with a few forays into blues and jazz lands.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>CHILLY GONZALES</programmetitle>
+    <programmenumber>2581</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>12:31</schedulestarttime>
+    <scheduleendtime>13:36</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Avishaï Cohen's Big Vicious</programmetitle>
+    <programmenumber>988</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>13:36</schedulestarttime>
+    <scheduleendtime>15:14</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>With two guitarists and two drummers, Avishaï Cohen blends rock, avant-garde, groove and, of course, jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Antibalas - Live at Moods</programmetitle>
+    <programmenumber>1200</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>15:14</schedulestarttime>
+    <scheduleendtime>17:08</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Antibalas gives us afrobeat and mix in modern funk, the avant-garde, dub and electronic influences.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bobby McFerrin - Live in 1988</programmetitle>
+    <programmenumber>926</programmenumber>
+    <yearofrelease>1988</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>17:08</schedulestarttime>
+    <scheduleendtime>17:45</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Different arpeggios and harmonies, percussive chest beating and irresistible smoothness from start to finish.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hugh Masekela - Live</programmetitle>
+    <programmenumber>69</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Lee-Roy Sauls, Fana Zulu, Cameron Ward, Hugh Masekela, Francis Manneh Fuster, Randal Skippers</castname>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>17:45</schedulestarttime>
+    <scheduleendtime>18:50</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Five years before his death, South African Hugh Masekela gave a dazzling concert at the Paris Jazz Festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>DJ Buhle from Constitution Hill</programmetitle>
+    <programmenumber>2406</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>DJ Buhle</castname>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>18:50</schedulestarttime>
+    <scheduleendtime>19:26</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>DJ Buhle celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Modern Jazz Quartet - Live in 1962</programmetitle>
+    <programmenumber>238</programmenumber>
+    <yearofrelease>1962</yearofrelease>
+    <directorname/>
+    <castname>Modern Jazz Quartet</castname>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>19:26</schedulestarttime>
+    <scheduleendtime>19:29</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1/>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ulf Wakenius: Jazz à Junas Festival</programmetitle>
+    <programmenumber>596</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Ulf Wakenius</castname>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>19:29</schedulestarttime>
+    <scheduleendtime>19:38</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>With Vincent Peirani and Simon Tailleu, this concert is infused with Swedish folk and global music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Vincent Peirani "Living Being"</programmetitle>
+    <programmenumber>652</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Vincent Peirani</castname>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>19:38</schedulestarttime>
+    <scheduleendtime>19:41</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>From Led Zeppelin to Purcell covers, this quintet is a real chamber rock music orchestra. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Chuck Berry - RTBF Archives 1965</programmetitle>
+    <programmenumber>707</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Chuck Berry</castname>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>19:41</schedulestarttime>
+    <scheduleendtime>19:46</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Berry's natural energy is enough to break through all formalities, getting rid of any stuffiness.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>19:46</schedulestarttime>
+    <scheduleendtime>19:53</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Chuck Berry - RTBF Archives 1965</programmetitle>
+    <programmenumber>707</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Chuck Berry</castname>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>19:53</schedulestarttime>
+    <scheduleendtime>19:56</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Berry's natural energy is enough to break through all formalities, getting rid of any stuffiness.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Melingo w/ Juliette &amp; V. Capossela</programmetitle>
+    <programmenumber>548</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Daniel Melingo</castname>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>19:56</schedulestarttime>
+    <scheduleendtime>20:00</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Welcome to Melingo's surrealist cabaret, which tells the poetry of the shallows, of love &amp; vagabond pathways. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>20:00</schedulestarttime>
+    <scheduleendtime>20:05</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bombino - Live at Moods</programmetitle>
+    <programmenumber>1189</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Bombino</castname>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>20:05</schedulestarttime>
+    <scheduleendtime>20:10</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bombino sings about the identity politics and culture of the Tuareg people of Niger with sensitivity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Melingo w/ Juliette &amp; V. Capossela</programmetitle>
+    <programmenumber>548</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Daniel Melingo</castname>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>20:10</schedulestarttime>
+    <scheduleendtime>20:18</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Welcome to Melingo's surrealist cabaret, which tells the poetry of the shallows, of love &amp; vagabond pathways. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Toumani Diabaté's Orchestra</programmetitle>
+    <programmenumber>129</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Toumani Diabaté</castname>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>20:18</schedulestarttime>
+    <scheduleendtime>20:22</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>At the Banlieues Bleues festival, Diabaté's Symmetric Orchestra celebrates peace, hope and pan-African unity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Melingo w/ Juliette &amp; V. Capossela</programmetitle>
+    <programmenumber>548</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Daniel Melingo</castname>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>20:22</schedulestarttime>
+    <scheduleendtime>20:27</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Welcome to Melingo's surrealist cabaret, which tells the poetry of the shallows, of love &amp; vagabond pathways. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Pat Martino - Lotos Jazz Festival</programmetitle>
+    <programmenumber>562</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Pat Martino</castname>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>20:27</schedulestarttime>
+    <scheduleendtime>20:35</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Miracle guitarist Pat Martino delivers soft-toned grooves with his trio (Carmen Intorre and Pat Bianchi).</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>20:35</schedulestarttime>
+    <scheduleendtime>20:41</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Liz McComb - Olympia, Paris</programmetitle>
+    <programmenumber>228</programmenumber>
+    <yearofrelease>1998</yearofrelease>
+    <directorname/>
+    <castname>Liz McComb</castname>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>20:41</schedulestarttime>
+    <scheduleendtime>20:52</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Between gospel and soul, singer and pianist Liz McComb is joined by three fine-tuned musicians in Paris, 1998.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Leyla McCalla - Live</programmetitle>
+    <programmenumber>996</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname>Leyla McCalla</castname>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>20:52</schedulestarttime>
+    <scheduleendtime>20:56</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Without artifice and with total sincerity, McCalla sings with a simplicity that touches our hearts and minds.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Respect to Aretha - La Villette</programmetitle>
+    <programmenumber>986</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>20:56</schedulestarttime>
+    <scheduleendtime>21:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>It is no less than the universalism of what is termed Great Black Music that is being celebrated here.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Tigran Hamasyan - Live in Norway</programmetitle>
+    <programmenumber>125</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Tigran Hamasyan</castname>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>21:01</schedulestarttime>
+    <scheduleendtime>22:07</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Pianist Hamasyan and samplerist Jan Bang combine eastern accents and electronic riffs at Punkt Festival 2013.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Charles Lloyd Quartet - RTBF</programmetitle>
+    <programmenumber>242</programmenumber>
+    <yearofrelease>1966</yearofrelease>
+    <directorname/>
+    <castname>Charles Lloyd</castname>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>22:07</schedulestarttime>
+    <scheduleendtime>22:44</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Recorded for the RTBF in 1966,  this concert by the Charles Lloyd Quartet was destined to go down in history.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Makaya McCraven - Jazz à Sète</programmetitle>
+    <programmenumber>962</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>24082023</scheduledate>
+    <schedulestarttime>22:44</schedulestarttime>
+    <scheduleendtime>00:19</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Beat Scientist, drummer and producer, McCraven blurs the lines between jazz, electronic and hip-hop.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Tomatito y Grupo - Live at Moods</programmetitle>
+    <programmenumber>1162</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>25082023</scheduledate>
+    <schedulestarttime>00:19</schedulestarttime>
+    <scheduleendtime>02:10</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The "Disciple of Paco de Lucia" delivers his most beautiful compositions on a gypsy flamenco repertoire.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Don Ellis</programmetitle>
+    <programmenumber>2591</programmenumber>
+    <yearofrelease>2007</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>25082023</scheduledate>
+    <schedulestarttime>02:10</schedulestarttime>
+    <scheduleendtime>03:36</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This doc showcases the life of the man who did jazz fusion before it was a thing: Don Ellis.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Children of the Light</programmetitle>
+    <programmenumber>50</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Danilo Perez</castname>
+    <scheduledate>25082023</scheduledate>
+    <schedulestarttime>03:36</schedulestarttime>
+    <scheduleendtime>04:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Danilo Pérez, John Patitucci and Brian Blade bring back the art of the trio at the Jazz à Junas festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Melingo w/ Juliette &amp; V. Capossela</programmetitle>
+    <programmenumber>548</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Daniel Melingo</castname>
+    <scheduledate>25082023</scheduledate>
+    <schedulestarttime>04:34</schedulestarttime>
+    <scheduleendtime>05:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Welcome to Melingo's surrealist cabaret, which tells the poetry of the shallows, of love &amp; vagabond pathways. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>DJ Buhle from Constitution Hill</programmetitle>
+    <programmenumber>2406</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>DJ Buhle</castname>
+    <scheduledate>25082023</scheduledate>
+    <schedulestarttime>05:34</schedulestarttime>
+    <scheduleendtime>06:09</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>DJ Buhle celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bombino - Live at Moods</programmetitle>
+    <programmenumber>1189</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Bombino</castname>
+    <scheduledate>25082023</scheduledate>
+    <schedulestarttime>06:09</schedulestarttime>
+    <scheduleendtime>06:14</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bombino sings about the identity politics and culture of the Tuareg people of Niger with sensitivity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sharon Jones and the Dap-Kings</programmetitle>
+    <programmenumber>111</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Sharon Jones</castname>
+    <scheduledate>25082023</scheduledate>
+    <schedulestarttime>06:14</schedulestarttime>
+    <scheduleendtime>06:22</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Soul, funk, R&amp;B and some infectious dance lessons are delivered by this great figure of Afro-American music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Captain Beefheart – RTBF Archives</programmetitle>
+    <programmenumber>706</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Captain Beefheart</castname>
+    <scheduledate>25082023</scheduledate>
+    <schedulestarttime>06:22</schedulestarttime>
+    <scheduleendtime>06:32</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Captain Beefheart embodies blues rock in this 1974 archive, where bell bottoms and long hair are all the rage.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sly &amp; Robbie meet Molvær &amp; Aarset</programmetitle>
+    <programmenumber>1193</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Lowell 'Sly' Dunbar, Robbie Shakespeare, Nils Petter Molvaer, Eivind Aarset</castname>
+    <scheduledate>25082023</scheduledate>
+    <schedulestarttime>06:32</schedulestarttime>
+    <scheduleendtime>06:39</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The book of life opens onto a dreamlike country where Norwegian Nu jazz transcends the riddims of Jamaica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Verbier Festival: Boris Berezovsky</programmetitle>
+    <programmenumber>1287</programmenumber>
+    <yearofrelease>2008</yearofrelease>
+    <directorname/>
+    <castname>Boris Berezovsky</castname>
+    <scheduledate>25082023</scheduledate>
+    <schedulestarttime>06:39</schedulestarttime>
+    <scheduleendtime>06:42</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The Russian virtuoso pianist a recital of pieces by Liszt &amp; Schumann: a stirring journey into Romanticism.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Yo-Yo Ma and Manfred Honeck</programmetitle>
+    <programmenumber>1347</programmenumber>
+    <yearofrelease>2016</yearofrelease>
+    <directorname/>
+    <castname>Yo-Yo Ma, Manfred Honeck</castname>
+    <scheduledate>25082023</scheduledate>
+    <schedulestarttime>06:42</schedulestarttime>
+    <scheduleendtime>06:51</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Conductor Honeck and cellist Ma join together on stage at the famous Easter Festival in Baden-Baden, Germany. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Tomatito y Grupo - Live at Moods</programmetitle>
+    <programmenumber>1162</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>25082023</scheduledate>
+    <schedulestarttime>06:51</schedulestarttime>
+    <scheduleendtime>07:09</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The "Disciple of Paco de Lucia" delivers his most beautiful compositions on a gypsy flamenco repertoire.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Sound Before the Fury </programmetitle>
+    <programmenumber>4</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Tom McClung, Raphael Imbert, Archie Shepp</castname>
+    <scheduledate>25082023</scheduledate>
+    <schedulestarttime>07:09</schedulestarttime>
+    <scheduleendtime>08:44</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This story tells of how Archie Shepp created the Attica Blues Big Band to bear witness of the riots of 1971.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Tribute to Fela Kuti - Paris</programmetitle>
+    <programmenumber>284</programmenumber>
+    <yearofrelease>2016</yearofrelease>
+    <directorname/>
+    <castname>Seun Kuti</castname>
+    <scheduledate>25082023</scheduledate>
+    <schedulestarttime>08:44</schedulestarttime>
+    <scheduleendtime>09:48</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Honouring his father, Seun Kuti performs with Egypt 80, Talib Kweli, Ibeyi, Tony Allen &amp; Cheick Tidiane Seck.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>25082023</scheduledate>
+    <schedulestarttime>09:48</schedulestarttime>
+    <scheduleendtime>09:50</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>25082023</scheduledate>
+    <schedulestarttime>09:50</schedulestarttime>
+    <scheduleendtime>09:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Dionne Warwick - RTBF Archives 1964</programmetitle>
+    <programmenumber>61</programmenumber>
+    <yearofrelease>1964</yearofrelease>
+    <directorname/>
+    <castname>Dionne Warwick</castname>
+    <scheduledate>25082023</scheduledate>
+    <schedulestarttime>09:54</schedulestarttime>
+    <scheduleendtime>09:58</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>An exemplar of both pop and R&amp;B, Warwick had an incredibly soulful sound that endeared her to music lovers.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>25082023</scheduledate>
+    <schedulestarttime>09:58</schedulestarttime>
+    <scheduleendtime>10:48</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Marcus Miller "Tutu Revisited"</programmetitle>
+    <programmenumber>2645</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>25082023</scheduledate>
+    <schedulestarttime>10:48</schedulestarttime>
+    <scheduleendtime>13:06</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Legendary bassist, Miller revisits his collaboration with Miles Davis, featuring trumpeter Christian Scott. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Seun Kuti &amp; Kojo Roney</programmetitle>
+    <programmenumber>2637</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>25082023</scheduledate>
+    <schedulestarttime>13:06</schedulestarttime>
+    <scheduleendtime>13:33</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The 2nd episode of the series testifies to a touching meeting between Seun Kuti and drummer Kojo Roney.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Thomas de Pourquery - Jazz à Vienne</programmetitle>
+    <programmenumber>2593</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>25082023</scheduledate>
+    <schedulestarttime>13:33</schedulestarttime>
+    <scheduleendtime>14:45</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Thomas de Pourquery live with his Supersonic Orchestra at the Jazz à Vienne Festival 2022.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Trombone Shorty &amp; Orleans Avenue</programmetitle>
+    <programmenumber>2580</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>25082023</scheduledate>
+    <schedulestarttime>14:45</schedulestarttime>
+    <scheduleendtime>16:00</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Trombone delivers a gig full of soul and rock sounds with a few forays into blues and jazz lands.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Frisell - The Disfarmers</programmetitle>
+    <programmenumber>297</programmenumber>
+    <yearofrelease>2011</yearofrelease>
+    <directorname/>
+    <castname>Bill Frisell</castname>
+    <scheduledate>25082023</scheduledate>
+    <schedulestarttime>16:00</schedulestarttime>
+    <scheduleendtime>17:27</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This is a soundtrack illustrating photographs by Mike Disfarmer documenting rural America in the Depression.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Earl Hines Trio - Live in 1966</programmetitle>
+    <programmenumber>244</programmenumber>
+    <yearofrelease>1966</yearofrelease>
+    <directorname/>
+    <castname>Earl Hines</castname>
+    <scheduledate>25082023</scheduledate>
+    <schedulestarttime>17:27</schedulestarttime>
+    <scheduleendtime>18:12</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Earl Hines proves that forty years after he defined jazz piano, he still had the goods.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Lee Fields &amp; The Expressions - Live</programmetitle>
+    <programmenumber>985</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>25082023</scheduledate>
+    <schedulestarttime>18:12</schedulestarttime>
+    <scheduleendtime>19:41</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mr. Lee Fields, a stalwart of soul, performs at Jazz à La Villette Festival with three members of Antibalas.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Da Capo from Constitution Hill</programmetitle>
+    <programmenumber>2408</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>Da Capo</castname>
+    <scheduledate>25082023</scheduledate>
+    <schedulestarttime>19:41</schedulestarttime>
+    <scheduleendtime>20:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Da Capo celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bilal - Live at Moods</programmetitle>
+    <programmenumber>1587</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname>Bilal</castname>
+    <scheduledate>25082023</scheduledate>
+    <schedulestarttime>20:34</schedulestarttime>
+    <scheduleendtime>20:40</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bilal starts his set with "Sirens II," a haunting theme that stands at the crossroads between rock and RnB.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ulf Wakenius: Jazz à Junas Festival</programmetitle>
+    <programmenumber>596</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Ulf Wakenius</castname>
+    <scheduledate>25082023</scheduledate>
+    <schedulestarttime>20:40</schedulestarttime>
+    <scheduleendtime>20:48</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>With Vincent Peirani and Simon Tailleu, this concert is infused with Swedish folk and global music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>OUM - Live at Moods</programmetitle>
+    <programmenumber>1575</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>25082023</scheduledate>
+    <schedulestarttime>20:48</schedulestarttime>
+    <scheduleendtime>21:00</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The Saharawi descendant revisits parts of her discography, accompanied by Yacir Rami and bassist Damian Nueva.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Lucía De Carvalho - Live in France</programmetitle>
+    <programmenumber>2600</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>25082023</scheduledate>
+    <schedulestarttime>21:00</schedulestarttime>
+    <scheduleendtime>22:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>At Nancy Jazz Pulsations Fest, the Angolan singer performs tracks from her latest album, the brilliant Pwanga.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Freddie Hubbard Quartet - RTBF</programmetitle>
+    <programmenumber>721</programmenumber>
+    <yearofrelease>1981</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>25082023</scheduledate>
+    <schedulestarttime>22:01</schedulestarttime>
+    <scheduleendtime>22:45</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Hubbard shows how much his technique combines power and a disconcerting speed in this unique archive concert.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Yom - Back to the Klezmer</programmetitle>
+    <programmenumber>260</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Yom</castname>
+    <scheduledate>25082023</scheduledate>
+    <schedulestarttime>22:45</schedulestarttime>
+    <scheduleendtime>23:38</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Yom owes his instrument's choice to his father and his Ashkenazi culture to his mother, born in Transylvania.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Specials - Live in 1979</programmetitle>
+    <programmenumber>714</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Terry Hall</castname>
+    <scheduledate>25082023</scheduledate>
+    <schedulestarttime>23:38</schedulestarttime>
+    <scheduleendtime>23:59</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>All their hits are there with punk beats, rock riffs, flamboyant brass, reggae pulse and leaping musicians</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>CHILLY GONZALES</programmetitle>
+    <programmenumber>2581</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>25082023</scheduledate>
+    <schedulestarttime>23:59</schedulestarttime>
+    <scheduleendtime>01:05</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jason Moran "Bandwagon" - Live</programmetitle>
+    <programmenumber>74</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Jason Moran, Tarus Mateen</castname>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>01:05</schedulestarttime>
+    <scheduleendtime>02:06</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Major American jazz figure, Jason Moran and his trio find a perfect balance between classicism and modernity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jungle By Night – Pelpass Festival</programmetitle>
+    <programmenumber>2479</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>02:06</schedulestarttime>
+    <scheduleendtime>03:29</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The dutch band was inspired by afrobeat to create this unique brand of funky, rhythmic and colorful jazz!</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Da Capo from Constitution Hill</programmetitle>
+    <programmenumber>2408</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>Da Capo</castname>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>03:29</schedulestarttime>
+    <scheduleendtime>04:24</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Da Capo celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Yom - Back to the Klezmer</programmetitle>
+    <programmenumber>260</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Yom</castname>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>04:24</schedulestarttime>
+    <scheduleendtime>05:18</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Yom owes his instrument's choice to his father and his Ashkenazi culture to his mother, born in Transylvania.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>05:18</schedulestarttime>
+    <scheduleendtime>05:19</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Tomatito y Grupo - Live at Moods</programmetitle>
+    <programmenumber>1162</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>05:19</schedulestarttime>
+    <scheduleendtime>05:27</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The "Disciple of Paco de Lucia" delivers his most beautiful compositions on a gypsy flamenco repertoire.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Girma Bèyènè &amp; Akalé Wubé</programmetitle>
+    <programmenumber>1160</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>05:27</schedulestarttime>
+    <scheduleendtime>05:35</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Ethiopian legend Girma Bèyènè's Amharic lyrics are enhanced by French collective Akalé Wubé at Moods.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Chuck Berry - RTBF Archives 1965</programmetitle>
+    <programmenumber>707</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Chuck Berry</castname>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>05:35</schedulestarttime>
+    <scheduleendtime>05:39</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Berry's natural energy is enough to break through all formalities, getting rid of any stuffiness.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>05:39</schedulestarttime>
+    <scheduleendtime>05:44</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sharon Jones and the Dap-Kings</programmetitle>
+    <programmenumber>111</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Sharon Jones</castname>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>05:44</schedulestarttime>
+    <scheduleendtime>05:50</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Soul, funk, R&amp;B and some infectious dance lessons are delivered by this great figure of Afro-American music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Brad Mehldau plays The Beatles</programmetitle>
+    <programmenumber>1637</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Brad Mehldau</castname>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>05:50</schedulestarttime>
+    <scheduleendtime>05:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Just as many other jazz or soul artists have adapted the Beatles, here, Brad Mehldau follows the same dynamic.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Specials - Live in 1979</programmetitle>
+    <programmenumber>714</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Terry Hall</castname>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>05:54</schedulestarttime>
+    <scheduleendtime>05:56</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>All their hits are there with punk beats, rock riffs, flamboyant brass, reggae pulse and leaping musicians</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Pat Martino - Lotos Jazz Festival</programmetitle>
+    <programmenumber>562</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Pat Martino</castname>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>05:56</schedulestarttime>
+    <scheduleendtime>06:05</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Miracle guitarist Pat Martino delivers soft-toned grooves with his trio (Carmen Intorre and Pat Bianchi).</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>06:05</schedulestarttime>
+    <scheduleendtime>06:09</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Yemen Blues - Live at Moods</programmetitle>
+    <programmenumber>1586</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>06:09</schedulestarttime>
+    <scheduleendtime>06:16</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The Yemen Blues singer combines family roots, and especially Yemeni culture, with rock, blues and even rap.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Toumani Diabaté's Orchestra</programmetitle>
+    <programmenumber>129</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Toumani Diabaté</castname>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>06:16</schedulestarttime>
+    <scheduleendtime>06:23</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>At the Banlieues Bleues festival, Diabaté's Symmetric Orchestra celebrates peace, hope and pan-African unity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sly &amp; Robbie meet Molvær &amp; Aarset</programmetitle>
+    <programmenumber>1193</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Lowell 'Sly' Dunbar, Robbie Shakespeare, Nils Petter Molvaer, Eivind Aarset</castname>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>06:23</schedulestarttime>
+    <scheduleendtime>06:31</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The book of life opens onto a dreamlike country where Norwegian Nu jazz transcends the riddims of Jamaica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>BB King - JazzOpen Stuttgart</programmetitle>
+    <programmenumber>207</programmenumber>
+    <yearofrelease>1997</yearofrelease>
+    <directorname/>
+    <castname>BB King</castname>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>06:31</schedulestarttime>
+    <scheduleendtime>06:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>King displays here all his musical gifts, singing with soul and wit and expertly leading his crack band.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Mohamed Abozekry - Live at Moods</programmetitle>
+    <programmenumber>1154</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>06:34</schedulestarttime>
+    <scheduleendtime>06:43</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mohamed Abozekry alongside Lofty Abaza, Hany Bedair, Wassim Halal, and Mohammed Farag for this 2017 concert.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Liz McComb - Olympia, Paris</programmetitle>
+    <programmenumber>228</programmenumber>
+    <yearofrelease>1998</yearofrelease>
+    <directorname/>
+    <castname>Liz McComb</castname>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>06:43</schedulestarttime>
+    <scheduleendtime>06:53</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Between gospel and soul, singer and pianist Liz McComb is joined by three fine-tuned musicians in Paris, 1998.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Alcina - Handel</programmetitle>
+    <programmenumber>2412</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>06:53</schedulestarttime>
+    <scheduleendtime>07:15</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Opéra de Lausanne's production of the baroque opera seria - a visual and musical masterpiece.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Children of the Light</programmetitle>
+    <programmenumber>50</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Danilo Perez</castname>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>07:15</schedulestarttime>
+    <scheduleendtime>08:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Danilo Pérez, John Patitucci and Brian Blade bring back the art of the trio at the Jazz à Junas festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hindi Zahra &amp; Fatoumata Diawara</programmetitle>
+    <programmenumber>740</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Fatoumata Diawara</castname>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>08:01</schedulestarttime>
+    <scheduleendtime>09:08</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The duo mix Bambara with Amazigh &amp; English, folk with jazz, soul with blues &amp; reggae at Banlieues Bleues fest.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sharon Jones and the Dap-Kings</programmetitle>
+    <programmenumber>111</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Sharon Jones</castname>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>09:08</schedulestarttime>
+    <scheduleendtime>09:11</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Soul, funk, R&amp;B and some infectious dance lessons are delivered by this great figure of Afro-American music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Seun Kuti &amp; Egypt 80 - Moods</programmetitle>
+    <programmenumber>1152</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>09:11</schedulestarttime>
+    <scheduleendtime>09:21</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>They give us sharp, polyrhythmic drums, an array of percussion, and funk guitars that slow-cook the groove.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Mohamed Abozekry - Live at Moods</programmetitle>
+    <programmenumber>1154</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>09:21</schedulestarttime>
+    <scheduleendtime>09:33</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mohamed Abozekry alongside Lofty Abaza, Hany Bedair, Wassim Halal, and Mohammed Farag for this 2017 concert.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>09:33</schedulestarttime>
+    <scheduleendtime>09:39</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Brad Mehldau plays The Beatles</programmetitle>
+    <programmenumber>1637</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Brad Mehldau</castname>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>09:39</schedulestarttime>
+    <scheduleendtime>09:43</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Just as many other jazz or soul artists have adapted the Beatles, here, Brad Mehldau follows the same dynamic.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Lionel Hampton - RTBF Archives 1959</programmetitle>
+    <programmenumber>250</programmenumber>
+    <yearofrelease>1959</yearofrelease>
+    <directorname/>
+    <castname>Lionel Hampton</castname>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>09:43</schedulestarttime>
+    <scheduleendtime>09:50</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The drummer and vibraphonist makes a tour stop in Liège, Belgium, with a supercharged orchestra.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Louis Armstrong &amp; his All Stars</programmetitle>
+    <programmenumber>248</programmenumber>
+    <yearofrelease>1959</yearofrelease>
+    <directorname/>
+    <castname>Louis Armstrong</castname>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>09:50</schedulestarttime>
+    <scheduleendtime>09:56</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This footage is a reminder of Satchmo's talent, unique tone and ability to bring out countless subtleties.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Specials - Live in 1979</programmetitle>
+    <programmenumber>714</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Terry Hall</castname>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>09:56</schedulestarttime>
+    <scheduleendtime>10:17</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>All their hits are there with punk beats, rock riffs, flamboyant brass, reggae pulse and leaping musicians</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Maceo Parker &amp; Roots Revisited</programmetitle>
+    <programmenumber>199</programmenumber>
+    <yearofrelease>1991</yearofrelease>
+    <directorname/>
+    <castname>Maceo Parker</castname>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>10:17</schedulestarttime>
+    <scheduleendtime>11:25</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>James Brown alumni Maceo Parker, Fred Wesley and Pee Wee Ellis stir up funky jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Lucía De Carvalho - Live in France</programmetitle>
+    <programmenumber>2600</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>11:25</schedulestarttime>
+    <scheduleendtime>12:26</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>At Nancy Jazz Pulsations Fest, the Angolan singer performs tracks from her latest album, the brilliant Pwanga.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Tigran Hamasyan - Live in Norway</programmetitle>
+    <programmenumber>125</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Tigran Hamasyan</castname>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>12:26</schedulestarttime>
+    <scheduleendtime>13:31</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Pianist Hamasyan and samplerist Jan Bang combine eastern accents and electronic riffs at Punkt Festival 2013.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Marcus Miller "Tutu Revisited"</programmetitle>
+    <programmenumber>2645</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>13:31</schedulestarttime>
+    <scheduleendtime>15:47</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Legendary bassist, Miller revisits his collaboration with Miles Davis, featuring trumpeter Christian Scott. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Dave Holland Quartet: Prism</programmetitle>
+    <programmenumber>294</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Dave Holland</castname>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>15:47</schedulestarttime>
+    <scheduleendtime>17:05</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bassist Dave Holland’s band unite Kevin Eubanks, Craig Taborn and Eric Harland at the Jazz en Tête Festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>17:05</schedulestarttime>
+    <scheduleendtime>17:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Antibalas - Live at Moods</programmetitle>
+    <programmenumber>1200</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>17:54</schedulestarttime>
+    <scheduleendtime>19:50</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Antibalas gives us afrobeat and mix in modern funk, the avant-garde, dub and electronic influences.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Black Motion from Constitution Hill</programmetitle>
+    <programmenumber>2410</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>DJ Murder, Smol</castname>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>19:50</schedulestarttime>
+    <scheduleendtime>21:09</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Black Motion celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hindi Zahra &amp; Fatoumata Diawara</programmetitle>
+    <programmenumber>740</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Fatoumata Diawara</castname>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>21:09</schedulestarttime>
+    <scheduleendtime>22:17</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The duo mix Bambara with Amazigh &amp; English, folk with jazz, soul with blues &amp; reggae at Banlieues Bleues fest.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>22:17</schedulestarttime>
+    <scheduleendtime>23:05</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Logan Richardson - Live</programmetitle>
+    <programmenumber>84</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Logan Richardson</castname>
+    <scheduledate>26082023</scheduledate>
+    <schedulestarttime>23:05</schedulestarttime>
+    <scheduleendtime>00:14</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Richardson shows the surreal side of his music at Jazz à Porquerolles Festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Spanish Harlem Orchestra</programmetitle>
+    <programmenumber>1155</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>00:14</schedulestarttime>
+    <scheduleendtime>01:55</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Led by salsa giant Oscar Hernandez, this band has not finished spreading salsa and good vibes around the world</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Seun Kuti &amp; Kojo Roney</programmetitle>
+    <programmenumber>2637</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>01:55</schedulestarttime>
+    <scheduleendtime>02:22</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The 2nd episode of the series testifies to a touching meeting between Seun Kuti and drummer Kojo Roney.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Charles Tolliver - Live</programmetitle>
+    <programmenumber>261</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Charles Tolliver</castname>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>02:22</schedulestarttime>
+    <scheduleendtime>03:23</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Live at the Banlieue Blues Festival, Strata-East record label's co-founder plays with his quintet.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Tomatito y Grupo - Live at Moods</programmetitle>
+    <programmenumber>1162</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>03:23</schedulestarttime>
+    <scheduleendtime>05:07</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The "Disciple of Paco de Lucia" delivers his most beautiful compositions on a gypsy flamenco repertoire.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Black Motion from Constitution Hill</programmetitle>
+    <programmenumber>2410</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>DJ Murder, Smol</castname>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>05:07</schedulestarttime>
+    <scheduleendtime>06:22</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Black Motion celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>BB King - JazzOpen Stuttgart</programmetitle>
+    <programmenumber>207</programmenumber>
+    <yearofrelease>1997</yearofrelease>
+    <directorname/>
+    <castname>BB King</castname>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>06:22</schedulestarttime>
+    <scheduleendtime>06:25</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>King displays here all his musical gifts, singing with soul and wit and expertly leading his crack band.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Nucleus - RTBF</programmetitle>
+    <programmenumber>710</programmenumber>
+    <yearofrelease>1971</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>06:25</schedulestarttime>
+    <scheduleendtime>06:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Specials - Live in 1979</programmetitle>
+    <programmenumber>714</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Terry Hall</castname>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>06:34</schedulestarttime>
+    <scheduleendtime>06:38</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>All their hits are there with punk beats, rock riffs, flamboyant brass, reggae pulse and leaping musicians</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>06:38</schedulestarttime>
+    <scheduleendtime>06:40</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Zubin Mehta - Khatia Buniatishvili</programmetitle>
+    <programmenumber>1350</programmenumber>
+    <yearofrelease>2015</yearofrelease>
+    <directorname/>
+    <castname>Khatia Buniatishvili, Zubin Mehta</castname>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>06:40</schedulestarttime>
+    <scheduleendtime>06:49</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mehta, whilst conductor of the Israel Philharmonic Orchestra, gave this concert with pianist Buniatishvili.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Antibalas - Live at Moods</programmetitle>
+    <programmenumber>1200</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>06:49</schedulestarttime>
+    <scheduleendtime>07:16</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Antibalas gives us afrobeat and mix in modern funk, the avant-garde, dub and electronic influences.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jason Moran "Bandwagon" - Live</programmetitle>
+    <programmenumber>74</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Jason Moran, Tarus Mateen</castname>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>07:16</schedulestarttime>
+    <scheduleendtime>08:00</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Major American jazz figure, Jason Moran and his trio find a perfect balance between classicism and modernity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Gina Jeanz from Constitution Hill</programmetitle>
+    <programmenumber>2407</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>Gina Jeanz</castname>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>08:00</schedulestarttime>
+    <scheduleendtime>08:56</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Gina Jeanz celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bakolo Music International</programmetitle>
+    <programmenumber>1908</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Papa Bikunda</castname>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>08:56</schedulestarttime>
+    <scheduleendtime>09:03</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bakolo Music International performing at Africolor Fetsival is a monument of Congolese rumba.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>09:03</schedulestarttime>
+    <scheduleendtime>09:08</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sly &amp; Robbie meet Molvær &amp; Aarset</programmetitle>
+    <programmenumber>1193</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Lowell 'Sly' Dunbar, Robbie Shakespeare, Nils Petter Molvaer, Eivind Aarset</castname>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>09:08</schedulestarttime>
+    <scheduleendtime>09:19</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The book of life opens onto a dreamlike country where Norwegian Nu jazz transcends the riddims of Jamaica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Morcheeba - Live at Jazz à Vienne</programmetitle>
+    <programmenumber>643</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>09:19</schedulestarttime>
+    <scheduleendtime>09:24</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The group’s DNA is found in Edward’s voice and her natural vocal sensibility, and she knows it.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>09:24</schedulestarttime>
+    <scheduleendtime>09:31</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sharon Jones and the Dap-Kings</programmetitle>
+    <programmenumber>111</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Sharon Jones</castname>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>09:31</schedulestarttime>
+    <scheduleendtime>09:37</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Soul, funk, R&amp;B and some infectious dance lessons are delivered by this great figure of Afro-American music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hypnotic Brass Ensemble - Live</programmetitle>
+    <programmenumber>534</programmenumber>
+    <yearofrelease>2012</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>09:37</schedulestarttime>
+    <scheduleendtime>09:45</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>How often do you see eight brothers rocking together on stage, all weilding different golden instruments? </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Chuck Berry - RTBF Archives 1965</programmetitle>
+    <programmenumber>707</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Chuck Berry</castname>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>09:45</schedulestarttime>
+    <scheduleendtime>09:49</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Berry's natural energy is enough to break through all formalities, getting rid of any stuffiness.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ulf Wakenius: Jazz à Junas Festival</programmetitle>
+    <programmenumber>596</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Ulf Wakenius</castname>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>09:49</schedulestarttime>
+    <scheduleendtime>09:57</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>With Vincent Peirani and Simon Tailleu, this concert is infused with Swedish folk and global music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Children of the Light</programmetitle>
+    <programmenumber>50</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Danilo Perez</castname>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>09:57</schedulestarttime>
+    <scheduleendtime>10:58</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Danilo Pérez, John Patitucci and Brian Blade bring back the art of the trio at the Jazz à Junas festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ray Charles and His Orchestra</programmetitle>
+    <programmenumber>1486</programmenumber>
+    <yearofrelease>1968</yearofrelease>
+    <directorname/>
+    <castname>Ray Charles</castname>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>10:58</schedulestarttime>
+    <scheduleendtime>11:44</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Ray Charles redoubles his energy with the vocal quartet The Raelets, Billy Preston and his formidable band.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>W. Marsalis: Blood On The Fields</programmetitle>
+    <programmenumber>2552</programmenumber>
+    <yearofrelease>1996</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>11:44</schedulestarttime>
+    <scheduleendtime>12:47</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 1995, Marsalis rehearses what later on became the first jazz epic oratorio awarded with The Pulitzer Prize.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Coulondre Trio - Michel On My Mind</programmetitle>
+    <programmenumber>1922</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname>Laurent Coulondre</castname>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>12:47</schedulestarttime>
+    <scheduleendtime>14:05</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>French pianist Laurent Coulondre's album Michel On My Mind commemorates the anniversary of Petrucciani's death</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Maceo Parker &amp; Roots Revisited</programmetitle>
+    <programmenumber>199</programmenumber>
+    <yearofrelease>1991</yearofrelease>
+    <directorname/>
+    <castname>Maceo Parker</castname>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>14:05</schedulestarttime>
+    <scheduleendtime>15:15</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>James Brown alumni Maceo Parker, Fred Wesley and Pee Wee Ellis stir up funky jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The William Parker Organ Quartet</programmetitle>
+    <programmenumber>738</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>15:15</schedulestarttime>
+    <scheduleendtime>16:25</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Playing live with Hamid Drake, Cooper Moore and saxophonist James Brandon Lewis at Banlieues Bleues Festival</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>16:25</schedulestarttime>
+    <scheduleendtime>16:29</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Anderson .Paak - Live</programmetitle>
+    <programmenumber>32</programmenumber>
+    <yearofrelease>2016</yearofrelease>
+    <directorname/>
+    <castname>Anderson .Paak</castname>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>16:29</schedulestarttime>
+    <scheduleendtime>16:32</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The most soulful of California rappers onstage at one of the major French festivals of the summer of 2016.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bombino - Live at Moods</programmetitle>
+    <programmenumber>1189</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Bombino</castname>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>16:32</schedulestarttime>
+    <scheduleendtime>16:40</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bombino sings about the identity politics and culture of the Tuareg people of Niger with sensitivity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Mohamed Abozekry - Live at Moods</programmetitle>
+    <programmenumber>1154</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>16:40</schedulestarttime>
+    <scheduleendtime>16:51</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mohamed Abozekry alongside Lofty Abaza, Hany Bedair, Wassim Halal, and Mohammed Farag for this 2017 concert.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>16:51</schedulestarttime>
+    <scheduleendtime>16:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hannah Williams &amp; The Affirmations</programmetitle>
+    <programmenumber>1181</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Hannah Williams</castname>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>16:54</schedulestarttime>
+    <scheduleendtime>17:00</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>2018, the Moods Club, Zurich: the band digs deep into lightning grooves &amp; funky swings with an Afro-pop touch </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle> Art Blakey &amp; The Jazz Messengers</programmetitle>
+    <programmenumber>1449</programmenumber>
+    <yearofrelease>1963</yearofrelease>
+    <directorname/>
+    <castname>Art Blakey</castname>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>17:00</schedulestarttime>
+    <scheduleendtime>17:33</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The musicians who take part in this concert form one of the best formulas that the Jazz Messengers ever knew.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Trombone Shorty &amp; Orleans Avenue</programmetitle>
+    <programmenumber>2580</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>17:33</schedulestarttime>
+    <scheduleendtime>18:47</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Trombone delivers a gig full of soul and rock sounds with a few forays into blues and jazz lands.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Mulatu Astatke &amp; Friends - Live</programmetitle>
+    <programmenumber>2611</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>18:47</schedulestarttime>
+    <scheduleendtime>20:47</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mixing jazz, latin music and traditional Ethiopian sounds, meet the man who birthed ethio-jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bakolo Music International</programmetitle>
+    <programmenumber>1908</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Papa Bikunda</castname>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>20:47</schedulestarttime>
+    <scheduleendtime>20:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bakolo Music International performing at Africolor Fetsival is a monument of Congolese rumba.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hannah Williams &amp; The Affirmations</programmetitle>
+    <programmenumber>1583</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Hannah Williams</castname>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>20:54</schedulestarttime>
+    <scheduleendtime>21:00</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Born in Bristol, this magnetic band presents the volcanic and powerful Hannah Williams as a lead singer.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Maceo Parker &amp; Roots Revisited</programmetitle>
+    <programmenumber>199</programmenumber>
+    <yearofrelease>1991</yearofrelease>
+    <directorname/>
+    <castname>Maceo Parker</castname>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>21:00</schedulestarttime>
+    <scheduleendtime>22:09</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>James Brown alumni Maceo Parker, Fred Wesley and Pee Wee Ellis stir up funky jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bobby McFerrin - Live in 1988</programmetitle>
+    <programmenumber>926</programmenumber>
+    <yearofrelease>1988</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>22:09</schedulestarttime>
+    <scheduleendtime>22:46</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Different arpeggios and harmonies, percussive chest beating and irresistible smoothness from start to finish.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Avishaï Cohen's Big Vicious</programmetitle>
+    <programmenumber>988</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>27082023</scheduledate>
+    <schedulestarttime>22:46</schedulestarttime>
+    <scheduleendtime>00:20</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>With two guitarists and two drummers, Avishaï Cohen blends rock, avant-garde, groove and, of course, jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>UB40 - RTBF Archives 1980</programmetitle>
+    <programmenumber>715</programmenumber>
+    <yearofrelease>1980</yearofrelease>
+    <directorname/>
+    <castname>Ali Campbell</castname>
+    <scheduledate>28082023</scheduledate>
+    <schedulestarttime>00:20</schedulestarttime>
+    <scheduleendtime>00:37</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 1980, UB40 is not yet the huge machine they would become, but their fresh reggae still oozes charisma. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Lucía De Carvalho - Live in France</programmetitle>
+    <programmenumber>2600</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>28082023</scheduledate>
+    <schedulestarttime>00:37</schedulestarttime>
+    <scheduleendtime>01:38</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>At Nancy Jazz Pulsations Fest, the Angolan singer performs tracks from her latest album, the brilliant Pwanga.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Frisell - The Disfarmers</programmetitle>
+    <programmenumber>297</programmenumber>
+    <yearofrelease>2011</yearofrelease>
+    <directorname/>
+    <castname>Bill Frisell</castname>
+    <scheduledate>28082023</scheduledate>
+    <schedulestarttime>01:38</schedulestarttime>
+    <scheduleendtime>03:04</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This is a soundtrack illustrating photographs by Mike Disfarmer documenting rural America in the Depression.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Specials - Live in 1979</programmetitle>
+    <programmenumber>714</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Terry Hall</castname>
+    <scheduledate>28082023</scheduledate>
+    <schedulestarttime>03:04</schedulestarttime>
+    <scheduleendtime>03:25</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>All their hits are there with punk beats, rock riffs, flamboyant brass, reggae pulse and leaping musicians</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Mulatu Astatke &amp; Friends - Live</programmetitle>
+    <programmenumber>2611</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>28082023</scheduledate>
+    <schedulestarttime>03:25</schedulestarttime>
+    <scheduleendtime>05:23</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mixing jazz, latin music and traditional Ethiopian sounds, meet the man who birthed ethio-jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Avishaï Cohen's Big Vicious</programmetitle>
+    <programmenumber>988</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>28082023</scheduledate>
+    <schedulestarttime>05:23</schedulestarttime>
+    <scheduleendtime>07:12</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>With two guitarists and two drummers, Avishaï Cohen blends rock, avant-garde, groove and, of course, jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Charles Tolliver - Live</programmetitle>
+    <programmenumber>261</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Charles Tolliver</castname>
+    <scheduledate>28082023</scheduledate>
+    <schedulestarttime>07:12</schedulestarttime>
+    <scheduleendtime>08:03</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Live at the Banlieue Blues Festival, Strata-East record label's co-founder plays with his quintet.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>DJ Buhle from Constitution Hill</programmetitle>
+    <programmenumber>2406</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>DJ Buhle</castname>
+    <scheduledate>28082023</scheduledate>
+    <schedulestarttime>08:03</schedulestarttime>
+    <scheduleendtime>08:40</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>DJ Buhle celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hugh Masekela - Live</programmetitle>
+    <programmenumber>69</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Lee-Roy Sauls, Fana Zulu, Cameron Ward, Hugh Masekela, Francis Manneh Fuster, Randal Skippers</castname>
+    <scheduledate>28082023</scheduledate>
+    <schedulestarttime>08:40</schedulestarttime>
+    <scheduleendtime>09:43</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Five years before his death, South African Hugh Masekela gave a dazzling concert at the Paris Jazz Festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Pat Martino - Lotos Jazz Festival</programmetitle>
+    <programmenumber>562</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Pat Martino</castname>
+    <scheduledate>28082023</scheduledate>
+    <schedulestarttime>09:43</schedulestarttime>
+    <scheduleendtime>09:52</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Miracle guitarist Pat Martino delivers soft-toned grooves with his trio (Carmen Intorre and Pat Bianchi).</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sharon Jones and the Dap-Kings</programmetitle>
+    <programmenumber>111</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Sharon Jones</castname>
+    <scheduledate>28082023</scheduledate>
+    <schedulestarttime>09:52</schedulestarttime>
+    <scheduleendtime>10:00</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Soul, funk, R&amp;B and some infectious dance lessons are delivered by this great figure of Afro-American music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>28082023</scheduledate>
+    <schedulestarttime>10:00</schedulestarttime>
+    <scheduleendtime>10:17</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>BCUC - Live at Moods</programmetitle>
+    <programmenumber>1180</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>28082023</scheduledate>
+    <schedulestarttime>10:17</schedulestarttime>
+    <scheduleendtime>10:21</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Originally from Soweto, BCUC's Afro-psychedelic trance hypnotises us with reworked traditional sounds. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>BB King - JazzOpen Stuttgart</programmetitle>
+    <programmenumber>207</programmenumber>
+    <yearofrelease>1997</yearofrelease>
+    <directorname/>
+    <castname>BB King</castname>
+    <scheduledate>28082023</scheduledate>
+    <schedulestarttime>10:21</schedulestarttime>
+    <scheduleendtime>10:27</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>King displays here all his musical gifts, singing with soul and wit and expertly leading his crack band.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bombino - Live at Moods</programmetitle>
+    <programmenumber>1189</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Bombino</castname>
+    <scheduledate>28082023</scheduledate>
+    <schedulestarttime>10:27</schedulestarttime>
+    <scheduleendtime>10:32</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bombino sings about the identity politics and culture of the Tuareg people of Niger with sensitivity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Chuck Berry - RTBF Archives 1965</programmetitle>
+    <programmenumber>707</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Chuck Berry</castname>
+    <scheduledate>28082023</scheduledate>
+    <schedulestarttime>10:32</schedulestarttime>
+    <scheduleendtime>10:36</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Berry's natural energy is enough to break through all formalities, getting rid of any stuffiness.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sharon Jones and the Dap-Kings</programmetitle>
+    <programmenumber>111</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Sharon Jones</castname>
+    <scheduledate>28082023</scheduledate>
+    <schedulestarttime>10:36</schedulestarttime>
+    <scheduleendtime>10:43</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Soul, funk, R&amp;B and some infectious dance lessons are delivered by this great figure of Afro-American music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>28082023</scheduledate>
+    <schedulestarttime>10:43</schedulestarttime>
+    <scheduleendtime>10:46</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>28082023</scheduledate>
+    <schedulestarttime>10:46</schedulestarttime>
+    <scheduleendtime>11:02</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Toumani Diabaté's Orchestra</programmetitle>
+    <programmenumber>129</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Toumani Diabaté</castname>
+    <scheduledate>28082023</scheduledate>
+    <schedulestarttime>11:02</schedulestarttime>
+    <scheduleendtime>11:10</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>At the Banlieues Bleues festival, Diabaté's Symmetric Orchestra celebrates peace, hope and pan-African unity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Tigran Hamasyan - Live in Norway</programmetitle>
+    <programmenumber>125</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Tigran Hamasyan</castname>
+    <scheduledate>28082023</scheduledate>
+    <schedulestarttime>11:10</schedulestarttime>
+    <scheduleendtime>12:15</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Pianist Hamasyan and samplerist Jan Bang combine eastern accents and electronic riffs at Punkt Festival 2013.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jorge Rossy Vibes Quintet ft Turner</programmetitle>
+    <programmenumber>1153</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>28082023</scheduledate>
+    <schedulestarttime>12:15</schedulestarttime>
+    <scheduleendtime>14:35</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Make no mistake: Jorge Rossy’s quintet offers more adventurous music than it seems at first glance.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Makaya McCraven - Jazz à Sète</programmetitle>
+    <programmenumber>962</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>28082023</scheduledate>
+    <schedulestarttime>14:35</schedulestarttime>
+    <scheduleendtime>16:06</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Beat Scientist, drummer and producer, McCraven blurs the lines between jazz, electronic and hip-hop.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Tribute to Fela Kuti - Paris</programmetitle>
+    <programmenumber>284</programmenumber>
+    <yearofrelease>2016</yearofrelease>
+    <directorname/>
+    <castname>Seun Kuti</castname>
+    <scheduledate>28082023</scheduledate>
+    <schedulestarttime>16:06</schedulestarttime>
+    <scheduleendtime>17:11</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Honouring his father, Seun Kuti performs with Egypt 80, Talib Kweli, Ibeyi, Tony Allen &amp; Cheick Tidiane Seck.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Charles Lloyd Quartet - RTBF</programmetitle>
+    <programmenumber>242</programmenumber>
+    <yearofrelease>1966</yearofrelease>
+    <directorname/>
+    <castname>Charles Lloyd</castname>
+    <scheduledate>28082023</scheduledate>
+    <schedulestarttime>17:11</schedulestarttime>
+    <scheduleendtime>17:48</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Recorded for the RTBF in 1966,  this concert by the Charles Lloyd Quartet was destined to go down in history.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Marcus Miller "Tutu Revisited"</programmetitle>
+    <programmenumber>2645</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>28082023</scheduledate>
+    <schedulestarttime>17:48</schedulestarttime>
+    <scheduleendtime>20:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Legendary bassist, Miller revisits his collaboration with Miles Davis, featuring trumpeter Christian Scott. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ray Charles and His Orchestra</programmetitle>
+    <programmenumber>1486</programmenumber>
+    <yearofrelease>1968</yearofrelease>
+    <directorname/>
+    <castname>Ray Charles</castname>
+    <scheduledate>28082023</scheduledate>
+    <schedulestarttime>20:01</schedulestarttime>
+    <scheduleendtime>20:48</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Ray Charles redoubles his energy with the vocal quartet The Raelets, Billy Preston and his formidable band.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sharon Jones and the Dap-Kings</programmetitle>
+    <programmenumber>111</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Sharon Jones</castname>
+    <scheduledate>28082023</scheduledate>
+    <schedulestarttime>20:48</schedulestarttime>
+    <scheduleendtime>20:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Soul, funk, R&amp;B and some infectious dance lessons are delivered by this great figure of Afro-American music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Terry Callier - Live in Berlin</programmetitle>
+    <programmenumber>120</programmenumber>
+    <yearofrelease>2005</yearofrelease>
+    <directorname/>
+    <castname>Terry Callier</castname>
+    <scheduledate>28082023</scheduledate>
+    <schedulestarttime>20:54</schedulestarttime>
+    <scheduleendtime>21:00</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Witness one of Terry Callier's few on-stage recordings in a Berlin club in 2005.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>28082023</scheduledate>
+    <schedulestarttime>21:00</schedulestarttime>
+    <scheduleendtime>21:50</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Earl Hines Trio - Live in 1966</programmetitle>
+    <programmenumber>244</programmenumber>
+    <yearofrelease>1966</yearofrelease>
+    <directorname/>
+    <castname>Earl Hines</castname>
+    <scheduledate>28082023</scheduledate>
+    <schedulestarttime>21:50</schedulestarttime>
+    <scheduleendtime>22:36</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Earl Hines proves that forty years after he defined jazz piano, he still had the goods.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Thomas de Pourquery - Jazz à Vienne</programmetitle>
+    <programmenumber>2593</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>28082023</scheduledate>
+    <schedulestarttime>22:36</schedulestarttime>
+    <scheduleendtime>23:48</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Thomas de Pourquery live with his Supersonic Orchestra at the Jazz à Vienne Festival 2022.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Paco de Lucia "Light and Shade"</programmetitle>
+    <programmenumber>19</programmenumber>
+    <yearofrelease>1994</yearofrelease>
+    <directorname/>
+    <castname>Paco de Lucía</castname>
+    <scheduledate>28082023</scheduledate>
+    <schedulestarttime>23:48</schedulestarttime>
+    <scheduleendtime>00:57</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The story of a guitarist obsessed with flamenco since childhood drawing his path towards jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>W. Marsalis: Blood On The Fields</programmetitle>
+    <programmenumber>2552</programmenumber>
+    <yearofrelease>1996</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>00:57</schedulestarttime>
+    <scheduleendtime>02:03</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 1995, Marsalis rehearses what later on became the first jazz epic oratorio awarded with The Pulitzer Prize.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Dave Holland Quartet: Prism</programmetitle>
+    <programmenumber>294</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Dave Holland</castname>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>02:03</schedulestarttime>
+    <scheduleendtime>03:18</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bassist Dave Holland’s band unite Kevin Eubanks, Craig Taborn and Eric Harland at the Jazz en Tête Festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Spanish Harlem Orchestra</programmetitle>
+    <programmenumber>1155</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>03:18</schedulestarttime>
+    <scheduleendtime>05:04</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Led by salsa giant Oscar Hernandez, this band has not finished spreading salsa and good vibes around the world</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Sound Before the Fury </programmetitle>
+    <programmenumber>4</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Tom McClung, Raphael Imbert, Archie Shepp</castname>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>05:04</schedulestarttime>
+    <scheduleendtime>06:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This story tells of how Archie Shepp created the Attica Blues Big Band to bear witness of the riots of 1971.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hannah Williams &amp; The Affirmations</programmetitle>
+    <programmenumber>1181</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Hannah Williams</castname>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>06:34</schedulestarttime>
+    <scheduleendtime>06:39</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>2018, the Moods Club, Zurich: the band digs deep into lightning grooves &amp; funky swings with an Afro-pop touch </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Leyla McCalla - Live</programmetitle>
+    <programmenumber>996</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname>Leyla McCalla</castname>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>06:39</schedulestarttime>
+    <scheduleendtime>06:43</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Without artifice and with total sincerity, McCalla sings with a simplicity that touches our hearts and minds.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>06:43</schedulestarttime>
+    <scheduleendtime>06:46</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Archie Shepp: Gnawa Fire Music</programmetitle>
+    <programmenumber>282</programmenumber>
+    <yearofrelease>2011</yearofrelease>
+    <directorname/>
+    <castname>Archie Shepp</castname>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>06:46</schedulestarttime>
+    <scheduleendtime>07:09</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Alongside the best names in Gnawa music stands Shepp, who restlessly denounced injustices against black people</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Dave Holland Quartet: Prism</programmetitle>
+    <programmenumber>294</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Dave Holland</castname>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>07:09</schedulestarttime>
+    <scheduleendtime>08:16</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bassist Dave Holland’s band unite Kevin Eubanks, Craig Taborn and Eric Harland at the Jazz en Tête Festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Black Motion from Constitution Hill</programmetitle>
+    <programmenumber>2410</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>DJ Murder, Smol</castname>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>08:16</schedulestarttime>
+    <scheduleendtime>09:32</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Black Motion celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Pat Martino - Lotos Jazz Festival</programmetitle>
+    <programmenumber>562</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Pat Martino</castname>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>09:32</schedulestarttime>
+    <scheduleendtime>09:43</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Miracle guitarist Pat Martino delivers soft-toned grooves with his trio (Carmen Intorre and Pat Bianchi).</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Orchestre Poly-Rythmo de Cotonou</programmetitle>
+    <programmenumber>1187</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>09:43</schedulestarttime>
+    <scheduleendtime>09:50</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Formed after the independence of Benin, this band with more than 500 records to their credit is like no other.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Toumani Diabaté's Orchestra</programmetitle>
+    <programmenumber>129</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Toumani Diabaté</castname>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>09:50</schedulestarttime>
+    <scheduleendtime>09:56</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>At the Banlieues Bleues festival, Diabaté's Symmetric Orchestra celebrates peace, hope and pan-African unity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Specials - Live in 1979</programmetitle>
+    <programmenumber>714</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Terry Hall</castname>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>09:56</schedulestarttime>
+    <scheduleendtime>10:00</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>All their hits are there with punk beats, rock riffs, flamboyant brass, reggae pulse and leaping musicians</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>10:00</schedulestarttime>
+    <scheduleendtime>10:08</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Dionne Warwick - RTBF Archives 1964</programmetitle>
+    <programmenumber>61</programmenumber>
+    <yearofrelease>1964</yearofrelease>
+    <directorname/>
+    <castname>Dionne Warwick</castname>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>10:08</schedulestarttime>
+    <scheduleendtime>10:10</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>An exemplar of both pop and R&amp;B, Warwick had an incredibly soulful sound that endeared her to music lovers.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Earl Hines &amp; His All Stars – RTBF</programmetitle>
+    <programmenumber>716</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Earl Hines</castname>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>10:10</schedulestarttime>
+    <scheduleendtime>10:12</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>10:12</schedulestarttime>
+    <scheduleendtime>10:18</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sly &amp; Robbie meet Molvær &amp; Aarset</programmetitle>
+    <programmenumber>1193</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Lowell 'Sly' Dunbar, Robbie Shakespeare, Nils Petter Molvaer, Eivind Aarset</castname>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>10:18</schedulestarttime>
+    <scheduleendtime>10:24</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The book of life opens onto a dreamlike country where Norwegian Nu jazz transcends the riddims of Jamaica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>R. Gallagher - Marquee Club, London</programmetitle>
+    <programmenumber>713</programmenumber>
+    <yearofrelease>1973</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>10:24</schedulestarttime>
+    <scheduleendtime>10:29</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This concert was recorded at the London Marquee Club in 1973, Gallagher was on a world tour at the age of 25.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bombino - Live at Moods</programmetitle>
+    <programmenumber>1189</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Bombino</castname>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>10:29</schedulestarttime>
+    <scheduleendtime>10:35</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bombino sings about the identity politics and culture of the Tuareg people of Niger with sensitivity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Inner Circle - RTBF Archives 1979</programmetitle>
+    <programmenumber>709</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Jacob Miller</castname>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>10:35</schedulestarttime>
+    <scheduleendtime>10:42</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Formed in Kingston in the 70s, Inner Circle here demonstrates a remarkable tightness and energy.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Melingo w/ Juliette &amp; V. Capossela</programmetitle>
+    <programmenumber>548</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Daniel Melingo</castname>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>10:42</schedulestarttime>
+    <scheduleendtime>10:47</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Welcome to Melingo's surrealist cabaret, which tells the poetry of the shallows, of love &amp; vagabond pathways. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>BB King - JazzOpen Stuttgart</programmetitle>
+    <programmenumber>207</programmenumber>
+    <yearofrelease>1997</yearofrelease>
+    <directorname/>
+    <castname>BB King</castname>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>10:47</schedulestarttime>
+    <scheduleendtime>10:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>King displays here all his musical gifts, singing with soul and wit and expertly leading his crack band.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Nucleus - RTBF</programmetitle>
+    <programmenumber>710</programmenumber>
+    <yearofrelease>1971</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>10:54</schedulestarttime>
+    <scheduleendtime>11:00</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>11:00</schedulestarttime>
+    <scheduleendtime>11:06</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Antibalas - Live at Moods</programmetitle>
+    <programmenumber>1200</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>11:06</schedulestarttime>
+    <scheduleendtime>13:00</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Antibalas gives us afrobeat and mix in modern funk, the avant-garde, dub and electronic influences.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Don Ellis</programmetitle>
+    <programmenumber>2591</programmenumber>
+    <yearofrelease>2007</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>13:00</schedulestarttime>
+    <scheduleendtime>14:28</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This doc showcases the life of the man who did jazz fusion before it was a thing: Don Ellis.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Logan Richardson - Live</programmetitle>
+    <programmenumber>84</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Logan Richardson</castname>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>14:28</schedulestarttime>
+    <scheduleendtime>15:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Richardson shows the surreal side of his music at Jazz à Porquerolles Festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Lee Fields &amp; The Expressions - Live</programmetitle>
+    <programmenumber>985</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>15:34</schedulestarttime>
+    <scheduleendtime>17:02</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mr. Lee Fields, a stalwart of soul, performs at Jazz à La Villette Festival with three members of Antibalas.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>17:02</schedulestarttime>
+    <scheduleendtime>17:49</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ray Charles and His Orchestra</programmetitle>
+    <programmenumber>1486</programmenumber>
+    <yearofrelease>1968</yearofrelease>
+    <directorname/>
+    <castname>Ray Charles</castname>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>17:49</schedulestarttime>
+    <scheduleendtime>18:35</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Ray Charles redoubles his energy with the vocal quartet The Raelets, Billy Preston and his formidable band.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Gina Jeanz from Constitution Hill</programmetitle>
+    <programmenumber>2407</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>Gina Jeanz</castname>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>18:35</schedulestarttime>
+    <scheduleendtime>19:30</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Gina Jeanz celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Melingo w/ Juliette &amp; V. Capossela</programmetitle>
+    <programmenumber>548</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Daniel Melingo</castname>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>19:30</schedulestarttime>
+    <scheduleendtime>19:35</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Welcome to Melingo's surrealist cabaret, which tells the poetry of the shallows, of love &amp; vagabond pathways. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Yemen Blues - Live at Moods</programmetitle>
+    <programmenumber>1586</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>19:35</schedulestarttime>
+    <scheduleendtime>19:46</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The Yemen Blues singer combines family roots, and especially Yemeni culture, with rock, blues and even rap.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Orchestre Poly-Rythmo de Cotonou</programmetitle>
+    <programmenumber>1187</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>19:46</schedulestarttime>
+    <scheduleendtime>19:51</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Formed after the independence of Benin, this band with more than 500 records to their credit is like no other.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bakolo Music International</programmetitle>
+    <programmenumber>1908</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Papa Bikunda</castname>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>19:51</schedulestarttime>
+    <scheduleendtime>20:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bakolo Music International performing at Africolor Fetsival is a monument of Congolese rumba.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Anderson .Paak - Live</programmetitle>
+    <programmenumber>32</programmenumber>
+    <yearofrelease>2016</yearofrelease>
+    <directorname/>
+    <castname>Anderson .Paak</castname>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>20:01</schedulestarttime>
+    <scheduleendtime>20:04</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The most soulful of California rappers onstage at one of the major French festivals of the summer of 2016.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>20:04</schedulestarttime>
+    <scheduleendtime>20:10</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bassekou Kouyaté &amp; Ngoni Ba</programmetitle>
+    <programmenumber>1585</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>20:10</schedulestarttime>
+    <scheduleendtime>20:18</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Seeing Bassekou Kouyaté live at Moods with his Ngoni makes it hard to resist his magical vibes. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>BCUC - Live at Moods</programmetitle>
+    <programmenumber>1180</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>20:18</schedulestarttime>
+    <scheduleendtime>20:22</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Originally from Soweto, BCUC's Afro-psychedelic trance hypnotises us with reworked traditional sounds. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>UB40 - RTBF Archives 1980</programmetitle>
+    <programmenumber>715</programmenumber>
+    <yearofrelease>1980</yearofrelease>
+    <directorname/>
+    <castname>Ali Campbell</castname>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>20:22</schedulestarttime>
+    <scheduleendtime>20:27</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 1980, UB40 is not yet the huge machine they would become, but their fresh reggae still oozes charisma. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Yemen Blues - Live at Moods</programmetitle>
+    <programmenumber>1586</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>20:27</schedulestarttime>
+    <scheduleendtime>20:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The Yemen Blues singer combines family roots, and especially Yemeni culture, with rock, blues and even rap.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Pat Martino - Lotos Jazz Festival</programmetitle>
+    <programmenumber>562</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Pat Martino</castname>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>20:34</schedulestarttime>
+    <scheduleendtime>20:44</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Miracle guitarist Pat Martino delivers soft-toned grooves with his trio (Carmen Intorre and Pat Bianchi).</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hannah Williams &amp; The Affirmations</programmetitle>
+    <programmenumber>1583</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Hannah Williams</castname>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>20:44</schedulestarttime>
+    <scheduleendtime>20:48</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Born in Bristol, this magnetic band presents the volcanic and powerful Hannah Williams as a lead singer.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>OUM - Live at Moods</programmetitle>
+    <programmenumber>1575</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>20:48</schedulestarttime>
+    <scheduleendtime>21:00</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The Saharawi descendant revisits parts of her discography, accompanied by Yacir Rami and bassist Damian Nueva.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Spanish Harlem Orchestra</programmetitle>
+    <programmenumber>1155</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>21:00</schedulestarttime>
+    <scheduleendtime>22:49</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Led by salsa giant Oscar Hernandez, this band has not finished spreading salsa and good vibes around the world</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle> Art Blakey &amp; The Jazz Messengers</programmetitle>
+    <programmenumber>1449</programmenumber>
+    <yearofrelease>1963</yearofrelease>
+    <directorname/>
+    <castname>Art Blakey</castname>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>22:49</schedulestarttime>
+    <scheduleendtime>23:21</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The musicians who take part in this concert form one of the best formulas that the Jazz Messengers ever knew.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Coulondre Trio - Michel On My Mind</programmetitle>
+    <programmenumber>1922</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname>Laurent Coulondre</castname>
+    <scheduledate>29082023</scheduledate>
+    <schedulestarttime>23:21</schedulestarttime>
+    <scheduleendtime>00:38</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>French pianist Laurent Coulondre's album Michel On My Mind commemorates the anniversary of Petrucciani's death</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jungle By Night – Pelpass Festival</programmetitle>
+    <programmenumber>2479</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>00:38</schedulestarttime>
+    <scheduleendtime>01:59</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The dutch band was inspired by afrobeat to create this unique brand of funky, rhythmic and colorful jazz!</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>BALLAKE SISSOKO &amp; VINCENT SEGAL</programmetitle>
+    <programmenumber>2587</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>01:59</schedulestarttime>
+    <scheduleendtime>03:07</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Sound Before the Fury </programmetitle>
+    <programmenumber>4</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Tom McClung, Raphael Imbert, Archie Shepp</castname>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>03:07</schedulestarttime>
+    <scheduleendtime>04:49</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This story tells of how Archie Shepp created the Attica Blues Big Band to bear witness of the riots of 1971.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Paco de Lucia "Light and Shade"</programmetitle>
+    <programmenumber>19</programmenumber>
+    <yearofrelease>1994</yearofrelease>
+    <directorname/>
+    <castname>Paco de Lucía</castname>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>04:49</schedulestarttime>
+    <scheduleendtime>05:59</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The story of a guitarist obsessed with flamenco since childhood drawing his path towards jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>05:59</schedulestarttime>
+    <scheduleendtime>06:09</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>06:09</schedulestarttime>
+    <scheduleendtime>06:26</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Spanish Harlem Orchestra</programmetitle>
+    <programmenumber>1155</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>06:26</schedulestarttime>
+    <scheduleendtime>06:36</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Led by salsa giant Oscar Hernandez, this band has not finished spreading salsa and good vibes around the world</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Nils Landgren &amp; Bootsy Collins</programmetitle>
+    <programmenumber>209</programmenumber>
+    <yearofrelease>1998</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>06:36</schedulestarttime>
+    <scheduleendtime>06:46</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Two back to back performances by the Nils Landgren Funk Unit and Bootsy Collins at the Jazzopen in Stuttgart.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Les Amazones d'Afrique - Live</programmetitle>
+    <programmenumber>1279</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>06:46</schedulestarttime>
+    <scheduleendtime>06:49</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Live from Real World Studios, Les Amazones d'Afrique call for improvement on women's condition worldwide.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Dionne Warwick - RTBF Archives 1964</programmetitle>
+    <programmenumber>61</programmenumber>
+    <yearofrelease>1964</yearofrelease>
+    <directorname/>
+    <castname>Dionne Warwick</castname>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>06:49</schedulestarttime>
+    <scheduleendtime>06:52</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>An exemplar of both pop and R&amp;B, Warwick had an incredibly soulful sound that endeared her to music lovers.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Théo Ceccaldi FREAKS - Moods</programmetitle>
+    <programmenumber>1194</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>06:52</schedulestarttime>
+    <scheduleendtime>07:15</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The William Parker Organ Quartet</programmetitle>
+    <programmenumber>738</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>07:15</schedulestarttime>
+    <scheduleendtime>08:08</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Playing live with Hamid Drake, Cooper Moore and saxophonist James Brandon Lewis at Banlieues Bleues Festival</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Mulatu Astatke &amp; Friends - Live</programmetitle>
+    <programmenumber>2611</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>08:08</schedulestarttime>
+    <scheduleendtime>10:11</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mixing jazz, latin music and traditional Ethiopian sounds, meet the man who birthed ethio-jazz.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Gina Jeanz from Constitution Hill</programmetitle>
+    <programmenumber>2407</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>Gina Jeanz</castname>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>10:11</schedulestarttime>
+    <scheduleendtime>11:05</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Gina Jeanz celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Trombone Shorty &amp; Orleans Avenue</programmetitle>
+    <programmenumber>2580</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>11:05</schedulestarttime>
+    <scheduleendtime>12:19</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Trombone delivers a gig full of soul and rock sounds with a few forays into blues and jazz lands.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>CHILLY GONZALES</programmetitle>
+    <programmenumber>2581</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>12:19</schedulestarttime>
+    <scheduleendtime>13:24</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bobby McFerrin - Live in 1988</programmetitle>
+    <programmenumber>926</programmenumber>
+    <yearofrelease>1988</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>13:24</schedulestarttime>
+    <scheduleendtime>14:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Different arpeggios and harmonies, percussive chest beating and irresistible smoothness from start to finish.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hugh Masekela - Live</programmetitle>
+    <programmenumber>69</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Lee-Roy Sauls, Fana Zulu, Cameron Ward, Hugh Masekela, Francis Manneh Fuster, Randal Skippers</castname>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>14:01</schedulestarttime>
+    <scheduleendtime>15:06</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Five years before his death, South African Hugh Masekela gave a dazzling concert at the Paris Jazz Festival.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Antibalas - Live at Moods</programmetitle>
+    <programmenumber>1200</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>15:06</schedulestarttime>
+    <scheduleendtime>17:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Antibalas gives us afrobeat and mix in modern funk, the avant-garde, dub and electronic influences.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bobby McFerrin - Live in 1988</programmetitle>
+    <programmenumber>926</programmenumber>
+    <yearofrelease>1988</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>17:01</schedulestarttime>
+    <scheduleendtime>17:40</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Different arpeggios and harmonies, percussive chest beating and irresistible smoothness from start to finish.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>DJ Buhle from Constitution Hill</programmetitle>
+    <programmenumber>2406</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>DJ Buhle</castname>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>17:40</schedulestarttime>
+    <scheduleendtime>18:16</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>DJ Buhle celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>18:16</schedulestarttime>
+    <scheduleendtime>18:28</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>18:28</schedulestarttime>
+    <scheduleendtime>18:32</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Inner Circle - RTBF Archives 1979</programmetitle>
+    <programmenumber>709</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Jacob Miller</castname>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>18:32</schedulestarttime>
+    <scheduleendtime>18:39</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Formed in Kingston in the 70s, Inner Circle here demonstrates a remarkable tightness and energy.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Yemen Blues - Live at Moods</programmetitle>
+    <programmenumber>1586</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>18:39</schedulestarttime>
+    <scheduleendtime>18:50</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The Yemen Blues singer combines family roots, and especially Yemeni culture, with rock, blues and even rap.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Archie Shepp "In the Mood" - Live</programmetitle>
+    <programmenumber>488</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Archie Shepp</castname>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>18:50</schedulestarttime>
+    <scheduleendtime>19:06</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>On the island of Porquerolles in Provence, jazz soaks its feet every summer, here with Captain Archie Shepp.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Brad Mehldau plays The Beatles</programmetitle>
+    <programmenumber>1637</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Brad Mehldau</castname>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>19:06</schedulestarttime>
+    <scheduleendtime>19:08</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Just as many other jazz or soul artists have adapted the Beatles, here, Brad Mehldau follows the same dynamic.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Morcheeba - Live at Jazz à Vienne</programmetitle>
+    <programmenumber>643</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>19:08</schedulestarttime>
+    <scheduleendtime>19:16</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The group’s DNA is found in Edward’s voice and her natural vocal sensibility, and she knows it.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; Her trio in 1974</programmetitle>
+    <programmenumber>718</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>19:16</schedulestarttime>
+    <scheduleendtime>19:23</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The voice register is lower than in her green years but the charm is still that of Sassy the "Divine."</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>UB40 - RTBF Archives 1980</programmetitle>
+    <programmenumber>715</programmenumber>
+    <yearofrelease>1980</yearofrelease>
+    <directorname/>
+    <castname>Ali Campbell</castname>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>19:23</schedulestarttime>
+    <scheduleendtime>19:29</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 1980, UB40 is not yet the huge machine they would become, but their fresh reggae still oozes charisma. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sly &amp; Robbie meet Molvær &amp; Aarset</programmetitle>
+    <programmenumber>1193</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Lowell 'Sly' Dunbar, Robbie Shakespeare, Nils Petter Molvaer, Eivind Aarset</castname>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>19:29</schedulestarttime>
+    <scheduleendtime>19:39</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The book of life opens onto a dreamlike country where Norwegian Nu jazz transcends the riddims of Jamaica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ulf Wakenius: Jazz à Junas Festival</programmetitle>
+    <programmenumber>596</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Ulf Wakenius</castname>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>19:39</schedulestarttime>
+    <scheduleendtime>19:46</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>With Vincent Peirani and Simon Tailleu, this concert is infused with Swedish folk and global music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Yemen Blues - Live at Moods</programmetitle>
+    <programmenumber>1586</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>19:46</schedulestarttime>
+    <scheduleendtime>19:55</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The Yemen Blues singer combines family roots, and especially Yemeni culture, with rock, blues and even rap.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sharon Jones and the Dap-Kings</programmetitle>
+    <programmenumber>111</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Sharon Jones</castname>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>19:55</schedulestarttime>
+    <scheduleendtime>20:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Soul, funk, R&amp;B and some infectious dance lessons are delivered by this great figure of Afro-American music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Melingo w/ Juliette &amp; V. Capossela</programmetitle>
+    <programmenumber>548</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Daniel Melingo</castname>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>20:01</schedulestarttime>
+    <scheduleendtime>20:10</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Welcome to Melingo's surrealist cabaret, which tells the poetry of the shallows, of love &amp; vagabond pathways. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Chuck Berry - RTBF Archives 1965</programmetitle>
+    <programmenumber>707</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Chuck Berry</castname>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>20:10</schedulestarttime>
+    <scheduleendtime>20:12</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Berry's natural energy is enough to break through all formalities, getting rid of any stuffiness.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Vincent Peirani "Living Being"</programmetitle>
+    <programmenumber>652</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Vincent Peirani</castname>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>20:12</schedulestarttime>
+    <scheduleendtime>20:16</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>From Led Zeppelin to Purcell covers, this quintet is a real chamber rock music orchestra. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Anderson .Paak - Live</programmetitle>
+    <programmenumber>32</programmenumber>
+    <yearofrelease>2016</yearofrelease>
+    <directorname/>
+    <castname>Anderson .Paak</castname>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>20:16</schedulestarttime>
+    <scheduleendtime>20:19</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The most soulful of California rappers onstage at one of the major French festivals of the summer of 2016.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ulf Wakenius: Jazz à Junas Festival</programmetitle>
+    <programmenumber>596</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Ulf Wakenius</castname>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>20:19</schedulestarttime>
+    <scheduleendtime>20:27</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>With Vincent Peirani and Simon Tailleu, this concert is infused with Swedish folk and global music.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>20:27</schedulestarttime>
+    <scheduleendtime>20:40</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Specials - Live in 1979</programmetitle>
+    <programmenumber>714</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Terry Hall</castname>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>20:40</schedulestarttime>
+    <scheduleendtime>20:42</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>All their hits are there with punk beats, rock riffs, flamboyant brass, reggae pulse and leaping musicians</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>20:42</schedulestarttime>
+    <scheduleendtime>20:53</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Brad Mehldau plays The Beatles</programmetitle>
+    <programmenumber>1637</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname>Brad Mehldau</castname>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>20:53</schedulestarttime>
+    <scheduleendtime>20:55</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Just as many other jazz or soul artists have adapted the Beatles, here, Brad Mehldau follows the same dynamic.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sly &amp; Robbie meet Molvær &amp; Aarset</programmetitle>
+    <programmenumber>1193</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Lowell 'Sly' Dunbar, Robbie Shakespeare, Nils Petter Molvaer, Eivind Aarset</castname>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>20:55</schedulestarttime>
+    <scheduleendtime>21:04</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The book of life opens onto a dreamlike country where Norwegian Nu jazz transcends the riddims of Jamaica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jason Moran "Bandwagon" - Live</programmetitle>
+    <programmenumber>74</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Jason Moran, Tarus Mateen</castname>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>21:04</schedulestarttime>
+    <scheduleendtime>22:04</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Major American jazz figure, Jason Moran and his trio find a perfect balance between classicism and modernity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Charles Lloyd Quartet - RTBF</programmetitle>
+    <programmenumber>242</programmenumber>
+    <yearofrelease>1966</yearofrelease>
+    <directorname/>
+    <castname>Charles Lloyd</castname>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>22:04</schedulestarttime>
+    <scheduleendtime>22:40</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Recorded for the RTBF in 1966,  this concert by the Charles Lloyd Quartet was destined to go down in history.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Makaya McCraven - Jazz à Sète</programmetitle>
+    <programmenumber>962</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>30082023</scheduledate>
+    <schedulestarttime>22:40</schedulestarttime>
+    <scheduleendtime>00:11</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Beat Scientist, drummer and producer, McCraven blurs the lines between jazz, electronic and hip-hop.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Tomatito y Grupo - Live at Moods</programmetitle>
+    <programmenumber>1162</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>00:11</schedulestarttime>
+    <scheduleendtime>01:58</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The "Disciple of Paco de Lucia" delivers his most beautiful compositions on a gypsy flamenco repertoire.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Don Ellis</programmetitle>
+    <programmenumber>2591</programmenumber>
+    <yearofrelease>2007</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>01:58</schedulestarttime>
+    <scheduleendtime>03:25</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This doc showcases the life of the man who did jazz fusion before it was a thing: Don Ellis.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Stochelo Rosenberg "Gypsy Today"</programmetitle>
+    <programmenumber>2634</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>03:25</schedulestarttime>
+    <scheduleendtime>04:32</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Dutch guitarist presents his last album, Gypsy Today, combining improvised music with melodies dear to nomads.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Melingo w/ Juliette &amp; V. Capossela</programmetitle>
+    <programmenumber>548</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Daniel Melingo</castname>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>04:32</schedulestarttime>
+    <scheduleendtime>05:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Welcome to Melingo's surrealist cabaret, which tells the poetry of the shallows, of love &amp; vagabond pathways. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>DJ Buhle from Constitution Hill</programmetitle>
+    <programmenumber>2406</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>DJ Buhle</castname>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>05:34</schedulestarttime>
+    <scheduleendtime>06:09</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>DJ Buhle celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bilal - Live at Moods</programmetitle>
+    <programmenumber>1587</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname>Bilal</castname>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>06:09</schedulestarttime>
+    <scheduleendtime>06:14</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Bilal starts his set with "Sirens II," a haunting theme that stands at the crossroads between rock and RnB.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Vincent Peirani "Living Being"</programmetitle>
+    <programmenumber>652</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Vincent Peirani</castname>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>06:14</schedulestarttime>
+    <scheduleendtime>06:20</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>From Led Zeppelin to Purcell covers, this quintet is a real chamber rock music orchestra. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sly &amp; Robbie meet Molvær &amp; Aarset</programmetitle>
+    <programmenumber>1193</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Lowell 'Sly' Dunbar, Robbie Shakespeare, Nils Petter Molvaer, Eivind Aarset</castname>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>06:20</schedulestarttime>
+    <scheduleendtime>06:28</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The book of life opens onto a dreamlike country where Norwegian Nu jazz transcends the riddims of Jamaica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Anderson .Paak - Live</programmetitle>
+    <programmenumber>32</programmenumber>
+    <yearofrelease>2016</yearofrelease>
+    <directorname/>
+    <castname>Anderson .Paak</castname>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>06:28</schedulestarttime>
+    <scheduleendtime>06:31</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The most soulful of California rappers onstage at one of the major French festivals of the summer of 2016.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Specials - Live in 1979</programmetitle>
+    <programmenumber>714</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Terry Hall</castname>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>06:31</schedulestarttime>
+    <scheduleendtime>06:35</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>All their hits are there with punk beats, rock riffs, flamboyant brass, reggae pulse and leaping musicians</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>06:35</schedulestarttime>
+    <scheduleendtime>06:44</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Specials - Live in 1979</programmetitle>
+    <programmenumber>714</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Terry Hall</castname>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>06:44</schedulestarttime>
+    <scheduleendtime>06:47</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>All their hits are there with punk beats, rock riffs, flamboyant brass, reggae pulse and leaping musicians</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Gregory Porter - Liquid Spirit</programmetitle>
+    <programmenumber>528</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>Gregory Porter</castname>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>06:47</schedulestarttime>
+    <scheduleendtime>06:53</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Porter reaches what he hopes will be the widest audience possible; he knows the strength of jazz's history.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Stan Getz - Live in Munich</programmetitle>
+    <programmenumber>113</programmenumber>
+    <yearofrelease>1990</yearofrelease>
+    <directorname/>
+    <castname>Stan Getz</castname>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>06:53</schedulestarttime>
+    <scheduleendtime>07:11</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This marks his final recording, and the last blast of one of the most revered tones to ever escape from a horn</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Sound Before the Fury </programmetitle>
+    <programmenumber>4</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Tom McClung, Raphael Imbert, Archie Shepp</castname>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>07:11</schedulestarttime>
+    <scheduleendtime>08:45</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This story tells of how Archie Shepp created the Attica Blues Big Band to bear witness of the riots of 1971.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ibrahim Maalouf - Live at Babylon</programmetitle>
+    <programmenumber>70</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname>François Delporte, Xavier Rogé, Frank Woeste, Ibrahim Maalouf, Laurent David, Youenn Le Cam</castname>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>08:45</schedulestarttime>
+    <scheduleendtime>09:04</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>In 2013, after being named Jazz Artist of the Year, Maalouf gave a memorable concert in Istanbul.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Vincent Peirani "Living Being"</programmetitle>
+    <programmenumber>652</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Vincent Peirani</castname>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>09:04</schedulestarttime>
+    <scheduleendtime>09:07</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>From Led Zeppelin to Purcell covers, this quintet is a real chamber rock music orchestra. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Antibalas - Live at Moods</programmetitle>
+    <programmenumber>1200</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>09:07</schedulestarttime>
+    <scheduleendtime>09:19</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Antibalas gives us afrobeat and mix in modern funk, the avant-garde, dub and electronic influences.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Evans &amp; Lee Konitz - Live</programmetitle>
+    <programmenumber>97</programmenumber>
+    <yearofrelease>1965</yearofrelease>
+    <directorname/>
+    <castname>Bill Evans, Lee Konitz</castname>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>09:19</schedulestarttime>
+    <scheduleendtime>09:29</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Evans and Konitz at the Paris Jazz Festival in 1965 supported by Alan Dawson &amp; Nils Henning Ørsted-Pedersen.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Pat Martino - Lotos Jazz Festival</programmetitle>
+    <programmenumber>562</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Pat Martino</castname>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>09:29</schedulestarttime>
+    <scheduleendtime>09:34</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Miracle guitarist Pat Martino delivers soft-toned grooves with his trio (Carmen Intorre and Pat Bianchi).</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Specials - Live in 1979</programmetitle>
+    <programmenumber>714</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>Terry Hall</castname>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>09:34</schedulestarttime>
+    <scheduleendtime>09:39</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>All their hits are there with punk beats, rock riffs, flamboyant brass, reggae pulse and leaping musicians</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Vincent Peirani "Living Being"</programmetitle>
+    <programmenumber>652</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Vincent Peirani</castname>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>09:39</schedulestarttime>
+    <scheduleendtime>09:43</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>From Led Zeppelin to Purcell covers, this quintet is a real chamber rock music orchestra. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Modern Jazz Quartet - Live in 1962</programmetitle>
+    <programmenumber>238</programmenumber>
+    <yearofrelease>1962</yearofrelease>
+    <directorname/>
+    <castname>Modern Jazz Quartet</castname>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>09:43</schedulestarttime>
+    <scheduleendtime>09:47</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1/>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Melingo w/ Juliette &amp; V. Capossela</programmetitle>
+    <programmenumber>548</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Daniel Melingo</castname>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>09:47</schedulestarttime>
+    <scheduleendtime>09:50</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Welcome to Melingo's surrealist cabaret, which tells the poetry of the shallows, of love &amp; vagabond pathways. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sly &amp; Robbie meet Molvær &amp; Aarset</programmetitle>
+    <programmenumber>1193</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname>Lowell 'Sly' Dunbar, Robbie Shakespeare, Nils Petter Molvaer, Eivind Aarset</castname>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>09:50</schedulestarttime>
+    <scheduleendtime>09:59</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The book of life opens onto a dreamlike country where Norwegian Nu jazz transcends the riddims of Jamaica.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ray Charles and His Orchestra</programmetitle>
+    <programmenumber>1486</programmenumber>
+    <yearofrelease>1968</yearofrelease>
+    <directorname/>
+    <castname>Ray Charles</castname>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>09:59</schedulestarttime>
+    <scheduleendtime>10:43</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Ray Charles redoubles his energy with the vocal quartet The Raelets, Billy Preston and his formidable band.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Marcus Miller "Tutu Revisited"</programmetitle>
+    <programmenumber>2645</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>10:43</schedulestarttime>
+    <scheduleendtime>12:54</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Legendary bassist, Miller revisits his collaboration with Miles Davis, featuring trumpeter Christian Scott. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Seun Kuti &amp; Kojo Roney</programmetitle>
+    <programmenumber>2637</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>12:54</schedulestarttime>
+    <scheduleendtime>13:20</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The 2nd episode of the series testifies to a touching meeting between Seun Kuti and drummer Kojo Roney.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Thomas de Pourquery - Jazz à Vienne</programmetitle>
+    <programmenumber>2593</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>13:20</schedulestarttime>
+    <scheduleendtime>14:30</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Thomas de Pourquery live with his Supersonic Orchestra at the Jazz à Vienne Festival 2022.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Trombone Shorty &amp; Orleans Avenue</programmetitle>
+    <programmenumber>2580</programmenumber>
+    <yearofrelease>2013</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>14:30</schedulestarttime>
+    <scheduleendtime>15:42</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Trombone delivers a gig full of soul and rock sounds with a few forays into blues and jazz lands.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Bill Frisell - The Disfarmers</programmetitle>
+    <programmenumber>297</programmenumber>
+    <yearofrelease>2011</yearofrelease>
+    <directorname/>
+    <castname>Bill Frisell</castname>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>15:42</schedulestarttime>
+    <scheduleendtime>17:06</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>This is a soundtrack illustrating photographs by Mike Disfarmer documenting rural America in the Depression.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Earl Hines Trio - Live in 1966</programmetitle>
+    <programmenumber>244</programmenumber>
+    <yearofrelease>1966</yearofrelease>
+    <directorname/>
+    <castname>Earl Hines</castname>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>17:06</schedulestarttime>
+    <scheduleendtime>17:53</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Earl Hines proves that forty years after he defined jazz piano, he still had the goods.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Lee Fields &amp; The Expressions - Live</programmetitle>
+    <programmenumber>985</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>17:53</schedulestarttime>
+    <scheduleendtime>19:18</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mr. Lee Fields, a stalwart of soul, performs at Jazz à La Villette Festival with three members of Antibalas.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Da Capo from Constitution Hill</programmetitle>
+    <programmenumber>2408</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>Da Capo</castname>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>19:18</schedulestarttime>
+    <scheduleendtime>20:13</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Da Capo celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>The Brian Auger's Oblivion Express</programmetitle>
+    <programmenumber>705</programmenumber>
+    <yearofrelease>1972</yearofrelease>
+    <directorname/>
+    <castname>Brian Auger</castname>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>20:13</schedulestarttime>
+    <scheduleendtime>20:21</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The keyboardist Brian Auger shows all his talent for groove and virtuoso solos on the Fender Rhodes.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Monk'N Roll - Francesco Bearzatti</programmetitle>
+    <programmenumber>558</programmenumber>
+    <yearofrelease>2012</yearofrelease>
+    <directorname/>
+    <castname>Francesco Bearzatti</castname>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>20:21</schedulestarttime>
+    <scheduleendtime>20:29</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Mohamed Abozekry - Live at Moods</programmetitle>
+    <programmenumber>1154</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>20:29</schedulestarttime>
+    <scheduleendtime>20:38</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Mohamed Abozekry alongside Lofty Abaza, Hany Bedair, Wassim Halal, and Mohammed Farag for this 2017 concert.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Aretha Franklin - Live in Paris</programmetitle>
+    <programmenumber>204</programmenumber>
+    <yearofrelease>1977</yearofrelease>
+    <directorname/>
+    <castname>Aretha Franklin</castname>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>20:38</schedulestarttime>
+    <scheduleendtime>20:47</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Aretha Franklin sets the Paris Palais des Sports on fire in 1977.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>OUM - Live at Moods</programmetitle>
+    <programmenumber>1575</programmenumber>
+    <yearofrelease>2019</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>20:47</schedulestarttime>
+    <scheduleendtime>21:05</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The Saharawi descendant revisits parts of her discography, accompanied by Yacir Rami and bassist Damian Nueva.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Coulondre Trio - Michel On My Mind</programmetitle>
+    <programmenumber>1922</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname>Laurent Coulondre</castname>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>21:05</schedulestarttime>
+    <scheduleendtime>22:24</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>French pianist Laurent Coulondre's album Michel On My Mind commemorates the anniversary of Petrucciani's death</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Freddie Hubbard Quartet - RTBF</programmetitle>
+    <programmenumber>721</programmenumber>
+    <yearofrelease>1981</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>22:24</schedulestarttime>
+    <scheduleendtime>23:08</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Hubbard shows how much his technique combines power and a disconcerting speed in this unique archive concert.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Yom - Back to the Klezmer</programmetitle>
+    <programmenumber>260</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Yom</castname>
+    <scheduledate>31082023</scheduledate>
+    <schedulestarttime>23:08</schedulestarttime>
+    <scheduleendtime>00:01</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Yom owes his instrument's choice to his father and his Ashkenazi culture to his mother, born in Transylvania.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>David Walters - Live at Cosmo Jazz</programmetitle>
+    <programmenumber>1925</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname>David Walters</castname>
+    <scheduledate>01092023</scheduledate>
+    <schedulestarttime>00:01</schedulestarttime>
+    <scheduleendtime>01:14</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1> For Cosmo Jazz Festival 2021, David Walters offers a tremendous recap of his work.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>CHILLY GONZALES</programmetitle>
+    <programmenumber>2581</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>01092023</scheduledate>
+    <schedulestarttime>01:14</schedulestarttime>
+    <scheduleendtime>02:20</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Quincy Jones invites you to explore a world of music through hand-made playlists that showcase the very best live performances and legendary archive gems.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jason Moran "Bandwagon" - Live</programmetitle>
+    <programmenumber>74</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Jason Moran, Tarus Mateen</castname>
+    <scheduledate>01092023</scheduledate>
+    <schedulestarttime>02:20</schedulestarttime>
+    <scheduleendtime>03:21</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Major American jazz figure, Jason Moran and his trio find a perfect balance between classicism and modernity.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Jungle By Night – Pelpass Festival</programmetitle>
+    <programmenumber>2479</programmenumber>
+    <yearofrelease>2021</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>01092023</scheduledate>
+    <schedulestarttime>03:21</schedulestarttime>
+    <scheduleendtime>04:45</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The dutch band was inspired by afrobeat to create this unique brand of funky, rhythmic and colorful jazz!</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Da Capo from Constitution Hill</programmetitle>
+    <programmenumber>2408</programmenumber>
+    <yearofrelease>2022</yearofrelease>
+    <directorname/>
+    <castname>Da Capo</castname>
+    <scheduledate>01092023</scheduledate>
+    <schedulestarttime>04:45</schedulestarttime>
+    <scheduleendtime>05:40</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Da Capo celebrates Black History Month from Johannesburg, South Africa.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Hypnotic Brass Ensemble - Live</programmetitle>
+    <programmenumber>534</programmenumber>
+    <yearofrelease>2012</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>01092023</scheduledate>
+    <schedulestarttime>05:40</schedulestarttime>
+    <scheduleendtime>05:45</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>How often do you see eight brothers rocking together on stage, all weilding different golden instruments? </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>01092023</scheduledate>
+    <schedulestarttime>05:45</schedulestarttime>
+    <scheduleendtime>05:52</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Pat Martino - Lotos Jazz Festival</programmetitle>
+    <programmenumber>562</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Pat Martino</castname>
+    <scheduledate>01092023</scheduledate>
+    <schedulestarttime>05:52</schedulestarttime>
+    <scheduleendtime>06:02</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Miracle guitarist Pat Martino delivers soft-toned grooves with his trio (Carmen Intorre and Pat Bianchi).</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Orchestre Poly-Rythmo de Cotonou</programmetitle>
+    <programmenumber>1187</programmenumber>
+    <yearofrelease>2018</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>01092023</scheduledate>
+    <schedulestarttime>06:02</schedulestarttime>
+    <scheduleendtime>06:09</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Formed after the independence of Benin, this band with more than 500 records to their credit is like no other.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Ella Fitzgerald - RTBF, 1957</programmetitle>
+    <programmenumber>95</programmenumber>
+    <yearofrelease>1957</yearofrelease>
+    <directorname/>
+    <castname>Ella Fitzgerald</castname>
+    <scheduledate>01092023</scheduledate>
+    <schedulestarttime>06:09</schedulestarttime>
+    <scheduleendtime>06:14</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Along with an all-star unit, Ella Fitzgerald brings her vocal magic to ballads and swinging performances.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Yemen Blues - Live at Moods</programmetitle>
+    <programmenumber>1586</programmenumber>
+    <yearofrelease>2020</yearofrelease>
+    <directorname/>
+    <castname/>
+    <scheduledate>01092023</scheduledate>
+    <schedulestarttime>06:14</schedulestarttime>
+    <scheduleendtime>06:25</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>The Yemen Blues singer combines family roots, and especially Yemeni culture, with rock, blues and even rap.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Archie Shepp: Gnawa Fire Music</programmetitle>
+    <programmenumber>282</programmenumber>
+    <yearofrelease>2011</yearofrelease>
+    <directorname/>
+    <castname>Archie Shepp</castname>
+    <scheduledate>01092023</scheduledate>
+    <schedulestarttime>06:25</schedulestarttime>
+    <scheduleendtime>06:39</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Alongside the best names in Gnawa music stands Shepp, who restlessly denounced injustices against black people</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Sarah Vaughan &amp; her Trio - RTBF</programmetitle>
+    <programmenumber>719</programmenumber>
+    <yearofrelease>1974</yearofrelease>
+    <directorname/>
+    <castname>Sarah Vaughan</castname>
+    <scheduledate>01092023</scheduledate>
+    <schedulestarttime>06:39</schedulestarttime>
+    <scheduleendtime>06:42</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>With Gillespie's agility, Parker's harmonic turns and Miles Davis' nonchalance, Vaughan is more than a legend.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>BB King - Live in Nice, 1979</programmetitle>
+    <programmenumber>1496</programmenumber>
+    <yearofrelease>1979</yearofrelease>
+    <directorname/>
+    <castname>BB King</castname>
+    <scheduledate>01092023</scheduledate>
+    <schedulestarttime>06:42</schedulestarttime>
+    <scheduleendtime>06:50</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>BB King shows all the dimensions of his art: 300% blues flirting with jazz, soul and rhythm &amp; blues.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Melingo w/ Juliette &amp; V. Capossela</programmetitle>
+    <programmenumber>548</programmenumber>
+    <yearofrelease>2014</yearofrelease>
+    <directorname/>
+    <castname>Daniel Melingo</castname>
+    <scheduledate>01092023</scheduledate>
+    <schedulestarttime>06:50</schedulestarttime>
+    <scheduleendtime>06:55</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Welcome to Melingo's surrealist cabaret, which tells the poetry of the shallows, of love &amp; vagabond pathways. </synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+  <schedule>
+    <programmetitle>Eric Bibb - Blues Brother</programmetitle>
+    <programmenumber>1863</programmenumber>
+    <yearofrelease>2017</yearofrelease>
+    <directorname/>
+    <castname>Eric Bibb</castname>
+    <scheduledate>01092023</scheduledate>
+    <schedulestarttime>06:55</schedulestarttime>
+    <scheduleendtime>06:57</scheduleendtime>
+    <classification>NR</classification>
+    <synopsis1>Eric Bibb delivers himself with an open heart and it becomes clear that he is, in fact, a true blues brother.</synopsis1>
+    <synopsis2/>
+    <synopsis3/>
+    <genre/>
+    <colour/>
+    <country/>
+    <language>English</language>
+  </schedule>
+
+
 
   <!-- ... other schedule elements ... -->
 </root>
@@ -23837,9 +49202,10 @@ const scheduleElements = xmlDoc.querySelectorAll("schedule");
   }
 } */
 
-var d = new Date();
+// Obtient la date de début de la première semaine
+const startDate = new Date(); // Remplacez les valeurs ici par les jours/mois/années souhaités
 
-for (var j = d.getDate(); j < d.getDate() + 7; j++) {
+for (var j = 0; j < 7; j++) {
   // Crée une array pour stocker les données de la première semaine
   const deuxWeekData = [];
 
@@ -23847,29 +49213,25 @@ for (var j = d.getDate(); j < d.getDate() + 7; j++) {
   scheduleElements.forEach((schedule) => {
     const date = schedule.querySelector("scheduledate").textContent;
 
+    // Obtient la date au format "JJMMAAAA" de la semaine en cours
+    const weekDate = new Date(startDate);
+    weekDate.setDate(startDate.getDate() + j);
+    const weekDateFormatted = `${weekDate
+      .getDate()
+      .toString()
+      .padStart(2, "0")}${(weekDate.getMonth() + 1)
+      .toString()
+      .padStart(2, "0")}${weekDate.getFullYear()}`;
+
     // Vérifie si la date appartient à la première semaine
-    if (
-      date.startsWith(
-        j < 10
-          ? "0" +
-              j +
-              (d.getMonth() + 1 < 10
-                ? "0" + (d.getMonth() + 1)
-                : d.getMonth() + 1)
-          : j +
-              (d.getMonth() + 1 < 10
-                ? "0" + (d.getMonth() + 1)
-                : d.getMonth() + 1)
-      )
-    ) {
-      // Remplacez '0107' par la date de début de la première semaine
+    if (date.startsWith(weekDateFormatted)) {
       const scheduleData = extractScheduleData(schedule);
       deuxWeekData.push(scheduleData);
     }
   });
 
   // Récupérer l'élément avec l'ID "test"
-  var element = document.getElementById("test" + (j - (d.getDate() - 1)));
+  var element = document.getElementById("test" + (j + 1));
 
   // Parcourir le tableau de personnes
   for (var i = 0; i < deuxWeekData.length; i++) {
